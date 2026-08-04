@@ -1,0 +1,503 @@
+{"id": "fxbench-1", "intent_cells": {"direct_intent": ["G5"], "data_description": ["B5", "C5"], "data_range": [], "intent": "Bearing angle between two coordinate points"}, "source": "gpt-5.2"}
+{"id": "fxbench-2", "intent_cells": {"direct_intent": ["G1", "A2"], "data_description": [], "data_range": ["B2:B11", "A2:A11"], "intent": "Absolute difference from country average value"}, "source": "gpt-5.2"}
+{"id": "fxbench-3", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": ["C9:C10"], "intent": "Absolute deviation from two-row average scaled by B9"}, "source": "gpt-5.2"}
+{"id": "fxbench-4", "intent_cells": {"direct_intent": ["W9"], "data_description": ["W8", "T7", "W7"], "data_range": [], "intent": "Calculate headwind component"}, "source": "gpt-5.2"}
+{"id": "fxbench-5", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": [], "intent": "Absolute ratio of J value to D value"}, "source": "gpt-5.2"}
+{"id": "fxbench-6", "intent_cells": {"direct_intent": ["G1"], "data_description": ["E1"], "data_range": [], "intent": "Absolute value of negative amounts"}, "source": "gpt-5.2"}
+{"id": "fxbench-7", "intent_cells": {"direct_intent": ["V2"], "data_description": ["Q3", "R3", "S3"], "data_range": ["Q6:S6"], "intent": "Range of 28 day strength results"}, "source": "gpt-5.2"}
+{"id": "fxbench-8", "intent_cells": {"direct_intent": ["V1"], "data_description": ["F1", "H1"], "data_range": ["F2:F7", "H2:H7"], "intent": "Weekly range between highest high and lowest low"}, "source": "gpt-5.2"}
+{"id": "fxbench-9", "intent_cells": {"direct_intent": ["C18", "D6"], "data_description": ["D6", "C8:C17"], "data_range": ["D8:D17"], "intent": "X-axis repeatability across runs in micrometers"}, "source": "gpt-5.2"}
+{"id": "fxbench-10", "intent_cells": {"direct_intent": ["I2", "H38"], "data_description": ["I2"], "data_range": ["I3:I35"], "intent": "Range of sine-based diameter differences in inches"}, "source": "gpt-5.2"}
+{"id": "fxbench-11", "intent_cells": {"direct_intent": ["B31"], "data_description": ["D8"], "data_range": ["D9:D20"], "intent": "Gap to the next higher Col 2 value"}, "source": "gpt-5.2"}
+{"id": "fxbench-12", "intent_cells": {"direct_intent": ["C1"], "data_description": ["A1", "B1"], "data_range": [], "intent": "Hours slept between bedtime and wake time"}, "source": "gpt-5.2"}
+{"id": "fxbench-13", "intent_cells": {"direct_intent": ["M1"], "data_description": ["D1", "J1"], "data_range": [], "intent": "Absolute difference between Time A and Time B milliseconds"}, "source": "gpt-5.2"}
+{"id": "fxbench-14", "intent_cells": {"direct_intent": ["M3", "K4"], "data_description": ["K3"], "data_range": ["B:B", "K:K", "F:F"], "intent": "Absolute total value summed for the stock code"}, "source": "gpt-5.2"}
+{"id": "fxbench-15", "intent_cells": {"direct_intent": ["D61"], "data_description": ["D57", "D58", "D59", "D60"], "data_range": ["B58:B60"], "intent": "Credits still needed after planned totals"}, "source": "gpt-5.2"}
+{"id": "fxbench-16", "intent_cells": {"direct_intent": ["A60"], "data_description": ["A56"], "data_range": ["E58:BK58"], "intent": "Cumulative margin required"}, "source": "gpt-5.2"}
+{"id": "fxbench-17", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": ["AC58:BK58"], "intent": "Absolute total of values across row 58"}, "source": "gpt-5.2"}
+{"id": "fxbench-18", "intent_cells": {"direct_intent": ["AB3"], "data_description": ["X3", "Y3", "Z3", "AA3"], "data_range": ["X4:AA4"], "intent": "Absolute aggregate of summary statistics"}, "source": "gpt-5.2"}
+{"id": "fxbench-19", "intent_cells": {"direct_intent": ["N3"], "data_description": ["K3", "K1"], "data_range": [], "intent": "Absolute difference between worked and expected time"}, "source": "gpt-5.2"}
+{"id": "fxbench-20", "intent_cells": {"direct_intent": ["K5"], "data_description": ["E5", "J5"], "data_range": [], "intent": "Absolute stop distance for forward contract"}, "source": "gpt-5.2"}
+{"id": "fxbench-21", "intent_cells": {"direct_intent": ["U7"], "data_description": ["S7", "T7"], "data_range": [], "intent": "Absolute difference between actual and desired portfolio percentage"}, "source": "gpt-5.2"}
+{"id": "fxbench-22", "intent_cells": {"direct_intent": ["O11"], "data_description": ["G11", "N11"], "data_range": [], "intent": "Squared absolute error between experimental and calculated pressure"}, "source": "gpt-5.2"}
+{"id": "fxbench-23", "intent_cells": {"direct_intent": ["I1", "A2"], "data_description": ["E1", "L1", "D1", "H1", "B1", "G1"], "data_range": [], "intent": "Accrued bond interest at purchase date"}, "source": "gpt-5.2"}
+{"id": "fxbench-24", "intent_cells": {"direct_intent": ["E2"], "data_description": ["C2", "D2"], "data_range": [], "intent": "Distance in kilometers from previous GPS point"}, "source": "gpt-5.2"}
+{"id": "fxbench-25", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-26", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-27", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-28", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-29", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-30", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-31", "intent_cells": {"direct_intent": ["I1"], "data_description": [], "data_range": [], "intent": "Checks D is blank and today is after C date"}, "source": "gpt-5.2"}
+{"id": "fxbench-32", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-33", "intent_cells": {"direct_intent": ["G2", "B4"], "data_description": ["E2", "B2"], "data_range": [], "intent": "Flag whether the month should be reported"}, "source": "gpt-5.2"}
+{"id": "fxbench-34", "intent_cells": {"direct_intent": ["H1"], "data_description": ["B1"], "data_range": ["B2:B2", "B2:B7"], "intent": "Flags first product with the highest cost"}, "source": "gpt-5.2"}
+{"id": "fxbench-35", "intent_cells": {"direct_intent": ["C1"], "data_description": ["B1"], "data_range": [], "intent": "Detects a sign change during a decrease"}, "source": "gpt-5.2"}
+{"id": "fxbench-36", "intent_cells": {"direct_intent": ["D47", "E47"], "data_description": ["E46"], "data_range": [], "intent": "Theta calculated as arctangent of x over y"}, "source": "gpt-5.2"}
+{"id": "fxbench-37", "intent_cells": {"direct_intent": ["D12", "A14"], "data_description": ["B1", "C1", "D1", "E1", "F1", "A3"], "data_range": [], "intent": "Average very satisfied percentage across all events"}, "source": "gpt-5.2"}
+{"id": "fxbench-38", "intent_cells": {"direct_intent": ["FR6"], "data_description": [], "data_range": [], "intent": "Average score across dynamically selected monthly range"}, "source": "gpt-5.2"}
+{"id": "fxbench-39", "intent_cells": {"direct_intent": ["M7"], "data_description": ["D2:AD2"], "data_range": ["D3:AD3"], "intent": "Average of second most recent twelve data points"}, "source": "gpt-5.2"}
+{"id": "fxbench-40", "intent_cells": {"direct_intent": ["P1", "A2"], "data_description": ["B1:M1", "A2"], "data_range": ["B2:M2"], "intent": "Average of the last two nonzero monthly values"}, "source": "gpt-5.2"}
+{"id": "fxbench-41", "intent_cells": {"direct_intent": ["A18"], "data_description": ["B1"], "data_range": ["B2:B17"], "intent": "Average of the top four Vancouver values"}, "source": "gpt-5.2"}
+{"id": "fxbench-42", "intent_cells": {"direct_intent": ["Z2", "V3"], "data_description": ["E2"], "data_range": ["E3:E50"], "intent": "Average of the top ten nonzero scores"}, "source": "gpt-5.2"}
+{"id": "fxbench-43", "intent_cells": {"direct_intent": [], "data_description": ["A3", "B2:AF2"], "data_range": ["B3:AF3"], "intent": "Average of the last 14 values in New row"}, "source": "gpt-5.2"}
+{"id": "fxbench-44", "intent_cells": {"direct_intent": ["D2", "C9"], "data_description": ["C7", "C8", "D2"], "data_range": ["D7:D7", "D2:D2"], "intent": "Days of stock for June"}, "source": "gpt-5.2"}
+{"id": "fxbench-45", "intent_cells": {"direct_intent": ["H3"], "data_description": ["G3", "D3"], "data_range": [], "intent": "Average monthly kilometers since in-service date"}, "source": "gpt-5.2"}
+{"id": "fxbench-46", "intent_cells": {"direct_intent": ["E25", "D26"], "data_description": ["E2", "I2"], "data_range": ["E3:E23", "I3:I23"], "intent": "Average starting amps for side A or low status"}, "source": "gpt-5.2"}
+{"id": "fxbench-47", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": [], "intent": "Average of values from three parks"}, "source": "gpt-5.2"}
+{"id": "fxbench-48", "intent_cells": {"direct_intent": ["L15", "K15"], "data_description": ["I1", "B1:H1"], "data_range": ["I:I", "B:H", "B1:H1"], "intent": "Average monthly value for selected index"}, "source": "gpt-5.2"}
+{"id": "fxbench-49", "intent_cells": {"direct_intent": ["M3"], "data_description": ["L2"], "data_range": ["L3:L454"], "intent": "Average of the top seven values in column L"}, "source": "gpt-5.2"}
+{"id": "fxbench-50", "intent_cells": {"direct_intent": ["C1", "A2"], "data_description": ["A1"], "data_range": ["Film!$E$2:$E$20000", "Film!$AI$2:$AI$20000"], "intent": "Average film score for the selected director"}, "source": "gpt-5.2"}
+{"id": "fxbench-51", "intent_cells": {"direct_intent": ["T6"], "data_description": [], "data_range": ["AC:AC", "AB:AB"], "intent": "Average positions held during the year"}, "source": "gpt-5.2"}
+{"id": "fxbench-52", "intent_cells": {"direct_intent": ["F4"], "data_description": ["A4", "B3"], "data_range": ["A:A", "B:B"], "intent": "Average value within the prior rounded time window"}, "source": "gpt-5.2"}
+{"id": "fxbench-53", "intent_cells": {"direct_intent": ["U3"], "data_description": ["B3", "C3", "D3", "E3", "F3", "M3", "N3", "O3", "P3", "Q3", "S3", "T3"], "data_range": ["B4:Q4"], "intent": "Average trial values within half-IQR bounds"}, "source": "gpt-5.2"}
+{"id": "fxbench-54", "intent_cells": {"direct_intent": ["B2", "A10"], "data_description": ["B2", "A4"], "data_range": ["B4:B9"], "intent": "Subtotal for Project M rounded to nearest 0.5"}, "source": "gpt-5.2"}
+{"id": "fxbench-55", "intent_cells": {"direct_intent": ["M36", "D37"], "data_description": ["L36", "G36", "I36"], "data_range": [], "intent": "Rounded total of planned, overhead, and interest costs"}, "source": "gpt-5.2"}
+{"id": "fxbench-56", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-57", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-58", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": [], "intent": "Annual emissions based on selected input factors"}, "source": "gpt-5.2"}
+{"id": "fxbench-59", "intent_cells": {"direct_intent": ["H3"], "data_description": ["H2"], "data_range": [], "intent": "ASCII code of last character"}, "source": "gpt-5.2"}
+{"id": "fxbench-60", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-61", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-62", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-63", "intent_cells": {"direct_intent": ["H1"], "data_description": ["G1"], "data_range": [], "intent": "Formats total weight loss into stones and pounds"}, "source": "gpt-5.2"}
+{"id": "fxbench-64", "intent_cells": {"direct_intent": ["D10"], "data_description": ["C3", "D37"], "data_range": ["C4:C37"], "intent": "Confidence interval margin of error for the mean"}, "source": "gpt-5.2"}
+{"id": "fxbench-65", "intent_cells": {"direct_intent": ["H3"], "data_description": ["G3", "H3"], "data_range": [], "intent": "Marathon pace per kilometer"}, "source": "gpt-5.2"}
+{"id": "fxbench-66", "intent_cells": {"direct_intent": ["P3", "P4", "P5", "O7"], "data_description": ["C5", "D2", "D3", "D4", "D5"], "data_range": ["C6:C228", "D6:D228"], "intent": "Correlation between NBSK and Uncoated Free Sheet prices"}, "source": "gpt-5.2"}
+{"id": "fxbench-67", "intent_cells": {"direct_intent": ["E61"], "data_description": [], "data_range": [], "intent": "Cosine of angle w"}, "source": "gpt-5.2"}
+{"id": "fxbench-68", "intent_cells": {"direct_intent": ["E35"], "data_description": [], "data_range": [], "intent": "Cosine of latitude"}, "source": "gpt-5.2"}
+{"id": "fxbench-69", "intent_cells": {"direct_intent": ["U1", "G2"], "data_description": ["J1", "K1", "L1", "M1", "N1", "O1", "P1", "Q1"], "data_range": ["J2:Q2"], "intent": "Count numeric results across country primary columns"}, "source": "gpt-5.2"}
+{"id": "fxbench-70", "intent_cells": {"direct_intent": ["D1"], "data_description": ["B1", "C1"], "data_range": ["B$3:B3", "C$3:C3"], "intent": "Projected active census at each admission date"}, "source": "gpt-5.2"}
+{"id": "fxbench-71", "intent_cells": {"direct_intent": ["L1"], "data_description": ["E1"], "data_range": ["E2:E9"], "intent": "Count divided by sum of positive concentrations"}, "source": "gpt-5.2"}
+{"id": "fxbench-72", "intent_cells": {"direct_intent": ["C17", "F3"], "data_description": ["C3", "F3"], "data_range": ["F5:H13", "C5:C13"], "intent": "Count of numbers matching the selected person’s criteria"}, "source": "gpt-5.2"}
+{"id": "fxbench-73", "intent_cells": {"direct_intent": ["AI6"], "data_description": [], "data_range": ["January!C7:AG7"], "intent": "Total non-sick, non-pickup days recorded for the employee"}, "source": "gpt-5.2"}
+{"id": "fxbench-74", "intent_cells": {"direct_intent": ["C33"], "data_description": ["A28", "C28:C32"], "data_range": ["D28:D32"], "intent": "Percentage of completed weekly responses"}, "source": "gpt-5.2"}
+{"id": "fxbench-75", "intent_cells": {"direct_intent": ["H7", "G13"], "data_description": ["P19", "H7", "G8", "G9", "G10", "G11", "G12"], "data_range": ["P20:P1048576", "H8:H12"], "intent": "Count of descriptions not matching listed criteria"}, "source": "gpt-5.2"}
+{"id": "fxbench-76", "intent_cells": {"direct_intent": ["E4", "A39"], "data_description": ["E4"], "data_range": ["E8:E38"], "intent": "Count of non-detect fecal coliform samples"}, "source": "gpt-5.2"}
+{"id": "fxbench-77", "intent_cells": {"direct_intent": ["A18"], "data_description": ["A1"], "data_range": ["A2:A15"], "intent": "Count of teachers listed for the subject"}, "source": "gpt-5.2"}
+{"id": "fxbench-78", "intent_cells": {"direct_intent": ["F1"], "data_description": ["A3"], "data_range": ["A4:A37"], "intent": "Number of qualifying games"}, "source": "gpt-5.2"}
+{"id": "fxbench-79", "intent_cells": {"direct_intent": ["A13", "B11"], "data_description": [], "data_range": ["'Rent Roll'!A3:A1048576"], "intent": "Count of units listed in rent roll"}, "source": "gpt-5.2"}
+{"id": "fxbench-80", "intent_cells": {"direct_intent": ["A48", "B2"], "data_description": ["B2"], "data_range": ["B3:B33"], "intent": "Count blank entries in the column"}, "source": "gpt-5.2"}
+{"id": "fxbench-81", "intent_cells": {"direct_intent": ["F1"], "data_description": ["E1", "A1", "B1"], "data_range": ["E2:E2"], "intent": "Running backlog count for the current week"}, "source": "gpt-5.2"}
+{"id": "fxbench-82", "intent_cells": {"direct_intent": ["H6"], "data_description": [], "data_range": ["F3:T500", "U3:U500"], "intent": "Net change in closed and completed tasks between sheets"}, "source": "gpt-5.2"}
+{"id": "fxbench-83", "intent_cells": {"direct_intent": ["R2", "H3"], "data_description": ["I2", "J2", "K2", "L2", "M2", "H2"], "data_range": ["I3:M20", "Q3:Q3", "G1:G2"], "intent": "Count future-dated entries for the item"}, "source": "gpt-5.2"}
+{"id": "fxbench-84", "intent_cells": {"direct_intent": ["E8", "D9"], "data_description": ["D8"], "data_range": ["B2:B22"], "intent": "Count occurrences matching the selected day period"}, "source": "gpt-5.2"}
+{"id": "fxbench-85", "intent_cells": {"direct_intent": ["M2", "K10"], "data_description": ["B1"], "data_range": ["B3:B17"], "intent": "Count of Sunday staff matching selected shift criteria"}, "source": "gpt-5.2"}
+{"id": "fxbench-86", "intent_cells": {"direct_intent": ["M2", "L3"], "data_description": ["A2", "L2"], "data_range": ["A3:A40"], "intent": "Count of reference value in column A range"}, "source": "gpt-5.2"}
+{"id": "fxbench-87", "intent_cells": {"direct_intent": ["F11"], "data_description": ["B1", "A2:A7"], "data_range": ["B2:B7"], "intent": "Counts products that share the highest cost"}, "source": "gpt-5.2"}
+{"id": "fxbench-88", "intent_cells": {"direct_intent": ["B24", "A25"], "data_description": ["A4"], "data_range": ["B4:CX4"], "intent": "Count shifts starting at specific time for employee"}, "source": "gpt-5.2"}
+{"id": "fxbench-89", "intent_cells": {"direct_intent": ["C2", "B3"], "data_description": ["C12"], "data_range": ["C13:C10000"], "intent": "Count of present days for the person"}, "source": "gpt-5.2"}
+{"id": "fxbench-90", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-91", "intent_cells": {"direct_intent": ["O7", "N8"], "data_description": ["D1", "G1", "N5", "N7"], "data_range": ["D2:D100", "G2:G100"], "intent": "Count downtime transactions per hour for selected date"}, "source": "gpt-5.2"}
+{"id": "fxbench-92", "intent_cells": {"direct_intent": ["C34"], "data_description": ["E1", "B1"], "data_range": ["E1:E26", "B1:B26"], "intent": "Count of new customers in selected month"}, "source": "gpt-5.2"}
+{"id": "fxbench-93", "intent_cells": {"direct_intent": ["E1", "D2"], "data_description": ["A1", "B1", "D1"], "data_range": ["A2:A337", "B2:B337", "D2:D2"], "intent": "Count customers in amount bucket by segment"}, "source": "gpt-5.2"}
+{"id": "fxbench-94", "intent_cells": {"direct_intent": ["P9", "N11"], "data_description": ["P9", "N5"], "data_range": ["D10:D297", "F10:F297"], "intent": "Count of NTU readings above threshold in the month"}, "source": "gpt-5.2"}
+{"id": "fxbench-95", "intent_cells": {"direct_intent": ["M3"], "data_description": ["D13", "K13"], "data_range": ["D14:D1006", "K14:K1006"], "intent": "Count days with earnings between $2 and $3"}, "source": "gpt-5.2"}
+{"id": "fxbench-96", "intent_cells": {"direct_intent": ["J17", "G19"], "data_description": ["D3", "C3"], "data_range": ["D5:D93", "C5:C93"], "intent": "Count players with NE decision and code ending in 2"}, "source": "gpt-5.2"}
+{"id": "fxbench-97", "intent_cells": {"direct_intent": ["L1", "A2"], "data_description": ["D1", "F1", "G1"], "data_range": [], "intent": "Next coupon payment date after purchase"}, "source": "gpt-5.2"}
+{"id": "fxbench-98", "intent_cells": {"direct_intent": ["M1", "A2"], "data_description": ["D1", "F1", "G1"], "data_range": [], "intent": "Previous coupon payment date before settlement"}, "source": "gpt-5.2"}
+{"id": "fxbench-99", "intent_cells": {"direct_intent": ["G2", "B3"], "data_description": ["E2", "D2", "F2", "B5"], "data_range": [], "intent": "Cumulative interest paid from month 1 to 36"}, "source": "gpt-5.2"}
+{"id": "fxbench-100", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-101", "intent_cells": {"direct_intent": ["H2"], "data_description": ["D2", "F2"], "data_range": [], "intent": "Create date for first day of given month and year"}, "source": "gpt-5.2"}
+{"id": "fxbench-102", "intent_cells": {"direct_intent": ["C1"], "data_description": ["A1", "B1"], "data_range": [], "intent": "Derive hire date from pulled date and service length"}, "source": "gpt-5.2"}
+{"id": "fxbench-103", "intent_cells": {"direct_intent": ["D1"], "data_description": ["A1"], "data_range": [], "intent": "Convert text date into a real date value"}, "source": "gpt-5.2"}
+{"id": "fxbench-104", "intent_cells": {"direct_intent": ["E10", "F1"], "data_description": ["A1", "F1"], "data_range": [], "intent": "First day of the column’s month in start year"}, "source": "gpt-5.2"}
+{"id": "fxbench-105", "intent_cells": {"direct_intent": ["B1"], "data_description": ["A1"], "data_range": [], "intent": "Convert movement timestamp into a date"}, "source": "gpt-5.2"}
+{"id": "fxbench-106", "intent_cells": {"direct_intent": ["J2"], "data_description": ["I2"], "data_range": [], "intent": "Payment month based on completion date"}, "source": "gpt-5.2"}
+{"id": "fxbench-107", "intent_cells": {"direct_intent": ["B14", "A15"], "data_description": ["A1", "A10"], "data_range": ["A2:A7"], "intent": "Years since oldest account opened"}, "source": "gpt-5.2"}
+{"id": "fxbench-108", "intent_cells": {"direct_intent": ["K6"], "data_description": [], "data_range": [], "intent": "Months since employment start date"}, "source": "gpt-5.2"}
+{"id": "fxbench-109", "intent_cells": {"direct_intent": ["Q18", "P20"], "data_description": ["L3"], "data_range": ["L4:L16"], "intent": "Years since newest account was opened"}, "source": "gpt-5.2"}
+{"id": "fxbench-110", "intent_cells": {"direct_intent": ["C6", "A7"], "data_description": ["B6"], "data_range": [], "intent": "Years of service as of current year start"}, "source": "gpt-5.2"}
+{"id": "fxbench-111", "intent_cells": {"direct_intent": ["J1"], "data_description": ["B1", "B2"], "data_range": [], "intent": "Student age in years and months"}, "source": "gpt-5.2"}
+{"id": "fxbench-112", "intent_cells": {"direct_intent": ["D5"], "data_description": ["C5", "Y6"], "data_range": [], "intent": "Years employed as of a specific date"}, "source": "gpt-5.2"}
+{"id": "fxbench-113", "intent_cells": {"direct_intent": ["F1"], "data_description": ["C1"], "data_range": [], "intent": "Extract date from first join timestamp"}, "source": "gpt-5.2"}
+{"id": "fxbench-114", "intent_cells": {"direct_intent": ["D1"], "data_description": ["A1"], "data_range": [], "intent": "Convert text date into a date value"}, "source": "gpt-5.2"}
+{"id": "fxbench-115", "intent_cells": {"direct_intent": ["C1"], "data_description": ["A1"], "data_range": [], "intent": "Convert received date text into Excel serial date-time"}, "source": "gpt-5.2"}
+{"id": "fxbench-116", "intent_cells": {"direct_intent": ["W3"], "data_description": ["V3"], "data_range": [], "intent": "Number of days in the given month"}, "source": "gpt-5.2"}
+{"id": "fxbench-117", "intent_cells": {"direct_intent": ["D18"], "data_description": ["D15"], "data_range": [], "intent": "Number of days in the pay month"}, "source": "gpt-5.2"}
+{"id": "fxbench-118", "intent_cells": {"direct_intent": ["R1"], "data_description": [], "data_range": [], "intent": "Day number of today's date"}, "source": "gpt-5.2"}
+{"id": "fxbench-119", "intent_cells": {"direct_intent": ["L1"], "data_description": ["G1"], "data_range": [], "intent": "Day of month from start datetime"}, "source": "gpt-5.2"}
+{"id": "fxbench-120", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-121", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-122", "intent_cells": {"direct_intent": ["H2"], "data_description": ["E2"], "data_range": [], "intent": "Days since submission date using 360-day year"}, "source": "gpt-5.2"}
+{"id": "fxbench-123", "intent_cells": {"direct_intent": ["L20", "H21"], "data_description": ["K20", "I20", "H21"], "data_range": [], "intent": "Central angle from chord length and radius"}, "source": "gpt-5.2"}
+{"id": "fxbench-124", "intent_cells": {"direct_intent": ["A3"], "data_description": ["B1", "E7", "G7", "I7"], "data_range": ["A7:I30", "B1:B2"], "intent": "Maximum sick leave for selected year"}, "source": "gpt-5.2"}
+{"id": "fxbench-125", "intent_cells": {"direct_intent": ["B14", "A16"], "data_description": ["K14", "L14"], "data_range": ["'Employee Data'!$A$1:$P$405", "K14:L16", "B15:B15"], "intent": "Base salary for Administration department"}, "source": "gpt-5.2"}
+{"id": "fxbench-126", "intent_cells": {"direct_intent": ["R1"], "data_description": ["E1", "D1", "G1"], "data_range": [], "intent": "Most recent coupon payment date before purchase"}, "source": "gpt-5.2"}
+{"id": "fxbench-127", "intent_cells": {"direct_intent": ["G2"], "data_description": ["B2", "C2"], "data_range": [], "intent": "Lease end date based on start date and tenure"}, "source": "gpt-5.2"}
+{"id": "fxbench-128", "intent_cells": {"direct_intent": ["M23"], "data_description": ["M18", "M22"], "data_range": [], "intent": "Exponential forecast based on slope and X value"}, "source": "gpt-5.2"}
+{"id": "fxbench-129", "intent_cells": {"direct_intent": ["P1"], "data_description": ["O1", "M1", "N1"], "data_range": [], "intent": "Black-Scholes call option delta"}, "source": "gpt-5.2"}
+{"id": "fxbench-130", "intent_cells": {"direct_intent": ["G14", "I11"], "data_description": ["B10", "G13", "I11"], "data_range": [], "intent": "Discount factor for period using continuous compounding"}, "source": "gpt-5.2"}
+{"id": "fxbench-131", "intent_cells": {"direct_intent": ["B19", "D19"], "data_description": ["B17", "B18"], "data_range": [], "intent": "Calculate saturation vapor pressure es"}, "source": "gpt-5.2"}
+{"id": "fxbench-132", "intent_cells": {"direct_intent": ["X1"], "data_description": ["W1"], "data_range": [], "intent": "Exponentiated LnTrips for Model (8)"}, "source": "gpt-5.2"}
+{"id": "fxbench-133", "intent_cells": {"direct_intent": ["F3"], "data_description": ["B3", "C3", "D3", "E3", "L4", "M4", "L5", "M5"], "data_range": ["L11:L28"], "intent": "Calculate total office hours between onsite and offsite times"}, "source": "gpt-5.2"}
+{"id": "fxbench-134", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-135", "intent_cells": {"direct_intent": ["C11"], "data_description": ["A3", "A4", "H4", "I4", "J4", "K4", "L4"], "data_range": ["H4:L10", "H4:H10", "H4:L4"], "intent": "Lookup Cv value based on angle and length range"}, "source": "gpt-5.2"}
+{"id": "fxbench-136", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-137", "intent_cells": {"direct_intent": ["L1", "B4"], "data_description": ["E1", "F1", "J1", "L1"], "data_range": [], "intent": "Monthly cost allocated by working days"}, "source": "gpt-5.2"}
+{"id": "fxbench-138", "intent_cells": {"direct_intent": ["I1", "C2"], "data_description": ["G1", "H1"], "data_range": [], "intent": "Amount released after subtracting kept amount"}, "source": "gpt-5.2"}
+{"id": "fxbench-139", "intent_cells": {"direct_intent": ["D1"], "data_description": ["C1"], "data_range": [], "intent": "Time rounded down to nearest hour"}, "source": "gpt-5.2"}
+{"id": "fxbench-140", "intent_cells": {"direct_intent": ["I7"], "data_description": ["C2", "B2", "H2"], "data_range": ["C3:C15", "B3:B15"], "intent": "Interpolated time at specified altitude"}, "source": "gpt-5.2"}
+{"id": "fxbench-141", "intent_cells": {"direct_intent": ["E1", "A3"], "data_description": ["B1", "C1"], "data_range": ["B2:B28", "C2:C28"], "intent": "Forecast value using historical X and Y data"}, "source": "gpt-5.2"}
+{"id": "fxbench-142", "intent_cells": {"direct_intent": ["A9"], "data_description": ["D12", "E12"], "data_range": ["E13:E14", "D13:D14"], "intent": "Forecast baggage arm from baggage weight"}, "source": "gpt-5.2"}
+{"id": "fxbench-143", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-144", "intent_cells": {"direct_intent": ["F6"], "data_description": ["A17", "A19", "D6", "A8"], "data_range": ["D8:D8"], "intent": "Inflated future value of IL yearly fees"}, "source": "gpt-5.2"}
+{"id": "fxbench-145", "intent_cells": {"direct_intent": ["E10"], "data_description": ["A6", "D10"], "data_range": [], "intent": "Future value of six-installment price per square meter"}, "source": "gpt-5.2"}
+{"id": "fxbench-146", "intent_cells": {"direct_intent": ["F6", "E9"], "data_description": ["A17", "F6"], "data_range": [], "intent": "Future value of IL yearly fees with inflation"}, "source": "gpt-5.2"}
+{"id": "fxbench-147", "intent_cells": {"direct_intent": ["B7"], "data_description": ["B3", "B4", "B5", "B6"], "data_range": [], "intent": "Future value of net rent over lease term"}, "source": "gpt-5.2"}
+{"id": "fxbench-148", "intent_cells": {"direct_intent": ["A12", "B1"], "data_description": ["A2", "A4", "A5", "A6", "A11"], "data_range": [], "intent": "Inflation-adjusted future value at retirement"}, "source": "gpt-5.2"}
+{"id": "fxbench-149", "intent_cells": {"direct_intent": ["B1", "A9"], "data_description": ["A2", "A4", "A5", "A6", "A7"], "data_range": [], "intent": "Inflation-adjusted future value of retirement savings"}, "source": "gpt-5.2"}
+{"id": "fxbench-150", "intent_cells": {"direct_intent": ["F1"], "data_description": ["A1", "C1", "D1"], "data_range": ["C9:C31", "D9:D31"], "intent": "Indexed value of principal from start date to today"}, "source": "gpt-5.2"}
+{"id": "fxbench-151", "intent_cells": {"direct_intent": ["G2", "B3"], "data_description": ["C2", "D2", "B3"], "data_range": [], "intent": "Greatest common divisor of students and managers"}, "source": "gpt-5.2"}
+{"id": "fxbench-152", "intent_cells": {"direct_intent": ["C31"], "data_description": ["B31", "B21", "B24", "C24"], "data_range": ["D24:G29", "B26:B29"], "intent": "Commission rate per unit based on target and units sold"}, "source": "gpt-5.2"}
+{"id": "fxbench-153", "intent_cells": {"direct_intent": ["H10", "F13"], "data_description": ["Y10", "Z10", "F14"], "data_range": ["Y14:Z14", "'Operational Characteristics'!C5:F13"], "intent": "Lookup net turbine rating based on selected conditions"}, "source": "gpt-5.2"}
+{"id": "fxbench-154", "intent_cells": {"direct_intent": ["C14"], "data_description": ["F41", "G40"], "data_range": ["IDC!H40:L56"], "intent": "Percentage drawn based on turbine delivery schedule"}, "source": "gpt-5.2"}
+{"id": "fxbench-155", "intent_cells": {"direct_intent": ["H10"], "data_description": ["F10", "A1"], "data_range": ["C2:I4"], "intent": "Calculate total show dollars using pay plan rate"}, "source": "gpt-5.2"}
+{"id": "fxbench-156", "intent_cells": {"direct_intent": ["L6"], "data_description": ["E7", "F7"], "data_range": [], "intent": "Hours between start and end times"}, "source": "gpt-5.2"}
+{"id": "fxbench-157", "intent_cells": {"direct_intent": ["H2"], "data_description": ["G2"], "data_range": [], "intent": "Billable time rounded to tenths of an hour"}, "source": "gpt-5.2"}
+{"id": "fxbench-158", "intent_cells": {"direct_intent": ["E1"], "data_description": ["C1"], "data_range": [], "intent": "Convert N time to decimal hours"}, "source": "gpt-5.2"}
+{"id": "fxbench-159", "intent_cells": {"direct_intent": ["Q4"], "data_description": ["I5"], "data_range": [], "intent": "Convert total time to decimal hours"}, "source": "gpt-5.2"}
+{"id": "fxbench-160", "intent_cells": {"direct_intent": ["A8", "B4"], "data_description": ["A7"], "data_range": [], "intent": "Convert daily time to decimal hours"}, "source": "gpt-5.2"}
+{"id": "fxbench-161", "intent_cells": {"direct_intent": ["F24"], "data_description": ["F24"], "data_range": [], "intent": "Convert total time to decimal hours"}, "source": "gpt-5.2"}
+{"id": "fxbench-162", "intent_cells": {"direct_intent": ["G7"], "data_description": ["E7", "F7"], "data_range": [], "intent": "Hours worked between start and end times"}, "source": "gpt-5.2"}
+{"id": "fxbench-163", "intent_cells": {"direct_intent": ["D1"], "data_description": ["A1", "B1"], "data_range": [], "intent": "Hour difference between UTC and MST times"}, "source": "gpt-5.2"}
+{"id": "fxbench-164", "intent_cells": {"direct_intent": ["N55", "M57"], "data_description": ["C61"], "data_range": [], "intent": "Hour component of the current date and time"}, "source": "gpt-5.2"}
+{"id": "fxbench-165", "intent_cells": {"direct_intent": [], "data_description": ["P3", "S3", "AQ5", "AS5", "AU5", "AX5", "BA8", "BC8"], "data_range": [], "intent": "Calculate discounted child charge based on age eligibility"}, "source": "gpt-5.2"}
+{"id": "fxbench-166", "intent_cells": {"direct_intent": ["B23", "C10"], "data_description": ["B20", "B21", "C11"], "data_range": ["I21:X21", "C20:H20", "Y20:Z20", "I20:X20", "C20:H21", "Y20:Z21", "I20:X21", "C20:Z20", "Y21:Z21", "C21:H21"], "intent": "Day-ahead decremental quantity by hour and scenario"}, "source": "gpt-5.2"}
+{"id": "fxbench-167", "intent_cells": {"direct_intent": ["I25"], "data_description": ["A1", "G1"], "data_range": ["A2:A100", "G2:G100", "B100:INDEX(G2:G100, LARGE(ROW(G2:G100)*ISNUMBER(G2:G100), 20))"], "intent": "Calculate current handicap index from recent stroke differentials"}, "source": "gpt-5.2"}
+{"id": "fxbench-168", "intent_cells": {"direct_intent": ["G19"], "data_description": ["H11", "H15"], "data_range": [], "intent": "Percent difference between South and South duplicate averages"}, "source": "gpt-5.2"}
+{"id": "fxbench-169", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-170", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-171", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-172", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-173", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-174", "intent_cells": {"direct_intent": ["E17", "A18"], "data_description": ["B9", "A10"], "data_range": ["B10:C13", "A10:A13"], "intent": "Lookup cases per pallet based on item pack type"}, "source": "gpt-5.2"}
+{"id": "fxbench-175", "intent_cells": {"direct_intent": ["H4"], "data_description": ["B1", "H2"], "data_range": ["A2:A13", "B2:B13"], "intent": "Interpolated LY value for the selected time"}, "source": "gpt-5.2"}
+{"id": "fxbench-176", "intent_cells": {"direct_intent": ["E25"], "data_description": ["A1", "B1"], "data_range": ["B2:Y14", "C26:C26"], "intent": "Employee name with the nth highest revenue"}, "source": "gpt-5.2"}
+{"id": "fxbench-177", "intent_cells": {"direct_intent": ["E50"], "data_description": ["C48"], "data_range": ["42:42"], "intent": "Nominal value at velocity closest to target"}, "source": "gpt-5.2"}
+{"id": "fxbench-178", "intent_cells": {"direct_intent": ["E3", "A4"], "data_description": ["B3", "C3", "A1"], "data_range": [], "intent": "Total experience combining previous experience and service tenure"}, "source": "gpt-5.2"}
+{"id": "fxbench-179", "intent_cells": {"direct_intent": ["A10"], "data_description": ["A9"], "data_range": [], "intent": "Convert decimal bearing to degrees minutes seconds"}, "source": "gpt-5.2"}
+{"id": "fxbench-180", "intent_cells": {"direct_intent": ["A17", "B14"], "data_description": ["A1", "B1", "C1"], "data_range": ["B2:B7", "C2:C7", "A2:A7"], "intent": "Average account age expressed in years"}, "source": "gpt-5.2"}
+{"id": "fxbench-181", "intent_cells": {"direct_intent": ["C12", "A13"], "data_description": ["B6", "A7"], "data_range": [], "intent": "Whole years of service since date joined"}, "source": "gpt-5.2"}
+{"id": "fxbench-182", "intent_cells": {"direct_intent": ["A26"], "data_description": ["A25"], "data_range": [], "intent": "Convert total ounces into pounds and ounces"}, "source": "gpt-5.2"}
+{"id": "fxbench-183", "intent_cells": {"direct_intent": ["C1", "A5"], "data_description": ["B1"], "data_range": [], "intent": "Calculate employee age in years"}, "source": "gpt-5.2"}
+{"id": "fxbench-184", "intent_cells": {"direct_intent": ["D8"], "data_description": ["C5", "C6", "C3"], "data_range": ["D5:M5", "D6:M6", "D3"], "intent": "Years to recover investment cost"}, "source": "gpt-5.2"}
+{"id": "fxbench-185", "intent_cells": {"direct_intent": ["K5", "J6"], "data_description": [], "data_range": ["Sheet4!$D$5:$D$65"], "intent": "Y-intercept of linear trend in data"}, "source": "gpt-5.2"}
+{"id": "fxbench-186", "intent_cells": {"direct_intent": ["F1", "A2"], "data_description": ["B1", "C1", "D1", "A6"], "data_range": ["B2:D2", "B6:D6"], "intent": "Linear regression intercept for solenoid 1"}, "source": "gpt-5.2"}
+{"id": "fxbench-187", "intent_cells": {"direct_intent": ["E30"], "data_description": ["E23"], "data_range": ["F23:K23", "F22:K22"], "intent": "Y-intercept of sales trendline over time"}, "source": "gpt-5.2"}
+{"id": "fxbench-188", "intent_cells": {"direct_intent": ["A10"], "data_description": ["B10", "F10"], "data_range": [], "intent": "Interest portion of loan payment for the period"}, "source": "gpt-5.2"}
+{"id": "fxbench-189", "intent_cells": {"direct_intent": ["E1", "A3"], "data_description": ["C1", "D1"], "data_range": ["C3:C4"], "intent": "Cumulative internal rate of return to date"}, "source": "gpt-5.2"}
+{"id": "fxbench-190", "intent_cells": {"direct_intent": ["A28"], "data_description": [], "data_range": ["A29:U29"], "intent": "Internal rate of return of project cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-191", "intent_cells": {"direct_intent": ["A8"], "data_description": ["A1", "D10"], "data_range": ["C1", "D11:D47"], "intent": "Implicit internal rate of return for the payment schedule"}, "source": "gpt-5.2"}
+{"id": "fxbench-192", "intent_cells": {"direct_intent": ["B14", "A15"], "data_description": ["A2", "B2", "C2", "D2"], "data_range": ["A3:A11", "B3:B11", "C3:C11", "D3:D11"], "intent": "Select score per student using date and error rules"}, "source": "gpt-5.2"}
+{"id": "fxbench-193", "intent_cells": {"direct_intent": ["C15", "A16"], "data_description": ["B2:O2", "A14"], "data_range": ["B3:O11", "A3:A11"], "intent": "Nth largest product value for selected code"}, "source": "gpt-5.2"}
+{"id": "fxbench-194", "intent_cells": {"direct_intent": ["M6", "J5"], "data_description": ["B3", "G3"], "data_range": ["B4:B49", "G4:G49", "M7:M7"], "intent": "Nth largest savings for the selected site"}, "source": "gpt-5.2"}
+{"id": "fxbench-195", "intent_cells": {"direct_intent": ["A6"], "data_description": ["A2", "A3"], "data_range": ["B2:F2", "B3:F3"], "intent": "Quantity corresponding to the lowest supplier price"}, "source": "gpt-5.2"}
+{"id": "fxbench-196", "intent_cells": {"direct_intent": ["L2"], "data_description": ["C2"], "data_range": ["C2:C22"], "intent": "Nth largest value from the value list"}, "source": "gpt-5.2"}
+{"id": "fxbench-197", "intent_cells": {"direct_intent": ["K1", "I4"], "data_description": ["A1", "C1", "J1", "K1"], "data_range": ["A2:A13", "C2:C13", "J2:K2"], "intent": "Nth largest quantity for the selected customer"}, "source": "gpt-5.2"}
+{"id": "fxbench-198", "intent_cells": {"direct_intent": ["G17"], "data_description": ["A1", "B1"], "data_range": ["A2:A14", "B2:T14"], "intent": "Highest revenue value across all employees and years"}, "source": "gpt-5.2"}
+{"id": "fxbench-199", "intent_cells": {"direct_intent": ["F3"], "data_description": ["B3", "C3", "D3"], "data_range": ["A4:D4"], "intent": "Previous high value above current Person_2 value"}, "source": "gpt-5.2"}
+{"id": "fxbench-200", "intent_cells": {"direct_intent": ["M6", "L5"], "data_description": ["B6", "C6", "B3", "D3", "H6"], "data_range": ["B7:B29", "C7:C29"], "intent": "Nth longest warning duration within selected date range"}, "source": "gpt-5.2"}
+{"id": "fxbench-201", "intent_cells": {"direct_intent": ["E2"], "data_description": ["A2", "B2", "D2"], "data_range": ["A3:A42", "B3:B42"], "intent": "Maximum speed for the selected KP"}, "source": "gpt-5.2"}
+{"id": "fxbench-202", "intent_cells": {"direct_intent": ["E17"], "data_description": ["B17", "C17"], "data_range": ["C18:C21", "B18:B21", "A1:C1"], "intent": "Polynomial regression coefficients for y versus x"}, "source": "gpt-5.2"}
+{"id": "fxbench-203", "intent_cells": {"direct_intent": ["A14"], "data_description": ["A11", "A12"], "data_range": ["B12:K12", "B11:K11"], "intent": "Polynomial regression coefficients for calculated values"}, "source": "gpt-5.2"}
+{"id": "fxbench-204", "intent_cells": {"direct_intent": ["S23", "S24"], "data_description": ["N23", "N24"], "data_range": [], "intent": "Logarithmic return from monthly return"}, "source": "gpt-5.2"}
+{"id": "fxbench-205", "intent_cells": {"direct_intent": ["F48", "G46"], "data_description": ["G46"], "data_range": [], "intent": "Natural logarithm of M"}, "source": "gpt-5.2"}
+{"id": "fxbench-206", "intent_cells": {"direct_intent": ["I9"], "data_description": ["G9"], "data_range": [], "intent": "Base-10 logarithm of k"}, "source": "gpt-5.2"}
+{"id": "fxbench-207", "intent_cells": {"direct_intent": [], "data_description": ["O5", "D6:L6"], "data_range": ["D6:L6"], "intent": "Determine age band from a single age input"}, "source": "gpt-5.2"}
+{"id": "fxbench-208", "intent_cells": {"direct_intent": ["K5"], "data_description": ["A4", "D4", "J5"], "data_range": ["A6:A14", "D6:D14"], "intent": "Deduction based on shortage amount and excess rate"}, "source": "gpt-5.2"}
+{"id": "fxbench-209", "intent_cells": {"direct_intent": ["A7"], "data_description": ["F5", "G5", "H5", "I5"], "data_range": ["F6:I6", "Q:Q", "R:R"], "intent": "Lookup rate card based on total fee turnover"}, "source": "gpt-5.2"}
+{"id": "fxbench-210", "intent_cells": {"direct_intent": ["I9", "F10"], "data_description": ["A2", "B2", "G9", "H9"], "data_range": ["A3:A100", "B3:B100"], "intent": "Row number matching selected year and calendar week"}, "source": "gpt-5.2"}
+{"id": "fxbench-211", "intent_cells": {"direct_intent": ["M1"], "data_description": ["J1", "J2"], "data_range": ["B:B"], "intent": "Row number of selected peak value"}, "source": "gpt-5.2"}
+{"id": "fxbench-212", "intent_cells": {"direct_intent": ["L6"], "data_description": ["E3"], "data_range": ["E4:E795"], "intent": "Row position of last entered water meter value"}, "source": "gpt-5.2"}
+{"id": "fxbench-213", "intent_cells": {"direct_intent": ["Q15", "P15"], "data_description": ["C2", "D2", "M1", "E1"], "data_range": ["D3:D10", "C3:C10", "M3:M10"], "intent": "Monthly allocated shares for selected fund"}, "source": "gpt-5.2"}
+{"id": "fxbench-214", "intent_cells": {"direct_intent": ["F32"], "data_description": ["B32", "C32", "D32", "E32", "J32", "K32", "I10"], "data_range": ["J11:J28"], "intent": "Total office hours worked between onsite and offsite times"}, "source": "gpt-5.2"}
+{"id": "fxbench-215", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-216", "intent_cells": {"direct_intent": ["B1", "A2"], "data_description": ["G1"], "data_range": ["G2:G3", "G3:G310"], "intent": "Highest moving average for P"}, "source": "gpt-5.2"}
+{"id": "fxbench-217", "intent_cells": {"direct_intent": ["L3", "A4"], "data_description": ["B2:I2", "B3:I3", "J2", "K2"], "data_range": ["B2:I2", "B4:I4"], "intent": "Second-highest score for either WAGC or CMT"}, "source": "gpt-5.2"}
+{"id": "fxbench-218", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-219", "intent_cells": {"direct_intent": ["N7"], "data_description": ["B7", "D7", "M7"], "data_range": [], "intent": "Months depreciated up to given month, capped by holding period"}, "source": "gpt-5.2"}
+{"id": "fxbench-220", "intent_cells": {"direct_intent": ["D1"], "data_description": ["B2"], "data_range": ["B3:B42"], "intent": "First day of month of earliest end date"}, "source": "gpt-5.2"}
+{"id": "fxbench-221", "intent_cells": {"direct_intent": ["F1", "A2"], "data_description": ["D1", "E1", "F1", "A2", "A3", "A4", "A5"], "data_range": ["F1:F1", "E2:E5"], "intent": "Allocate additional shots for player to meet required hit rate"}, "source": "gpt-5.2"}
+{"id": "fxbench-222", "intent_cells": {"direct_intent": ["U1", "A2"], "data_description": ["B1:S1"], "data_range": ["B2:S2"], "intent": "Lowest weekly value for the team"}, "source": "gpt-5.2"}
+{"id": "fxbench-223", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-224", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-225", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-226", "intent_cells": {"direct_intent": ["M57"], "data_description": ["C61"], "data_range": [], "intent": "Minutes component of the current time"}, "source": "gpt-5.2"}
+{"id": "fxbench-227", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-228", "intent_cells": {"direct_intent": ["A15"], "data_description": ["A11", "A7"], "data_range": ["B11:D11", "B7:B9"], "intent": "Matrix product of X transpose and X"}, "source": "gpt-5.2"}
+{"id": "fxbench-229", "intent_cells": {"direct_intent": ["K2"], "data_description": ["B2", "D2", "I2"], "data_range": [], "intent": "Elapsed time between start and end across AM/PM"}, "source": "gpt-5.2"}
+{"id": "fxbench-230", "intent_cells": {"direct_intent": ["N12"], "data_description": ["B11"], "data_range": ["A13:A36", "B13:B36", "A1:A1"], "intent": "Hourly time sequence starting from first nonblank period"}, "source": "gpt-5.2"}
+{"id": "fxbench-231", "intent_cells": {"direct_intent": ["H2"], "data_description": ["E2", "F2"], "data_range": [], "intent": "Night shift hours between 22:00 and 24:00"}, "source": "gpt-5.2"}
+{"id": "fxbench-232", "intent_cells": {"direct_intent": ["C5", "A11"], "data_description": ["C5", "A7", "A9", "A10"], "data_range": ["C8:C10", "C7:C9"], "intent": "Total worked time for the day"}, "source": "gpt-5.2"}
+{"id": "fxbench-233", "intent_cells": {"direct_intent": ["H7"], "data_description": ["F7", "G7"], "data_range": [], "intent": "Elapsed time between start and end"}, "source": "gpt-5.2"}
+{"id": "fxbench-234", "intent_cells": {"direct_intent": ["D5"], "data_description": ["C3"], "data_range": ["C4:C37"], "intent": "Mode of coded Yes/No responses"}, "source": "gpt-5.2"}
+{"id": "fxbench-235", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-236", "intent_cells": {"direct_intent": ["D4", "A6"], "data_description": ["B5", "C5", "D1"], "data_range": [], "intent": "Full months of project within last year"}, "source": "gpt-5.2"}
+{"id": "fxbench-237", "intent_cells": {"direct_intent": ["Q1"], "data_description": [], "data_range": [], "intent": "Current month number from today's date"}, "source": "gpt-5.2"}
+{"id": "fxbench-238", "intent_cells": {"direct_intent": ["D17", "B17"], "data_description": ["A4", "B19", "D19"], "data_range": [], "intent": "Number of months elapsed year-to-date"}, "source": "gpt-5.2"}
+{"id": "fxbench-239", "intent_cells": {"direct_intent": ["E18"], "data_description": ["E16", "E19"], "data_range": ["F16:F17", "E16:E17"], "intent": "Rounded straight work time after subtracting overtime"}, "source": "gpt-5.2"}
+{"id": "fxbench-240", "intent_cells": {"direct_intent": ["E19", "A21"], "data_description": ["A22", "A23"], "data_range": [], "intent": "Reduced days based on FTE and monthly reduction"}, "source": "gpt-5.2"}
+{"id": "fxbench-241", "intent_cells": {"direct_intent": ["E29"], "data_description": ["E16", "E27"], "data_range": [], "intent": "Biweekly total hours rounded to 15 minutes"}, "source": "gpt-5.2"}
+{"id": "fxbench-242", "intent_cells": {"direct_intent": ["AB2", "C3"], "data_description": ["D2", "E2", "F2", "G2", "H2", "I2", "J2", "K2", "L2", "M2", "N2", "O2", "P2", "Q2", "R2", "S2", "T2", "U2"], "data_range": ["D3:D28", "E3:E28", "F3:F28", "G3:G28", "H3:H28", "I3:I28", "J3:J28", "K3:K28", "L3:L28", "M3:M28", "N3:N28", "O3:O28", "P3:P28", "Q3:Q28", "R3:R28", "S3:S28", "T3:T28", "U3:U28"], "intent": "Counts skins won by player across all holes"}, "source": "gpt-5.2"}
+{"id": "fxbench-243", "intent_cells": {"direct_intent": ["E2", "A3"], "data_description": ["C2", "D2"], "data_range": [], "intent": "Number of working days between start and end date"}, "source": "gpt-5.2"}
+{"id": "fxbench-244", "intent_cells": {"direct_intent": ["D23"], "data_description": ["C23"], "data_range": ["D1:D1"], "intent": "Remaining working days in month weighted by utilization"}, "source": "gpt-5.2"}
+{"id": "fxbench-245", "intent_cells": {"direct_intent": ["E1", "A2"], "data_description": ["B1", "D1"], "data_range": [], "intent": "Business days between order and completion dates"}, "source": "gpt-5.2"}
+{"id": "fxbench-246", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-247", "intent_cells": {"direct_intent": ["M4"], "data_description": ["M3", "M6", "M2", "M5"], "data_range": [], "intent": "Number of months to repay the loan"}, "source": "gpt-5.2"}
+{"id": "fxbench-248", "intent_cells": {"direct_intent": ["E4"], "data_description": ["F3", "F6"], "data_range": ["F11:F33", "F7:F10"], "intent": "Net present value of projected cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-249", "intent_cells": {"direct_intent": ["AN3", "AN4", "AJ6"], "data_description": ["AN4", "AJ6", "AN5"], "data_range": ["AN8:AN45"], "intent": "Net present value of floating cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-250", "intent_cells": {"direct_intent": ["M3"], "data_description": ["K3", "L3"], "data_range": ["K4:K51"], "intent": "Net present value of MTM cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-251", "intent_cells": {"direct_intent": ["A36"], "data_description": ["A34"], "data_range": ["E34:N34"], "intent": "Present value of projected free cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-252", "intent_cells": {"direct_intent": ["B72"], "data_description": [], "data_range": ["'Cash Flow'!F67:AJ67"], "intent": "Net present value of after-tax cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-253", "intent_cells": {"direct_intent": ["E3"], "data_description": ["A1", "B1"], "data_range": ["B2:B17", "A2:A17"], "intent": "R-squared of Pearson correlation between ln(Y) and X"}, "source": "gpt-5.2"}
+{"id": "fxbench-254", "intent_cells": {"direct_intent": ["J1", "J2"], "data_description": ["I3"], "data_range": ["E:E"], "intent": "95th percentile of column E values"}, "source": "gpt-5.2"}
+{"id": "fxbench-255", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-256", "intent_cells": {"direct_intent": ["B1", "A11"], "data_description": ["A2", "A4", "A5", "A6"], "data_range": [], "intent": "Inflation-adjusted monthly payment over remaining years"}, "source": "gpt-5.2"}
+{"id": "fxbench-257", "intent_cells": {"direct_intent": ["F16"], "data_description": ["C7", "A16", "C8", "C6"], "data_range": [], "intent": "Principal portion of each mortgage payment"}, "source": "gpt-5.2"}
+{"id": "fxbench-258", "intent_cells": {"direct_intent": ["N1", "A2"], "data_description": ["D1", "F1", "H1", "K1", "B1", "G1"], "data_range": [], "intent": "Bond dirty buy price calculated from yield to maturity"}, "source": "gpt-5.2"}
+{"id": "fxbench-259", "intent_cells": {"direct_intent": ["A9"], "data_description": ["A1", "A2", "A3", "A4", "A5", "A6", "A7"], "data_range": [], "intent": "Calculate bond price from yield and bond terms"}, "source": "gpt-5.2"}
+{"id": "fxbench-260", "intent_cells": {"direct_intent": ["A11"], "data_description": ["F4", "A7", "A8"], "data_range": ["F6:F8"], "intent": "Total time-weighted return over the period"}, "source": "gpt-5.2"}
+{"id": "fxbench-261", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": [], "intent": "Present value of 18-period payment stream"}, "source": "gpt-5.2"}
+{"id": "fxbench-262", "intent_cells": {"direct_intent": ["A11"], "data_description": ["A2", "A3", "A5", "A6", "A7"], "data_range": [], "intent": "Present value of bond cash flows"}, "source": "gpt-5.2"}
+{"id": "fxbench-263", "intent_cells": {"direct_intent": ["N2", "K4"], "data_description": ["S16", "W16"], "data_range": ["W17:W500", "S17:S500"], "intent": "Lower quartile of credits gained for non‑Māori students"}, "source": "gpt-5.2"}
+{"id": "fxbench-264", "intent_cells": {"direct_intent": ["A5", "B1"], "data_description": [], "data_range": ["BATE!$C$2:$C$807"], "intent": "Third quartile of BATE values"}, "source": "gpt-5.2"}
+{"id": "fxbench-265", "intent_cells": {"direct_intent": ["L2", "K4"], "data_description": ["S16"], "data_range": ["S17:S500"], "intent": "Lower quartile of total credits gained"}, "source": "gpt-5.2"}
+{"id": "fxbench-266", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-267", "intent_cells": {"direct_intent": ["G4", "B5"], "data_description": ["C4"], "data_range": ["C5:C5", "C5:C15"], "intent": "Rank of this person's Score 1 among all scores"}, "source": "gpt-5.2"}
+{"id": "fxbench-268", "intent_cells": {"direct_intent": ["F13"], "data_description": ["A7"], "data_range": [], "intent": "Implied growth rate over four periods"}, "source": "gpt-5.2"}
+{"id": "fxbench-269", "intent_cells": {"direct_intent": ["F7"], "data_description": ["B7", "E7"], "data_range": [], "intent": "Extract year from document filename"}, "source": "gpt-5.2"}
+{"id": "fxbench-270", "intent_cells": {"direct_intent": ["W1"], "data_description": ["A1"], "data_range": ["A2:A30"], "intent": "Extract win count from player information text"}, "source": "gpt-5.2"}
+{"id": "fxbench-271", "intent_cells": {"direct_intent": ["A8"], "data_description": ["A5", "A6"], "data_range": [], "intent": "Straight-line distance from east and north deltas"}, "source": "gpt-5.2"}
+{"id": "fxbench-272", "intent_cells": {"direct_intent": ["I4"], "data_description": ["H4", "F4"], "data_range": [], "intent": "Average pins per game rounded down"}, "source": "gpt-5.2"}
+{"id": "fxbench-273", "intent_cells": {"direct_intent": ["C12", "A13"], "data_description": ["E12", "B12"], "data_range": [], "intent": "Rounded-down quantity from funds divided by unit price"}, "source": "gpt-5.2"}
+{"id": "fxbench-274", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": ["K19:K21"], "intent": "Rounded total of component values"}, "source": "gpt-5.2"}
+{"id": "fxbench-275", "intent_cells": {"direct_intent": ["I5"], "data_description": ["I4"], "data_range": [], "intent": "Period number derived from week number"}, "source": "gpt-5.2"}
+{"id": "fxbench-276", "intent_cells": {"direct_intent": ["A25"], "data_description": ["A16", "A22", "A15", "A23"], "data_range": [], "intent": "Regular loan payment with balloon balance"}, "source": "gpt-5.2"}
+{"id": "fxbench-277", "intent_cells": {"direct_intent": ["A29"], "data_description": ["A16", "A22", "A15", "A23"], "data_range": [], "intent": "Regular loan payment with balloon final balance"}, "source": "gpt-5.2"}
+{"id": "fxbench-278", "intent_cells": {"direct_intent": ["C24", "D3"], "data_description": ["D3", "B3"], "data_range": ["D4:D19", "B4:B19"], "intent": "R-squared between ln(y) and X"}, "source": "gpt-5.2"}
+{"id": "fxbench-279", "intent_cells": {"direct_intent": ["E38"], "data_description": ["E36"], "data_range": [], "intent": "Sine of half the angle Theta"}, "source": "gpt-5.2"}
+{"id": "fxbench-280", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": ["E22", "F22", "G22"], "intent": "Straight-line depreciation over ten years"}, "source": "gpt-5.2"}
+{"id": "fxbench-281", "intent_cells": {"direct_intent": ["K2"], "data_description": ["H3", "D2", "E2"], "data_range": ["B:E", "B:B"], "intent": "Third bucket lowest value for the selected group"}, "source": "gpt-5.2"}
+{"id": "fxbench-282", "intent_cells": {"direct_intent": ["C2"], "data_description": ["A1", "B1"], "data_range": ["A2:A20", "B2:B20", "C2:C2"], "intent": "Nth smallest amount for a specific movement reason"}, "source": "gpt-5.2"}
+{"id": "fxbench-283", "intent_cells": {"direct_intent": ["H1", "G2"], "data_description": ["A1", "B1", "G1"], "data_range": ["A2:A500", "B2:B500"], "intent": "Lowest price for the selected product"}, "source": "gpt-5.2"}
+{"id": "fxbench-284", "intent_cells": {"direct_intent": ["B2", "A22"], "data_description": ["B2"], "data_range": ["B3:B18"], "intent": "Lowest nonzero score for Test 1"}, "source": "gpt-5.2"}
+{"id": "fxbench-285", "intent_cells": {"direct_intent": ["D10", "E16"], "data_description": ["A10", "C10", "H1", "E15"], "data_range": ["C11:C37", "A11:A37"], "intent": "Standard deviation of the distribution"}, "source": "gpt-5.2"}
+{"id": "fxbench-286", "intent_cells": {"direct_intent": ["M2", "I3"], "data_description": ["J2", "K2"], "data_range": [], "intent": "Delta-V at point b for orbit transfer"}, "source": "gpt-5.2"}
+{"id": "fxbench-287", "intent_cells": {"direct_intent": ["F5"], "data_description": ["D1"], "data_range": ["D6:D17"], "intent": "Annualised volatility of trailing 12 monthly returns"}, "source": "gpt-5.2"}
+{"id": "fxbench-288", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-289", "intent_cells": {"direct_intent": ["B1"], "data_description": ["B1"], "data_range": ["B2:B7"], "intent": "Subtotal of listed prices"}, "source": "gpt-5.2"}
+{"id": "fxbench-290", "intent_cells": {"direct_intent": ["E1"], "data_description": ["F2"], "data_range": ["F3:F9"], "intent": "Sum of visible credit amounts"}, "source": "gpt-5.2"}
+{"id": "fxbench-291", "intent_cells": {"direct_intent": [], "data_description": ["H4"], "data_range": [], "intent": "Sum selected capacity subtotals with valid numeric flags"}, "source": "gpt-5.2"}
+{"id": "fxbench-292", "intent_cells": {"direct_intent": ["F33"], "data_description": ["D4:BD4"], "data_range": ["D4:BD4"], "intent": "Six-week payroll costs for selected month"}, "source": "gpt-5.2"}
+{"id": "fxbench-293", "intent_cells": {"direct_intent": ["Q8", "C12"], "data_description": ["C12"], "data_range": ["E12:P12", "E13:P13"], "intent": "Adjusted total of Attribut5 excluding invalid months"}, "source": "gpt-5.2"}
+{"id": "fxbench-294", "intent_cells": {"direct_intent": ["D3"], "data_description": ["B6", "C6"], "data_range": ["B7:B82", "C7:C82"], "intent": "Total loan payoff balance including final interest"}, "source": "gpt-5.2"}
+{"id": "fxbench-295", "intent_cells": {"direct_intent": ["B11"], "data_description": ["M43"], "data_range": ["M44:M112"], "intent": "Ratio of total gains to total losses"}, "source": "gpt-5.2"}
+{"id": "fxbench-296", "intent_cells": {"direct_intent": ["C27"], "data_description": ["D23", "F23", "K23", "O23"], "data_range": ["D27:O27"], "intent": "Average of non-zero counts across columns"}, "source": "gpt-5.2"}
+{"id": "fxbench-297", "intent_cells": {"direct_intent": ["H1", "E2"], "data_description": ["A1", "C1"], "data_range": ["A2:A23", "C2:C23"], "intent": "Sum of values for the specified week number"}, "source": "gpt-5.2"}
+{"id": "fxbench-298", "intent_cells": {"direct_intent": ["I12"], "data_description": ["H12", "E12"], "data_range": ["H13:H13", "E13:E13"], "intent": "Year-to-date interest for the current year"}, "source": "gpt-5.2"}
+{"id": "fxbench-299", "intent_cells": {"direct_intent": ["I2", "B3"], "data_description": [], "data_range": ["'WR Data'!$J$3:$J$3996", "'WR Data'!$G$3:$G$3996"], "intent": "Total work hours for the selected month"}, "source": "gpt-5.2"}
+{"id": "fxbench-300", "intent_cells": {"direct_intent": ["H15", "F17"], "data_description": ["A1", "B1", "D1"], "data_range": ["D2:D534", "A2:A534", "B2:B534"], "intent": "Sum of returns matching two selected variable values"}, "source": "gpt-5.2"}
+{"id": "fxbench-301", "intent_cells": {"direct_intent": ["P2", "O3"], "data_description": ["C1", "D1:M1", "B1", "T1", "P1", "Q1"], "data_range": ["C2:C100", "D1:M1", "B2:B100", "T3:X3", "D2:M100"], "intent": "Total quantity for selected fruit, countries, and date range"}, "source": "gpt-5.2"}
+{"id": "fxbench-302", "intent_cells": {"direct_intent": ["W2"], "data_description": ["U2"], "data_range": ["U4:U4"], "intent": "Squared error for BP forecast"}, "source": "gpt-5.2"}
+{"id": "fxbench-303", "intent_cells": {"direct_intent": ["I16"], "data_description": ["G2", "B2"], "data_range": ["G6:G15", "B6:B15"], "intent": "Mean squared error between forecast and sales"}, "source": "gpt-5.2"}
+{"id": "fxbench-304", "intent_cells": {"direct_intent": ["J1"], "data_description": ["E1"], "data_range": [], "intent": "Convert scheduled departure time to Excel time value"}, "source": "gpt-5.2"}
+{"id": "fxbench-305", "intent_cells": {"direct_intent": ["J1"], "data_description": ["B1"], "data_range": [], "intent": "Extract time portion from logged-in datetime"}, "source": "gpt-5.2"}
+{"id": "fxbench-306", "intent_cells": {"direct_intent": [], "data_description": [], "data_range": [], "intent": "Copy value from K31 using transpose"}, "source": "gpt-5.2"}
+{"id": "fxbench-307", "intent_cells": {"direct_intent": ["B47"], "data_description": ["E43"], "data_range": [], "intent": "Extract race class value from class text"}, "source": "gpt-5.2"}
+{"id": "fxbench-308", "intent_cells": {"direct_intent": ["E1"], "data_description": ["D1"], "data_range": [], "intent": "Extract outcode from postcode"}, "source": "gpt-5.2"}
+{"id": "fxbench-309", "intent_cells": {"direct_intent": ["H5", "G6"], "data_description": ["B1", "C1"], "data_range": ["B2:B61", "C2:C61"], "intent": "Trimmed mean time for selected task type"}, "source": "gpt-5.2"}
+{"id": "fxbench-310", "intent_cells": {"direct_intent": ["J1", "A2"], "data_description": ["C1", "E1", "G1", "I1"], "data_range": [], "intent": "Earliest activity date attended"}, "source": "gpt-5.2"}
+{"id": "fxbench-311", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-312", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-313", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-314", "intent_cells": {"direct_intent": ["C32"], "data_description": ["A32", "B32"], "data_range": [], "intent": "Fiscal year derived from date and fiscal month"}, "source": "gpt-5.2"}
+{"id": "fxbench-315", "intent_cells": {"direct_intent": ["A14"], "data_description": ["A2", "A3", "A5", "A11", "A7", "A9"], "data_range": [], "intent": "Yield to maturity of the bond"}, "source": "gpt-5.2"}
+{"id": "fxbench-316", "intent_cells": {"direct_intent": ["D1", "C4", "B4"], "data_description": [], "data_range": [], "intent": "Total PTO hours used in October for Provider 2"}, "source": "gpt-5.2"}
+{"id": "fxbench-317", "intent_cells": {"direct_intent": ["J3"], "data_description": ["J1", "J2"], "data_range": ["'Aux2'!C3:Z3"], "intent": "Counts duty time falling within unsociable hours window"}, "source": "gpt-5.2"}
+{"id": "fxbench-318", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-319", "intent_cells": {"direct_intent": ["A26", "B3"], "data_description": ["B3", "A3"], "data_range": ["B4:B23"], "intent": "Count of records older than 12 months"}, "source": "gpt-5.2"}
+{"id": "fxbench-320", "intent_cells": {"direct_intent": ["E3", "C34"], "data_description": ["B3", "C32", "C33"], "data_range": ["B4:B31", "E32:E33"], "intent": "Count of used vehicles excluding car and commercial"}, "source": "gpt-5.2"}
+{"id": "fxbench-321", "intent_cells": {"direct_intent": ["H8"], "data_description": ["F8", "G8"], "data_range": ["B:B"], "intent": "Count values in column B within specified range"}, "source": "gpt-5.2"}
+{"id": "fxbench-322", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-323", "intent_cells": {"direct_intent": ["C3", "A6"], "data_description": ["AM1", "AM3"], "data_range": ["AM4:BM4", "AM4:AM4", "AM2:AM2"], "intent": "Average of lowest eight differentials for the person"}, "source": "gpt-5.2"}
+{"id": "fxbench-324", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-325", "intent_cells": {"direct_intent": ["H4", "B5"], "data_description": ["G4", "D4"], "data_range": [], "intent": "Determine bill payment status based on payment and due date"}, "source": "gpt-5.2"}
+{"id": "fxbench-326", "intent_cells": {"direct_intent": ["B2"], "data_description": [], "data_range": [], "intent": "Extract barrier draw number from runner description"}, "source": "gpt-5.2"}
+{"id": "fxbench-327", "intent_cells": {"direct_intent": ["A7"], "data_description": ["A5"], "data_range": ["D5:G5"], "intent": "Generate sequential trend day label"}, "source": "gpt-5.2"}
+{"id": "fxbench-328", "intent_cells": {"direct_intent": ["J21"], "data_description": ["D6"], "data_range": ["D7", "A38"], "intent": "Time remaining until tide is done"}, "source": "gpt-5.2"}
+{"id": "fxbench-329", "intent_cells": {"direct_intent": ["G2"], "data_description": ["A2", "D2"], "data_range": ["D3:D8", "A3:A9"], "intent": "Lookup full part description by part number"}, "source": "gpt-5.2"}
+{"id": "fxbench-330", "intent_cells": {"direct_intent": ["Q2", "A4"], "data_description": ["A4", "K4", "L4", "Q2"], "data_range": ["Data!$E$8:$DQ$14", "Data!$C$8:$C$14", "Data!$E$1:$DQ$1"], "intent": "Calculate 2021 volume for material by month and year"}, "source": "gpt-5.2"}
+{"id": "fxbench-331", "intent_cells": {"direct_intent": ["CT9"], "data_description": ["CU10", "CS9"], "data_range": [], "intent": "Difference between upper score and interval value"}, "source": "gpt-5.2"}
+{"id": "fxbench-332", "intent_cells": {"direct_intent": ["G20", "H20"], "data_description": ["B6"], "data_range": [], "intent": "Weight-based magnesium sulphate dose with maximum limit"}, "source": "gpt-5.2"}
+{"id": "fxbench-333", "intent_cells": {"direct_intent": ["D25", "A26"], "data_description": ["A12", "B12", "C12", "D12:H12"], "data_range": ["D13:H20", "A13:A20", "B13:B20", "C13:C20", "D12:H12"], "intent": "Lookup expected benefit cost for selected employee coverage"}, "source": "gpt-5.2"}
+{"id": "fxbench-334", "intent_cells": {"direct_intent": ["C1"], "data_description": [], "data_range": ["C$2:C2", "'ABC I 2019'!$D:$P", "'ABC II 2019'!$D:$P", "'ABC III 2019'!$D:$P", "'ABC I 2020'!$D:$P"], "intent": "Lookup value across ABC year sheets by calculated position"}, "source": "gpt-5.2"}
+{"id": "fxbench-335", "intent_cells": {"direct_intent": ["D6"], "data_description": ["B2", "G1"], "data_range": ["H:H", "G:G"], "intent": "Prorated first-year amount based on start date"}, "source": "gpt-5.2"}
+{"id": "fxbench-336", "intent_cells": {"direct_intent": ["I40", "J26"], "data_description": ["J26"], "data_range": ["J28:J37"], "intent": "Number of staff present on Monday"}, "source": "gpt-5.2"}
+{"id": "fxbench-337", "intent_cells": {"direct_intent": [], "data_description": ["E1", "F1", "T1", "W1"], "data_range": ["W2:W4"], "intent": "Total working hours between requested and solved dates"}, "source": "gpt-5.2"}
+{"id": "fxbench-338", "intent_cells": {"direct_intent": ["I2"], "data_description": ["I2"], "data_range": [], "intent": "Total empty trays remainder after division by nine"}, "source": "gpt-5.2"}
+{"id": "fxbench-339", "intent_cells": {"direct_intent": ["H1", "B4"], "data_description": ["E1", "G1"], "data_range": ["E2:E4"], "intent": "Weighted average yearly return by absolute returns"}, "source": "gpt-5.2"}
+{"id": "fxbench-340", "intent_cells": {"direct_intent": ["I3", "B5"], "data_description": ["B5"], "data_range": ["F5:H5"], "intent": "Total workload from sets x reps"}, "source": "gpt-5.2"}
+{"id": "fxbench-341", "intent_cells": {"direct_intent": ["I3"], "data_description": ["B4", "D4"], "data_range": ["B5:B10000", "D5:D10000"], "intent": "Net amount summed for base field 81 with reversals"}, "source": "gpt-5.2"}
+{"id": "fxbench-342", "intent_cells": {"direct_intent": ["AK4"], "data_description": ["C2", "AJ4"], "data_range": ["C4:AG4", "C3:AG3"], "intent": "Total Sunday night shift hours crossing midnight"}, "source": "gpt-5.2"}
+{"id": "fxbench-343", "intent_cells": {"direct_intent": ["B2"], "data_description": ["B2", "C2", "A3", "A4", "A5", "A6", "A7"], "data_range": ["B3:B7", "C3:C7", "Data!$A$2:$AO$6", "Data!$A$1:$AO$1"], "intent": "Total hours calculated from matched hour and minute inputs"}, "source": "gpt-5.2"}
+{"id": "fxbench-344", "intent_cells": {"direct_intent": ["T2"], "data_description": ["B2", "C2", "D2", "E2", "F2"], "data_range": ["A3:A102", "B2:F2"], "intent": "Count students common to selected three courses"}, "source": "gpt-5.2"}
+{"id": "fxbench-345", "intent_cells": {"direct_intent": ["D30", "A31", "A29"], "data_description": ["G1", "F1", "L1", "K1", "Q1", "P1", "V1", "U1", "W1"], "data_range": ["G2:G27", "F2:F27", "L2:L27", "K2:K27", "Q2:Q27", "P2:P27", "V2:V27", "W2:W27"], "intent": "Total bonuses posted in month for selected year"}, "source": "gpt-5.2"}
+{"id": "fxbench-346", "intent_cells": {"direct_intent": ["V23"], "data_description": ["F5", "G5", "H5", "I5", "J5", "K5", "L5", "E5", "T25", "T26", "T27", "T28", "T29", "T30", "T31", "T23", "T24"], "data_range": ["F6:F204", "G6:G204", "H6:H204", "I6:I204", "J6:J204", "K6:K204", "L6:L204", "E6:E204"], "intent": "Count trades matching criteria within selected time range"}, "source": "gpt-5.2"}
+{"id": "fxbench-347", "intent_cells": {"direct_intent": ["A22"], "data_description": ["A2", "B1"], "data_range": ["A3:A16", "A3:G16", "B1:G1"], "intent": "Lookup location value based on name prefix and date"}, "source": "gpt-5.2"}
+{"id": "fxbench-348", "intent_cells": {"direct_intent": ["B1", "A8"], "data_description": ["A1", "B2:L2"], "data_range": ["A3:L5", "A2:L2", "B2:L2"], "intent": "Vendor share of total for selected month"}, "source": "gpt-5.2"}
+{"id": "fxbench-349", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-350", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-351", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-352", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-353", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-354", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-355", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-356", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-357", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-358", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-359", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-360", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-361", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-362", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-363", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-364", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-365", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-366", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-367", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-368", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-369", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-370", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-371", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-372", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-373", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-374", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-375", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-376", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-377", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-378", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-379", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-380", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-381", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-382", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-383", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-384", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-385", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-386", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-387", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-388", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-389", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-390", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-391", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-392", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-393", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-394", "intent_cells": null, "reason": "empty_formula"}
+{"id": "fxbench-395", "intent_cells": {"direct_intent": ["H3", "G4", "G2"], "data_description": ["A1", "B1"], "data_range": ["A2:A23", "B2:B23"], "intent": "Average Time percentage for Mondays"}, "source": "gpt-5.2"}
+{"id": "fxbench-396", "intent_cells": {"direct_intent": ["D1", "C2"], "data_description": ["A1", "B1"], "data_range": ["A2:A169", "B2:B169"], "intent": "Average of last 20 yards for player"}, "source": "gpt-5.2"}
+{"id": "fxbench-397", "intent_cells": {"direct_intent": ["L7"], "data_description": ["C3", "D2:AD2"], "data_range": ["D3:AD3"], "intent": "Average of latest 12 on-time delivery values"}, "source": "gpt-5.2"}
+{"id": "fxbench-398", "intent_cells": {"direct_intent": ["A20", "B5"], "data_description": ["B5"], "data_range": ["B6:B17"], "intent": "Average temperature for selected rows"}, "source": "gpt-5.2"}
+{"id": "fxbench-399", "intent_cells": {"direct_intent": ["Z2", "V3"], "data_description": ["E2"], "data_range": ["E3:E50"], "intent": "Average of the top ten nonzero scores"}, "source": "gpt-5.2"}
+{"id": "fxbench-400", "intent_cells": {"direct_intent": ["AC5"], "data_description": ["S5", "AC4"], "data_range": ["S6:S31"], "intent": "Moving average of percentage to interview"}, "source": "gpt-5.2"}
+{"id": "fxbench-401", "intent_cells": {"direct_intent": ["P1"], "data_description": ["B1", "M1"], "data_range": ["B2:B23996", "M2:M23996"], "intent": "Average candle range for the same date"}, "source": "gpt-5.2"}
+{"id": "fxbench-402", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-403", "intent_cells": {"direct_intent": ["J4"], "data_description": ["F1", "A1", "D1"], "data_range": ["F2:F184", "A2:A184", "D2:D184"], "intent": "Count partially complete C tasks started before today"}, "source": "gpt-5.2"}
+{"id": "fxbench-404", "intent_cells": {"direct_intent": ["G2", "G3", "F5"], "data_description": [], "data_range": ["A:A", "B:B"], "intent": "Count open events in selected month for person"}, "source": "gpt-5.2"}
+{"id": "fxbench-405", "intent_cells": {"direct_intent": ["M6"], "data_description": ["D13", "K13"], "data_range": ["D14:D1006", "K14:K1006"], "intent": "Count of days with zero earned value"}, "source": "gpt-5.2"}
+{"id": "fxbench-406", "intent_cells": {"direct_intent": ["K1"], "data_description": ["B1"], "data_range": ["B3:H3", "L3:L3"], "intent": "Count of numbers between 1 and 10 in the row"}, "source": "gpt-5.2"}
+{"id": "fxbench-407", "intent_cells": {"direct_intent": ["J1", "I2"], "data_description": ["C1", "F1", "E1", "H1"], "data_range": ["C2:C67", "F2:F67", "E2:E67"], "intent": "Count low-flow pulses in the prior 15 days"}, "source": "gpt-5.2"}
+{"id": "fxbench-408", "intent_cells": {"direct_intent": ["AD15", "B16"], "data_description": ["B15", "C15", "AC15"], "data_range": ["C15:W15", "C16:W16", "AC16:AC16"], "intent": "Count attended days up to Stage 2 date"}, "source": "gpt-5.2"}
+{"id": "fxbench-409", "intent_cells": {"direct_intent": ["M1", "L1"], "data_description": [], "data_range": ["C:C", "F:F"], "intent": "Count patients present during the selected hour"}, "source": "gpt-5.2"}
+{"id": "fxbench-410", "intent_cells": {"direct_intent": ["O7", "N7"], "data_description": ["G1", "N7"], "data_range": ["G2:G6"], "intent": "Count downtime transactions starting within selected hour"}, "source": "gpt-5.2"}
+{"id": "fxbench-411", "intent_cells": {"direct_intent": ["P5"], "data_description": ["Q5", "AS5", "O5", "M5", "K5"], "data_range": [], "intent": "Calculate unit price based on selected unit"}, "source": "gpt-5.2"}
+{"id": "fxbench-412", "intent_cells": {"direct_intent": [], "data_description": ["B4", "H14"], "data_range": [], "intent": "Months difference between valuation date and option start date"}, "source": "gpt-5.2"}
+{"id": "fxbench-413", "intent_cells": {"direct_intent": ["F3"], "data_description": ["B3", "C3", "D3", "E3", "L3", "M3"], "data_range": ["L11:L28"], "intent": "Calculate total office hours between onsite and offsite times"}, "source": "gpt-5.2"}
+{"id": "fxbench-414", "intent_cells": {"direct_intent": ["AA4", "Z5"], "data_description": ["C3"], "data_range": [], "intent": "Count occurrences of code C1 across minute entries"}, "source": "gpt-5.2"}
+{"id": "fxbench-415", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-416", "intent_cells": {"direct_intent": ["V2", "A3"], "data_description": [], "data_range": ["B3:S3"], "intent": "Current win streak since last zero"}, "source": "gpt-5.2"}
+{"id": "fxbench-417", "intent_cells": {"direct_intent": [], "data_description": ["H11", "H15"], "data_range": ["K11", "K15", "L11", "L15"], "intent": "Combined average of South and South duplicate results"}, "source": "gpt-5.2"}
+{"id": "fxbench-418", "intent_cells": {"direct_intent": ["N1"], "data_description": ["J1"], "data_range": [], "intent": "Longest delay without the number 8"}, "source": "gpt-5.2"}
+{"id": "fxbench-419", "intent_cells": {"direct_intent": ["B12", "D6"], "data_description": ["B10", "B11"], "data_range": ["D10:IC10", "D11"], "intent": "Number of days inventory covers future sales targets"}, "source": "gpt-5.2"}
+{"id": "fxbench-420", "intent_cells": {"direct_intent": [], "data_description": ["A430"], "data_range": [], "intent": "Extract time from sent date-time text"}, "source": "gpt-5.2"}
+{"id": "fxbench-421", "intent_cells": {"direct_intent": ["V24"], "data_description": [], "data_range": ["14:14", "17:17", "V13:XFD13", "V17:XFD17", "V:XFD"], "intent": "Lookup 2024 year-to-date high value"}, "source": "gpt-5.2"}
+{"id": "fxbench-422", "intent_cells": {"direct_intent": ["D7"], "data_description": ["G1", "B3"], "data_range": ["H:H", "G:G"], "intent": "Prorated value for the final year based on end date"}, "source": "gpt-5.2"}
+{"id": "fxbench-423", "intent_cells": {"direct_intent": ["J1", "I2"], "data_description": ["A1", "B1", "C1", "D1", "E1", "F1", "G1"], "data_range": ["A2:A8", "C2:G8", "B:B"], "intent": "Country for product with most recent nonzero value"}, "source": "gpt-5.2"}
+{"id": "fxbench-424", "intent_cells": {"direct_intent": ["F2"], "data_description": ["B2", "C2", "L2", "M2"], "data_range": ["L3:L21", "M3:M21"], "intent": "Easting of nearest old data point"}, "source": "gpt-5.2"}
+{"id": "fxbench-425", "intent_cells": {"direct_intent": ["B14"], "data_description": ["H24"], "data_range": ["H25:H391"], "intent": "Most recent recorded weight"}, "source": "gpt-5.2"}
+{"id": "fxbench-426", "intent_cells": {"direct_intent": ["E1", "A7"], "data_description": ["A1", "E1", "F1", "D1"], "data_range": ["A2:A6", "E2:E6", "F2:F6"], "intent": "Updated leave balance after approved leave and accrual"}, "source": "gpt-5.2"}
+{"id": "fxbench-427", "intent_cells": {"direct_intent": ["F2"], "data_description": ["B2", "L2"], "data_range": ["L3:L21"], "intent": "Nearest old easting value to current easting"}, "source": "gpt-5.2"}
+{"id": "fxbench-428", "intent_cells": {"direct_intent": ["F3", "A4"], "data_description": [], "data_range": ["$1:$7"], "intent": "Extract warmest high temperature value"}, "source": "gpt-5.2"}
+{"id": "fxbench-429", "intent_cells": {"direct_intent": ["I2"], "data_description": ["F2", "G2", "B2", "C2", "E2"], "data_range": ["F3:G21", "B3:C3", "E3:E21"], "intent": "Find nearest old gully to new coordinates"}, "source": "gpt-5.2"}
+{"id": "fxbench-430", "intent_cells": {"direct_intent": ["S203"], "data_description": ["O203"], "data_range": ["Q205:Q215", "O205:O215", "N205:N215"], "intent": "Value corresponding to maximum indicator result"}, "source": "gpt-5.2"}
+{"id": "fxbench-431", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-432", "intent_cells": {"direct_intent": ["J1"], "data_description": ["H1"], "data_range": ["B:B"], "intent": "Last row matching the selected item"}, "source": "gpt-5.2"}
+{"id": "fxbench-433", "intent_cells": {"direct_intent": ["L1"], "data_description": ["F1", "G1", "H1", "I1", "J1", "K1"], "data_range": ["G2:K2", "F2"], "intent": "First horizon where price exceeds close by 5 percent"}, "source": "gpt-5.2"}
+{"id": "fxbench-434", "intent_cells": {"direct_intent": ["D50"], "data_description": ["C50", "A3"], "data_range": ["$A$4:$A$46", "A:A"], "intent": "Row number of matching flowrate"}, "source": "gpt-5.2"}
+{"id": "fxbench-435", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-436", "intent_cells": {"direct_intent": ["P15"], "data_description": ["D2", "M1", "E1", "N15", "O15"], "data_range": ["D3:D10", "C3:C10", "M3:M10"], "intent": "Monthly allocated shares for grant A"}, "source": "gpt-5.2"}
+{"id": "fxbench-437", "intent_cells": {"direct_intent": ["H2", "G1", "F3"], "data_description": ["A1", "C1", "D1", "G1", "F3"], "data_range": ["A2:A16", "D2:D16", "C2:C16"], "intent": "Latest out time for person on selected date"}, "source": "gpt-5.2"}
+{"id": "fxbench-438", "intent_cells": {"direct_intent": ["B16", "A30"], "data_description": ["C2", "D2", "B2", "H1"], "data_range": ["H2:H12"], "intent": "January billable hours revenue for contract"}, "source": "gpt-5.2"}
+{"id": "fxbench-439", "intent_cells": {"direct_intent": ["B17"], "data_description": [], "data_range": ["Formulas!T7:T33"], "intent": "Rolling maximum of non-missing values"}, "source": "gpt-5.2"}
+{"id": "fxbench-440", "intent_cells": {"direct_intent": ["H4"], "data_description": ["D20", "D21", "D22", "G4"], "data_range": ["C20:C22", "B20:B22", "A20:A22", "G5"], "intent": "Non-platform time after subtracting earliest start and platform total"}, "source": "gpt-5.2"}
+{"id": "fxbench-441", "intent_cells": {"direct_intent": ["I1"], "data_description": ["E1", "F1"], "data_range": [], "intent": "Hours in full working days between corrected dates"}, "source": "gpt-5.2"}
+{"id": "fxbench-442", "intent_cells": {"direct_intent": ["E3", "B4", "C4"], "data_description": ["B3", "C3"], "data_range": ["Raw!$F$2:$F$1185", "Raw!$E$2:$E$1185", "Raw!$C$2:$C$1185", "Raw!$A$2:$A$1185", "Z2010:Z2021"], "intent": "Highest historical value excluding year 2021"}, "source": "gpt-5.2"}
+{"id": "fxbench-443", "intent_cells": {"direct_intent": ["A28", "B1"], "data_description": ["B1", "B2"], "data_range": ["B3:B26"], "intent": "Minimum non-missing value in the series"}, "source": "gpt-5.2"}
+{"id": "fxbench-444", "intent_cells": {"direct_intent": ["B20"], "data_description": [], "data_range": ["Data!BB7:BB33"], "intent": "Rolling minimum value converted to a percentage"}, "source": "gpt-5.2"}
+{"id": "fxbench-445", "intent_cells": {"direct_intent": ["C20"], "data_description": ["C19"], "data_range": ["Visitors!H21:H24", "Visitors!F21:F24"], "intent": "Total visitors limited by maximum capacity"}, "source": "gpt-5.2"}
+{"id": "fxbench-446", "intent_cells": {"direct_intent": ["F1"], "data_description": ["A1", "B1", "C1", "D1", "E1"], "data_range": ["A3:E3", "A1:E1"], "intent": "Lowest carrier name and rate for 200 shipment"}, "source": "gpt-5.2"}
+{"id": "fxbench-447", "intent_cells": {"direct_intent": ["G4"], "data_description": ["B4"], "data_range": [], "intent": "Days from purchase date to month end capped at 365"}, "source": "gpt-5.2"}
+{"id": "fxbench-448", "intent_cells": {"direct_intent": ["U56", "S70"], "data_description": ["U56"], "data_range": ["U58:U65"], "intent": "Minimum calculated energy consumption value"}, "source": "gpt-5.2"}
+{"id": "fxbench-449", "intent_cells": {"direct_intent": ["J1"], "data_description": ["K1"], "data_range": ["$K$2:K2"], "intent": "Cumulative whole balance capped at one"}, "source": "gpt-5.2"}
+{"id": "fxbench-450", "intent_cells": {"direct_intent": ["A13"], "data_description": ["B2", "C2"], "data_range": ["C3:C9", "B3:B9"], "intent": "Regular hours capped at 40 excluding noted days"}, "source": "gpt-5.2"}
+{"id": "fxbench-451", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-452", "intent_cells": {"direct_intent": ["A28"], "data_description": ["A26", "A30", "A28"], "data_range": [], "intent": "Calculate commission payment with floor and cap"}, "source": "gpt-5.2"}
+{"id": "fxbench-453", "intent_cells": {"direct_intent": ["B2", "A3"], "data_description": ["A3"], "data_range": ["Data!$A$2:$A$26", "Data!F$2:F$26"], "intent": "Average opens for the selected newsletter segment"}, "source": "gpt-5.2"}
+{"id": "fxbench-454", "intent_cells": {"direct_intent": ["X12"], "data_description": ["T5"], "data_range": ["T6:T203"], "intent": "Average positive pips per profitable trade"}, "source": "gpt-5.2"}
+{"id": "fxbench-455", "intent_cells": {"direct_intent": ["M2", "J3"], "data_description": ["F2", "K2", "L2", "M2"], "data_range": ["A:A", "F:F", "K$2:M2"], "intent": "Amount allocated to days 21 through month end"}, "source": "gpt-5.2"}
+{"id": "fxbench-456", "intent_cells": {"direct_intent": ["M8", "C10"], "data_description": ["B8", "L8"], "data_range": ["C10:F34", "L10:L34"], "intent": "Technician share of total QC completions"}, "source": "gpt-5.2"}
+{"id": "fxbench-457", "intent_cells": {"direct_intent": ["F4"], "data_description": ["F3", "J4"], "data_range": ["J3:BB3", "J5:BB5"], "intent": "Scheduled trainees up to today, halved"}, "source": "gpt-5.2"}
+{"id": "fxbench-458", "intent_cells": {"direct_intent": ["G6"], "data_description": ["B1", "D1"], "data_range": ["B2:B27", "D2:D27"], "intent": "Total points possible for items due before today"}, "source": "gpt-5.2"}
+{"id": "fxbench-459", "intent_cells": {"direct_intent": ["C1", "A21"], "data_description": ["C79", "D79"], "data_range": ["D80:D1000", "C80:D1000"], "intent": "Revenue for Owner 1 on selected date"}, "source": "gpt-5.2"}
+{"id": "fxbench-460", "intent_cells": {"direct_intent": ["C30", "A31"], "data_description": ["G1", "L1", "Q1", "V1", "A29"], "data_range": ["G2:G27", "L2:L27", "Q2:Q27", "V2:V27"], "intent": "Count posted closings for month and year"}, "source": "gpt-5.2"}
+{"id": "fxbench-461", "intent_cells": {"direct_intent": ["AB6"], "data_description": ["F29", "AB6", "AB7"], "data_range": ["F30:F98", "AB6:AB7"], "intent": "Count records matching AD or FTS types"}, "source": "gpt-5.2"}
+{"id": "fxbench-462", "intent_cells": {"direct_intent": ["AK4", "A5"], "data_description": ["C2"], "data_range": ["C4:AG4", "C3:AG3"], "intent": "Total hours worked on Sundays"}, "source": "gpt-5.2"}
+{"id": "fxbench-463", "intent_cells": {"direct_intent": ["B38", "A39"], "data_description": [], "data_range": ["A2:A37"], "intent": "Total overs bowled by Baxter"}, "source": "gpt-5.2"}
+{"id": "fxbench-464", "intent_cells": {"direct_intent": ["N12", "N11"], "data_description": ["N12", "N11"], "data_range": ["N13:N17"], "intent": "Combined total of male results as a fraction"}, "source": "gpt-5.2"}
+{"id": "fxbench-465", "intent_cells": {"direct_intent": ["E25"], "data_description": ["C3", "D3", "G26"], "data_range": ["C4:C23", "D4:D23"], "intent": "Total employees for specified employee levels"}, "source": "gpt-5.2"}
+{"id": "fxbench-466", "intent_cells": {"direct_intent": ["D38", "C41"], "data_description": ["D4", "C4", "E4"], "data_range": ["D5:D36", "C5:C36", "E5:E36"], "intent": "Revenue from tickets classified as both retail and service"}, "source": "gpt-5.2"}
+{"id": "fxbench-467", "intent_cells": {"direct_intent": ["F8"], "data_description": ["C1", "B1", "F5", "F6"], "data_range": ["C2:C15", "B2:B15"], "intent": "Weighted average unit cost excluding outliers"}, "source": "gpt-5.2"}
+{"id": "fxbench-468", "intent_cells": {"direct_intent": ["B34"], "data_description": ["I5", "A5"], "data_range": ["I7:I28", "A7:A28"], "intent": "Employee with highest total value"}, "source": "gpt-5.2"}
+{"id": "fxbench-469", "intent_cells": {"direct_intent": [], "data_description": ["E1", "F1", "D1"], "data_range": ["E2:E60", "F2:F60", "D2:D60"], "intent": "Agent group for matching agent and revenue"}, "source": "gpt-5.2"}
+{"id": "fxbench-470", "intent_cells": {"direct_intent": ["C2"], "data_description": [], "data_range": ["Sheet2!$C$4:$H$8"], "intent": "Revenue growth rate for selected scenario and year"}, "source": "gpt-5.2"}
+{"id": "fxbench-471", "intent_cells": {"direct_intent": ["C1"], "data_description": ["A1", "B1", "A11", "B11", "C11"], "data_range": ["A12:A10000"], "intent": "Miles between two locations"}, "source": "gpt-5.2"}
+{"id": "fxbench-472", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-473", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-474", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-475", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-476", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-477", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-478", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-479", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-480", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-481", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-482", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-483", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-484", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-485", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-486", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-487", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-488", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-489", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-490", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-491", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-492", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-493", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-494", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-495", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-496", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-497", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-498", "intent_cells": null, "reason": "no_record_match"}
+{"id": "fxbench-499", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-500", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-501", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-502", "intent_cells": null, "reason": "no_gpt52_annotation"}
+{"id": "fxbench-503", "intent_cells": null, "reason": "no_gpt52_annotation"}

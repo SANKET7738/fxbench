@@ -1,0 +1,503 @@
+{"id": "fxbench-1", "raw_response": "{\"formula\": \"=(B7-B6)^2+(C7-C6)^2\"}", "answer": "=(B7-B6)^2+(C7-C6)^2"}
+{"id": "fxbench-2", "raw_response": "{\"formula\": \"=(B2+C2)/2\"}", "answer": "=(B2+C2)/2"}
+{"id": "fxbench-3", "raw_response": "{\"formula\": \"=(C9*B9)+(C10*B10)\"}", "answer": "=(C9*B9)+(C10*B10)"}
+{"id": "fxbench-4", "raw_response": "{\"formula\": \"=(R9*1000)+R7\"}", "answer": "=(R9*1000)+R7"}
+{"id": "fxbench-5", "raw_response": "{\"formula\": \"=(D3/$C3)\"}", "answer": "=(D3/$C3)"}
+{"id": "fxbench-6", "raw_response": "{\"formula\": \"=(E2*1)\"}", "answer": "=(E2*1)"}
+{"id": "fxbench-7", "raw_response": "{\"formula\": \"=(Q6+R6+S6)/3\"}", "answer": "=(Q6+R6+S6)/3"}
+{"id": "fxbench-8", "raw_response": "{\"formula\": \"=(J7-D2)\"}", "answer": "=(J7-D2)"}
+{"id": "fxbench-9", "raw_response": "{\"formula\": \"ABS(MAX(E8:E17)-MIN(E8:E17))*1000\"}", "answer": "ABS(MAX(E8:E17)-MIN(E8:E17))*1000"}
+{"id": "fxbench-10", "raw_response": "{\"formula\": \"=(MAX(H3:H35)-MIN(H3:H35))*12\"}", "answer": "=(MAX(H3:H35)-MIN(H3:H35))*12"}
+{"id": "fxbench-11", "raw_response": "{\"formula\": \"INDEX(B9:B20,MATCH(B38,D9:D20,0))\"}", "answer": "INDEX(B9:B20,MATCH(B38,D9:D20,0))"}
+{"id": "fxbench-12", "raw_response": "{\"formula\": \"=(B2-A2)*24\"}", "answer": "=(B2-A2)*24"}
+{"id": "fxbench-13", "raw_response": "{\"formula\": \"=(E2-K2)*24\"}", "answer": "=(E2-K2)*24"}
+{"id": "fxbench-14", "raw_response": "{\"formula\": \"ABS(M4/L4)\"}", "answer": "ABS(M4/L4)"}
+{"id": "fxbench-15", "raw_response": "{\"formula\": \"=(SUM(D54,F36)-B59)\"}", "answer": "=(SUM(D54,F36)-B59)"}
+{"id": "fxbench-16", "raw_response": "{\"formula\": \"=$D61*(E60/12)\"}", "answer": "=$D61*(E60/12)"}
+{"id": "fxbench-17", "raw_response": "{\"formula\": \"=$D$56*E48*(28/31)+$D$56*F48+$D$56*G48+$D$56*H48+$D$56*I48+$D$56*J48+$D$56*K48+$D$56*L48+$D$56*M48+$D$56*N48+$D$56*O48+$D$56*P48+$D$56*Q48+$D$56*R48+$D$56*S48+$D$56*T48+$D$56*U48+$D$56*V48+$D$56*W48+$D$56*X48+$D$56*Y48+$E$77*Z46+$E$77*AA46+$E$77*AB46+$E$77*AC46\"}", "answer": "=$D$56*E48*(28/31)+$D$56*F48+$D$56*G48+$D$56*H48+$D$56*I48+$D$56*J48+$D$56*K48+$D$56*L48+$D$56*M48+$D$56*N48+$D$56*O48+$D$56*P48+$D$56*Q48+$D$56*R48+$D$56*S48+$D$56*T48+$D$56*U48+$D$56*V48+$D$56*W48+$D$56*X48+$D$56*Y48+$E$77*Z46+$E$77*AA46+$E$77*AB46+$E$77*AC46"}
+{"id": "fxbench-18", "raw_response": "{\"formula\": \"=$B$12:$W$12-$B4:$W4\"}", "answer": "=$B$12:$W$12-$B4:$W4"}
+{"id": "fxbench-19", "raw_response": "{\"formula\": \"=$K$4-$K$2\"}", "answer": "=$K$4-$K$2"}
+{"id": "fxbench-20", "raw_response": "{\"formula\": \"=(L6*100)\"}", "answer": "=(L6*100)"}
+{"id": "fxbench-21", "raw_response": "{\"formula\": \"=(F8+P8)/($F$15+$P$15)\"}", "answer": "=(F8+P8)/($F$15+$P$15)"}
+{"id": "fxbench-22", "raw_response": "{\"formula\": \"=(B13*J13*L13)+(C13*K13*M13)\"}", "answer": "=(B13*J13*L13)+(C13*K13*M13)"}
+{"id": "fxbench-23", "raw_response": "{\"formula\": \"=(D2-F2)*365\"}", "answer": "=(D2-F2)*365"}
+{"id": "fxbench-24", "raw_response": "{\"formula\": \"=(C4 - C3)\"}", "answer": "=(C4 - C3)"}
+{"id": "fxbench-25", "raw_response": "{\"formula\": \"MAX(B2:B6)\"}", "answer": "MAX(B2:B6)"}
+{"id": "fxbench-26", "raw_response": "{\"formula\": \"XLOOKUP(J4,B2:B54,A2:A54)\"}", "answer": "XLOOKUP(J4,B2:B54,A2:A54)"}
+{"id": "fxbench-27", "raw_response": "{\"formula\": \"=$G2\"}", "answer": "=$G2"}
+{"id": "fxbench-28", "raw_response": "{\"formula\": \"=\\\"\\\"&TEXT(C33,\\\"\\\"# ##0\\\"\\\" )&\\\"\\\"  +  \\\"\\\"&TEXT(D33,\\\"\\\"# ##0%\\\"\\\" )&\\\"\\\"  of excess of  \\\"\\\"&TEXT(B33,\\\"\\\"# ##0\\\"\\\" )&\\\"\\\"\"}", "answer": "=\"\"&TEXT(C33,\"\"# ##0\"\" )&\"\"  +  \"\"&TEXT(D33,\"\"# ##0%\"\" )&\"\"  of excess of  \"\"&TEXT(B33,\"\"# ##0\"\" )&\"\""}
+{"id": "fxbench-29", "raw_response": "{\"formula\": \"SUMIF(Table1[Code],K3,Table1[Result])\"}", "answer": "SUMIF(Table1[Code],K3,Table1[Result])"}
+{"id": "fxbench-30", "raw_response": "{\"formula\": \"=$B5\"}", "answer": "=$B5"}
+{"id": "fxbench-31", "raw_response": "{\"formula\": \"=(D3=\"\"\"\")*1\"}", "answer": null}
+{"id": "fxbench-32", "raw_response": "{\"formula\": \"=(B7+B9)/2\"}", "answer": "=(B7+B9)/2"}
+{"id": "fxbench-33", "raw_response": "{\"formula\": \"MAXIFS(A4:A22,G4:G22,TRUE)\"}", "answer": "MAXIFS(A4:A22,G4:G22,TRUE)"}
+{"id": "fxbench-34", "raw_response": "{\"formula\": \"=$D$12\"}", "answer": "=$D$12"}
+{"id": "fxbench-35", "raw_response": "{\"formula\": \"=$C$3\"}", "answer": "=$C$3"}
+{"id": "fxbench-36", "raw_response": "{\"formula\": \"=(B47-D8)/(D11-B48)\"}", "answer": "=(B47-D8)/(D11-B48)"}
+{"id": "fxbench-37", "raw_response": "{\"formula\": \"=(B14/C14)\"}", "answer": "=(B14/C14)"}
+{"id": "fxbench-38", "raw_response": "{\"formula\": \"=$FR$8\"}", "answer": "=$FR$8"}
+{"id": "fxbench-39", "raw_response": "{\"formula\": \"=(AVERAGE(OFFSET($D$3,,IF(COUNTA($D$3:$AD$3)<=12,0,COUNTIF($D$3:$AD$3,\"\"<>\"\")-12),1,IF(COUNTA($D$3:$AD$3)<=12,COUNTA($D$3:$AD$3),12)))-AVERAGE(OFFSET($D$3,,IF(COUNTA($D$3:$AD$3)<=12,0,COUNTIF($D$3:$AD$3,\"\"<>\"\")-13),1,IF(COUNTA($D$3:$AD$3)<=12,COUNTA($D$3:$AD$3)-1,12))))*100\"}", "answer": null}
+{"id": "fxbench-40", "raw_response": "{\"formula\": \"SUM(INDEX(B2:M2,COUNTIF(B2:M2,\"\"<>0\"\"))\"}", "answer": null}
+{"id": "fxbench-41", "raw_response": "{\"formula\": \"=(LARGE(B2:B17,1)+LARGE(B2:B17,2)+LARGE(B2:B17,3)+LARGE(B2:B17,4))/4\"}", "answer": "=(LARGE(B2:B17,1)+LARGE(B2:B17,2)+LARGE(B2:B17,3)+LARGE(B2:B17,4))/4"}
+{"id": "fxbench-42", "raw_response": "{\"formula\": \"=$E$3:$E$50\"}", "answer": "=$E$3:$E$50"}
+{"id": "fxbench-43", "raw_response": "{\"formula\": \"=(SUM(O3:AF3)/A6)\"}", "answer": "=(SUM(O3:AF3)/A6)"}
+{"id": "fxbench-44", "raw_response": "{\"formula\": \"=(D8+D4+D5+D6-D7)/D7\"}", "answer": "=(D8+D4+D5+D6-D7)/D7"}
+{"id": "fxbench-45", "raw_response": "{\"formula\": \"=(C4*1200)\"}", "answer": "=(C4*1200)"}
+{"id": "fxbench-46", "raw_response": "{\"formula\": \"=(AVERAGE(AVERAGEIF(E3:E23,{\\\"*side a*\\\",\\\"*low*\\\"}, M3:M23))+(AVERAGE(AVERAGEIF(E3:E23,{\\\"*side a*\\\",\\\"*low*\\\"}, P3:P23)))/2\"}", "answer": "=(AVERAGE(AVERAGEIF(E3:E23,{\"*side a*\",\"*low*\"}, M3:M23))+(AVERAGE(AVERAGEIF(E3:E23,{\"*side a*\",\"*low*\"}, P3:P23)))/2"}
+{"id": "fxbench-47", "raw_response": "{\"formula\": \"=$L$18\"}", "answer": "=$L$18"}
+{"id": "fxbench-48", "raw_response": "{\"formula\": \"=\\\"Month \\\"&TEXT(L15,\\\"0\\\")\"}", "answer": "=\"Month \"&TEXT(L15,\"0\")"}
+{"id": "fxbench-49", "raw_response": null, "answer": null}
+{"id": "fxbench-50", "raw_response": "{\"formula\": \"COUNTIF(Film!$E$2:$E$20000,\"\"*\"\"&A2&\"\"*\")\"}", "answer": null}
+{"id": "fxbench-51", "raw_response": "{\"formula\": \"=\\\"Q\\\" &INT((MONTH(B7)+2)/3) & \\\" \\\" & YEAR(B7)\"}", "answer": "=\"Q\" &INT((MONTH(B7)+2)/3) & \" \" & YEAR(B7)"}
+{"id": "fxbench-52", "raw_response": "{\"formula\": \"=$E5+\"\"0:6.0\"\"\"}", "answer": null}
+{"id": "fxbench-53", "raw_response": "{\"formula\": \"=$B4:$Q4,3)-QUARTILE($B4:$Q4,1)\"}", "answer": "=$B4:$Q4,3)-QUARTILE($B4:$Q4,1)"}
+{"id": "fxbench-54", "raw_response": "{\"formula\": \"=$B$10\"}", "answer": "=$B$10"}
+{"id": "fxbench-55", "raw_response": "{\"formula\": \"=(L37*($G$5/100))\"}", "answer": "=(L37*($G$5/100))"}
+{"id": "fxbench-56", "raw_response": "{\"formula\": \"=(CEILING.MATH(A2,1/24)-A2)*24*I2\"}", "answer": "=(CEILING.MATH(A2,1/24)-A2)*24*I2"}
+{"id": "fxbench-57", "raw_response": "{\"formula\": \"=(D18/25.4)-0.125\"}", "answer": "=(D18/25.4)-0.125"}
+{"id": "fxbench-58", "raw_response": "{\"formula\": \"CHOOSE(INPUT!$F$23,INPUT!$F$22,FACTORS!$C$44)*2.012*FACTORS!$D$5*INPUT!$F$35/INPUT!$F$40*8760\"}", "answer": "CHOOSE(INPUT!$F$23,INPUT!$F$22,FACTORS!$C$44)*2.012*FACTORS!$D$5*INPUT!$F$35/INPUT!$F$40*8760"}
+{"id": "fxbench-59", "raw_response": "{\"formula\": \"=(CODE(RIGHT(K2,1)) - 64)\"}", "answer": "=(CODE(RIGHT(K2,1)) - 64)"}
+{"id": "fxbench-60", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-61", "raw_response": "{\"formula\": \"=\"\"31-May-\"\",RIGHT(LEFT($C$2,4),2)\"}", "answer": null}
+{"id": "fxbench-62", "raw_response": "{\"formula\": \"=$A2&\\\",\\\"&$B2&\\\",\\\"&$C2&\\\",\\\"&$D2\"}", "answer": "=$A2&\",\"&$B2&\",\"&$C2&\",\"&$D2"}
+{"id": "fxbench-63", "raw_response": "{\"formula\": \"=(G$2-(A3*14+B3))\"}", "answer": "=(G$2-(A3*14+B3))"}
+{"id": "fxbench-64", "raw_response": "{\"formula\": \"=(E8*1.96)\"}", "answer": "=(E8*1.96)"}
+{"id": "fxbench-65", "raw_response": "{\"formula\": \"=(G4/(2400/($C4*86400))/86400*86400/G4)*G4\"}", "answer": "=(G4/(2400/($C4*86400))/86400*86400/G4)*G4"}
+{"id": "fxbench-66", "raw_response": "{\"formula\": \"CORREL($C$6:$C$228,E7:E228)\"}", "answer": "CORREL($C$6:$C$228,E7:E228)"}
+{"id": "fxbench-67", "raw_response": "{\"formula\": \"=(1-COS(RADIANS(F47)))/2\"}", "answer": "=(1-COS(RADIANS(F47)))/2"}
+{"id": "fxbench-68", "raw_response": "{\"formula\": \"=(D13*F31*SQRT(1-0.006768658*(F34^2)))/(20925832.16*F35)\"}", "answer": "=(D13*F31*SQRT(1-0.006768658*(F34^2)))/(20925832.16*F35)"}
+{"id": "fxbench-69", "raw_response": "{\"formula\": \"SUM(IFERROR(--MID(SUBSTITUTE(SUBSTITUTE(J2:Q2,\"\")\"\",\"\"(\"\"),\"\"(\"\",REPT(\"\" \"\",50)),50,50),))\"}", "answer": null}
+{"id": "fxbench-70", "raw_response": "{\"formula\": \"=(COUNTIF(C3:C912,\\\">=\\\"&TODAY()) - COUNTIF(B3:B912,\\\">=\\\"&TODAY()))\"}", "answer": "=(COUNTIF(C3:C912,\">=\"&TODAY()) - COUNTIF(B3:B912,\">=\"&TODAY()))"}
+{"id": "fxbench-71", "raw_response": null, "answer": null}
+{"id": "fxbench-72", "raw_response": "{\"formula\": \"=(MAX(FREQUENCY(C5:C13,IF(COUNTIF(F5:H13,C5:C13)=0,C5:C13)))-1)\"}", "answer": "=(MAX(FREQUENCY(C5:C13,IF(COUNTIF(F5:H13,C5:C13)=0,C5:C13)))-1)"}
+{"id": "fxbench-73", "raw_response": "{\"formula\": \"=(COUNTIF(January!$C7:$AG7,\"\"s\"\"))\"}", "answer": null}
+{"id": "fxbench-74", "raw_response": "{\"formula\": \"=(COUNTIFS(D2:D26,\\\"<>N/A\\\",D2:D26,\\\"<>\\\"))/COUNTIF(D2:D26,\\\"<>N/A\\\")\"}", "answer": "=(COUNTIFS(D2:D26,\"<>N/A\",D2:D26,\"<>\"))/COUNTIF(D2:D26,\"<>N/A\")"}
+{"id": "fxbench-75", "raw_response": "{\"formula\": \"COUNTIF(P:P,G13)\"}", "answer": "COUNTIF(P:P,G13)"}
+{"id": "fxbench-76", "raw_response": "{\"formula\": \"=(SUM(D8:D38))\"}", "answer": "=(SUM(D8:D38))"}
+{"id": "fxbench-77", "raw_response": "{\"formula\": \"=$A$19\"}", "answer": "=$A$19"}
+{"id": "fxbench-78", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-79", "raw_response": null, "answer": null}
+{"id": "fxbench-80", "raw_response": "{\"formula\": \"=$B$47\"}", "answer": "=$B$47"}
+{"id": "fxbench-81", "raw_response": null, "answer": null}
+{"id": "fxbench-82", "raw_response": "{\"formula\": \"=$I$4\"}", "answer": "=$I$4"}
+{"id": "fxbench-83", "raw_response": "{\"formula\": \"=(C3<>\\\"\\\")*(D3<>\\\"\\\")*(E3<>\\\"\\\")*(F3<>\\\"\\\")*(G3<>\\\"\\\")*(H3<>\\\"\\\")*(I3<>\\\"\\\")*(J3<>\\\"\\\")*(K3<>\\\"\\\")*(L3<>\\\"\\\")*(M3<>\\\"\\\")*(N3<>\\\"\\\")*(O3<>\\\"\\\")*(P3<>\\\"\\\")*(Q3<>\\\"\\\")*(R3<>\\\"\\\")*(S3<>\\\"\\\")*(T3<>\\\"\\\")*(U3<>\\\"\\\")*(V3<>\\\"\\\")*(W3<>\\\"\\\")*(X3<>\\\"\\\")*(Y3<>\\\"\\\")*(Z3<>\\\"\\\")*(AA3<>\\\"\\\")*(AB3<>\\\"\\\")*(AC3<>\\\"\\\")*(AD3<>\\\"\\\")*(AE3<>\\\"\\\")*(AG3<>\\\"\\\")*(AH3<>\\\"\\\")*(BA3<>\\\"\\\")*(BB3<>\\\"\\\")*(BC3<>\\\"\\\")*(BD3<>\\\"\\\")*(BE3<>\\\"\\\")*(BG3<>\\\"\\\")*(BH3<>\\\"\\\")*(CG3<>\\\"\\\")*(CF3<>\\\"\\\")*(CH3<>\\\"\\\")*(CO3<>\\\"\\\")*(CP3<>\\\"\\\")*(CQ3<>\\\"\\\")*(CR3<>\\\"\\\")*(CS3<>\\\"\\\")*(CT3<>\\\"\\\")*(CU3<>\\\"\\\")*(CV3<>\\\"\\\")*(CW3<>\\\"\\\")*(CX3<>\\\"\\\")*(CY3<>\\\"\\\")*(CZ3<>\\\"\\\")*(DA3<>\\\"\\\")*(DB3<>\\\"\\\")*(DC3<>\\\"\\\")*(DD3<>\\\"\\\")*(DE3<>\\\"\\\")*(DF3<>\\\"\\\")*(DG3<>\\\"\\\")*(DH3<>\\\"\\\")*(DI3<>\\\"\\\")*(DJ3<>\\\"\\\")*(DK3<>\\\"\\\")*(DL3<>\\\"\\\")*(DM3<>\\\"\\\")*(DN3<>\\\"\\\")*(DO3<>\\\"\\\")*(DP3<>\\\"\\\")*(DQ3<>\\\"\\\")*(DR3<>\\\"\\\")*(DS3<>\\\"\\\")*(DT3<>\\\"\\\")*(DU3<>\\\"\\\")*(DV3<>\\\"\\\")*(DW3<>\\\"\\\")*(DX3<>\\\"\\\")*(DY3<>\\\"\\\")*(DZ3<>\\\"\\\")*(EA3<>\\\"\\\")*(EB3<>\\\"\\\")*(EC3<>\\\"\\\")*(ED3<>\\\"\\\")*(EE3<>\\\"\\\")*(EF3<>", "answer": null}
+{"id": "fxbench-84", "raw_response": "{\"formula\": \"=(E9-E8)/1\"}", "answer": "=(E9-E8)/1"}
+{"id": "fxbench-85", "raw_response": "{\"formula\": \"=$M$3\"}", "answer": "=$M$3"}
+{"id": "fxbench-86", "raw_response": "{\"formula\": \"COUNTIF(OFFSET(B$3,$J$2-3,0,$J$3-$J$2+1,1),$L3)\"}", "answer": "COUNTIF(OFFSET(B$3,$J$2-3,0,$J$3-$J$2+1,1),$L3)"}
+{"id": "fxbench-87", "raw_response": "{\"formula\": \"=$E$12/$F$12\"}", "answer": "=$E$12/$F$12"}
+{"id": "fxbench-88", "raw_response": "{\"formula\": \"=\"\"Shift Start Times - Total\"\"\"}", "answer": null}
+{"id": "fxbench-89", "raw_response": "{\"formula\": \"COUNTIF(C$13:C$10000,LEFT($B3,1))\"}", "answer": "COUNTIF(C$13:C$10000,LEFT($B3,1))"}
+{"id": "fxbench-90", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-91", "raw_response": "{\"formula\": \"=$D$2:$D$100=O5\"}", "answer": "=$D$2:$D$100=O5"}
+{"id": "fxbench-92", "raw_response": "{\"formula\": \"=$C$34\"}", "answer": "=$C$34"}
+{"id": "fxbench-93", "raw_response": "{\"formula\": \"SUMPRODUCT(--(B2:B45=E2),C2:C45)\"}", "answer": "SUMPRODUCT(--(B2:B45=E2),C2:C45)"}
+{"id": "fxbench-94", "raw_response": "{\"formula\": \"=$F$11:$F$297\"}", "answer": "=$F$11:$F$297"}
+{"id": "fxbench-95", "raw_response": "{\"formula\": \"=$E$2\"}", "answer": "=$E$2"}
+{"id": "fxbench-96", "raw_response": "{\"formula\": \"=$D19\"}", "answer": "=$D19"}
+{"id": "fxbench-97", "raw_response": "{\"formula\": \"=(C2-I2)\"}", "answer": "=(C2-I2)"}
+{"id": "fxbench-98", "raw_response": "{\"formula\": \"=(D2-M2)/(365+IF(MONTH(DATE(YEAR(M2),2,29))=2,1,0))*H2/100\"}", "answer": "=(D2-M2)/(365+IF(MONTH(DATE(YEAR(M2),2,29))=2,1,0))*H2/100"}
+{"id": "fxbench-99", "raw_response": "{\"formula\": \"=-F3*E3/12\"}", "answer": "=-F3*E3/12"}
+{"id": "fxbench-100", "raw_response": "{\"formula\": \"='Project Assumptions'!$I$17\"}", "answer": "='Project Assumptions'!$I$17"}
+{"id": "fxbench-101", "raw_response": "{\"formula\": \"=$H$3\"}", "answer": "=$H$3"}
+{"id": "fxbench-102", "raw_response": "{\"formula\": \"=(YEAR(NOW())-YEAR(B2))&\\\" Years \\\"&TEXT(DATE(YEAR(B2),MONTH(B2)+MONTH(NOW())-MONTH(B2),DAY(B2))-DATE(YEAR(B2),MONTH(B2),DAY(B2)),\"\"M\"\")&\\\" Months \\\"&TEXT(DAY(NOW())-DAY(B2)+IF(DAY(B2)>DAY(NOW()),-1,0),\"0\")&\\\" Days\\\"\"}", "answer": null}
+{"id": "fxbench-103", "raw_response": "{\"formula\": \"=$D$2\"}", "answer": "=$D$2"}
+{"id": "fxbench-104", "raw_response": "{\"formula\": \"=$A10\"}", "answer": "=$A10"}
+{"id": "fxbench-105", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-106", "raw_response": "{\"formula\": \"=$J$3\"}", "answer": "=$J$3"}
+{"id": "fxbench-107", "raw_response": "{\"formula\": \"=(YEAR($A$11)-YEAR(MIN(A2:A7)))*12+MONTH($A$11)-MONTH(MIN(A2:A7))\"}", "answer": "=(YEAR($A$11)-YEAR(MIN(A2:A7)))*12+MONTH($A$11)-MONTH(MIN(A2:A7))"}
+{"id": "fxbench-108", "raw_response": "{\"formula\": \"=(F6-G8)\"}", "answer": "=(F6-G8)"}
+{"id": "fxbench-109", "raw_response": "{\"formula\": \"=$P$18-MAX(L4:L16)\"}", "answer": "=$P$18-MAX(L4:L16)"}
+{"id": "fxbench-110", "raw_response": "{\"formula\": \"=$B$2/12*IFERROR(DATEDIF(EDATE($B7,2),E$6,\\\"m\\\"),0)\"}", "answer": "=$B$2/12*IFERROR(DATEDIF(EDATE($B7,2),E$6,\"m\"),0)"}
+{"id": "fxbench-111", "raw_response": "{\"formula\": \"=(DATEDIF(B2,TODAY(),\"Y\") & \\\".\\\" & DATEDIF(B2,TODAY(),\"YM\"))\"}", "answer": null}
+{"id": "fxbench-112", "raw_response": "{\"formula\": \"=\\\"Vacation Leave\\\"\"}", "answer": "=\"Vacation Leave\""}
+{"id": "fxbench-113", "raw_response": "{\"formula\": \"=(TEXT(MID(B2,1,10),\\\"mm/dd/yyyy\\\")&\\\" \\\"&TEXT(MID(B2,12,8),\\\"h:mm:ss AM/PM\\\"))\"}", "answer": "=(TEXT(MID(B2,1,10),\"mm/dd/yyyy\")&\" \"&TEXT(MID(B2,12,8),\"h:mm:ss AM/PM\"))"}
+{"id": "fxbench-114", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-115", "raw_response": "{\"formula\": \"=(B2-TEXT(A2,\\\"mm/dd/yyyy\\\"))*24\"}", "answer": "=(B2-TEXT(A2,\"mm/dd/yyyy\"))*24"}
+{"id": "fxbench-116", "raw_response": "{\"formula\": \"=\\\"=\\\"\"}", "answer": "=\"=\""}
+{"id": "fxbench-117", "raw_response": "{\"formula\": \"=(E17-E16)\"}", "answer": "=(E17-E16)"}
+{"id": "fxbench-118", "raw_response": "{\"formula\": \"=(L88/L20)-1\"}", "answer": "=(L88/L20)-1"}
+{"id": "fxbench-119", "raw_response": "{\"formula\": \"=(H2-G2)\"}", "answer": "=(H2-G2)"}
+{"id": "fxbench-120", "raw_response": "{\"formula\": \"=(C2/D2)\"}", "answer": "=(C2/D2)"}
+{"id": "fxbench-121", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-122", "raw_response": "{\"formula\": \"=(E3+30)\"}", "answer": "=(E3+30)"}
+{"id": "fxbench-123", "raw_response": null, "answer": null}
+{"id": "fxbench-124", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-125", "raw_response": "{\"formula\": \"DSUM('Employee Data'!$A$1:$P$405,\\\"Bonus\\\",$K$14:L16)-SUM($C$15:C15)\"}", "answer": "DSUM('Employee Data'!$A$1:$P$405,\"Bonus\",$K$14:L16)-SUM($C$15:C15)"}
+{"id": "fxbench-126", "raw_response": "{\"formula\": \"=\\\"Check\\\"\"}", "answer": "=\"Check\""}
+{"id": "fxbench-127", "raw_response": "{\"formula\": \"=$F$3*E3\"}", "answer": "=$F$3*E3"}
+{"id": "fxbench-128", "raw_response": "{\"formula\": \"=(D23-H23)^2\"}", "answer": "=(D23-H23)^2"}
+{"id": "fxbench-129", "raw_response": "{\"formula\": \"=(LN(H2/G2)+((L2-O2+(POWER(F2,2)/2))*M2))/(F2*SQRT(M2))\"}", "answer": "=(LN(H2/G2)+((L2-O2+(POWER(F2,2)/2))*M2))/(F2*SQRT(M2))"}
+{"id": "fxbench-130", "raw_response": "{\"formula\": \"=-SUM(I16:K16)\"}", "answer": "=-SUM(I16:K16)"}
+{"id": "fxbench-131", "raw_response": "{\"formula\": \"=(EXP((16.78*C13-116.9)/(C13+237.3)))\"}", "answer": "=(EXP((16.78*C13-116.9)/(C13+237.3)))"}
+{"id": "fxbench-132", "raw_response": "{\"formula\": \"=(D2-Z2)/Z2\"}", "answer": "=(D2-Z2)/Z2"}
+{"id": "fxbench-133", "raw_response": "{\"formula\": \"=(24*($D4+$E4-$B4-$C4)-$F4)\"}", "answer": "=(24*($D4+$E4-$B4-$C4)-$F4)"}
+{"id": "fxbench-134", "raw_response": "{\"formula\": \"=$E3*((MAX(H$2-$A3,0)-MAX(DAYS(EOMONTH(H$2,-1),$A3),0))-(MAX(H$2-$B3,0)-MAX(DAYS(EOMONTH(H$2,-1),$B3),0))+(EOMONTH(H$2,0)=EOMONTH($A3,0)))\"}", "answer": "=$E3*((MAX(H$2-$A3,0)-MAX(DAYS(EOMONTH(H$2,-1),$A3),0))-(MAX(H$2-$B3,0)-MAX(DAYS(EOMONTH(H$2,-1),$B3),0))+(EOMONTH(H$2,0)=EOMONTH($A3,0)))"}
+{"id": "fxbench-135", "raw_response": "{\"formula\": \"=(B8/B9)\"}", "answer": "=(B8/B9)"}
+{"id": "fxbench-136", "raw_response": "{\"formula\": \"=$B$4:OFFSET($B$4,,IFNA(MATCH(0,LEN($B$4:$AE$4),0),COLUMNS($B$4:$AE$4)+1)-2),$B$1:OFFSET($B$1,,IFNA(MATCH(0,LEN($B$4:$AE$4),0),COLUMNS($B$4:$AE$4)+1)-2),B1)\"}", "answer": "=$B$4:OFFSET($B$4,,IFNA(MATCH(0,LEN($B$4:$AE$4),0),COLUMNS($B$4:$AE$4)+1)-2),$B$1:OFFSET($B$1,,IFNA(MATCH(0,LEN($B$4:$AE$4),0),COLUMNS($B$4:$AE$4)+1)-2),B1)"}
+{"id": "fxbench-137", "raw_response": "{\"formula\": \"=$G4*$H4\"}", "answer": "=$G4*$H4"}
+{"id": "fxbench-138", "raw_response": "{\"formula\": \"=(H2-F2)*100\"}", "answer": "=(H2-F2)*100"}
+{"id": "fxbench-139", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-140", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-141", "raw_response": "{\"formula\": \"=$B$2:$B$8,$C$2:$C$8\"}", "answer": "=$B$2:$B$8,$C$2:$C$8"}
+{"id": "fxbench-142", "raw_response": "{\"formula\": \"=$C$49+1\"}", "answer": "=$C$49+1"}
+{"id": "fxbench-143", "raw_response": "{\"formula\": \"=(F8+(F18-F8)/18)\"}", "answer": "=(F8+(F18-F8)/18)"}
+{"id": "fxbench-144", "raw_response": "{\"formula\": \"=(DATEDIF(B8,DATE(D8,12,31),\"\"m\"\")+1)/12\"}", "answer": null}
+{"id": "fxbench-145", "raw_response": "{\"formula\": \"=(C12*$C$3)*(D12)\"}", "answer": "=(C12*$C$3)*(D12)"}
+{"id": "fxbench-146", "raw_response": "{\"formula\": \"FV(B17,1,0,-G8,0)\"}", "answer": "FV(B17,1,0,-G8,0)"}
+{"id": "fxbench-147", "raw_response": "{\"formula\": \"=(C3-C4)*(1+$C$6)\"}", "answer": "=(C3-C4)*(1+$C$6)"}
+{"id": "fxbench-148", "raw_response": "{\"formula\": \"FV\"}", "answer": "FV"}
+{"id": "fxbench-149", "raw_response": "{\"formula\": \"=(1 + B5)^B6\"}", "answer": "=(1 + B5)^B6"}
+{"id": "fxbench-150", "raw_response": "{\"formula\": \"=(1+D2)^((E2-STARTDATE)/365)-1\"}", "answer": "=(1+D2)^((E2-STARTDATE)/365)-1"}
+{"id": "fxbench-151", "raw_response": "{\"formula\": \"=(C3+D3)\"}", "answer": "=(C3+D3)"}
+{"id": "fxbench-152", "raw_response": "{\"formula\": \"=(B32*C32)\"}", "answer": "=(B32*C32)"}
+{"id": "fxbench-153", "raw_response": "{\"formula\": \"=$N$12\"}", "answer": "=$N$12"}
+{"id": "fxbench-154", "raw_response": "{\"formula\": \"=$D$59*Assumptions!H12\"}", "answer": "=$D$59*Assumptions!H12"}
+{"id": "fxbench-155", "raw_response": "{\"formula\": \"=$G$11+$F$11\"}", "answer": "=$G$11+$F$11"}
+{"id": "fxbench-156", "raw_response": "{\"formula\": \"=(F8-E8)*24\"}", "answer": "=(F8-E8)*24"}
+{"id": "fxbench-157", "raw_response": "{\"formula\": \"=(E3-D3)*24\"}", "answer": "=(E3-D3)*24"}
+{"id": "fxbench-158", "raw_response": "{\"formula\": \"=(IF(AND(A2>$G$1,B2<$F$1),0,IF(AND(A2>$G$1,B2>=$F$1),B2-$F$1,IF(AND(A2<=$G$1,B2<$F$1),$G$1-A2,IF(AND(A2<=$G$1,B2>=$F$1),B2-A2,0)))))\"}", "answer": "=(IF(AND(A2>$G$1,B2<$F$1),0,IF(AND(A2>$G$1,B2>=$F$1),B2-$F$1,IF(AND(A2<=$G$1,B2<$F$1),$G$1-A2,IF(AND(A2<=$G$1,B2>=$F$1),B2-A2,0)))))"}
+{"id": "fxbench-159", "raw_response": "{\"formula\": \"=(J5)/(B8)\"}", "answer": "=(J5)/(B8)"}
+{"id": "fxbench-160", "raw_response": "{\"formula\": \"=(B6-B5-TIME(0,30,0))\"}", "answer": "=(B6-B5-TIME(0,30,0))"}
+{"id": "fxbench-161", "raw_response": "{\"formula\": \"=(G10-G6<2/24)\"}", "answer": "=(G10-G6<2/24)"}
+{"id": "fxbench-162", "raw_response": "{\"formula\": \"=$G$7\"}", "answer": "=$G$7"}
+{"id": "fxbench-163", "raw_response": "{\"formula\": \"=(C2-B2)\"}", "answer": "=(C2-B2)"}
+{"id": "fxbench-164", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-165", "raw_response": "{\"formula\": \"=$K6,=$M6,\"}", "answer": "=$K6,=$M6,"}
+{"id": "fxbench-166", "raw_response": "{\"formula\": \"=(C22-C21)\"}", "answer": "=(C22-C21)"}
+{"id": "fxbench-167", "raw_response": "{\"formula\": \"=(113/E25)*(F25-D25)\"}", "answer": "=(113/E25)*(F25-D25)"}
+{"id": "fxbench-168", "raw_response": "{\"formula\": \"=\"\"Duplicate % Recovery (<20%):\"\"\"}", "answer": null}
+{"id": "fxbench-169", "raw_response": "{\"formula\": \"=\\\"Nib Width\\\"\"}", "answer": "=\"Nib Width\""}
+{"id": "fxbench-170", "raw_response": null, "answer": null}
+{"id": "fxbench-171", "raw_response": "{\"formula\": \"=$D6+1\"}", "answer": "=$D6+1"}
+{"id": "fxbench-172", "raw_response": "{\"formula\": \"=$B$6\"}", "answer": "=$B$6"}
+{"id": "fxbench-173", "raw_response": "{\"formula\": \"=(C4-D4)\"}", "answer": "=(C4-D4)"}
+{"id": "fxbench-174", "raw_response": "{\"formula\": \"=$B$10\"}", "answer": "=$B$10"}
+{"id": "fxbench-175", "raw_response": "{\"formula\": \"=(I3-I4)/I4\"}", "answer": "=(I3-I4)/I4"}
+{"id": "fxbench-176", "raw_response": "{\"formula\": \"=$E$26\"}", "answer": "=$E$26"}
+{"id": "fxbench-177", "raw_response": "{\"formula\": \"=(VLOOKUP(C51,$A$4:$A$46,1)+1)\"}", "answer": "=(VLOOKUP(C51,$A$4:$A$46,1)+1)"}
+{"id": "fxbench-178", "raw_response": "{\"formula\": \"=\\\"Years: \\\"&DATEDIF(C4,$D$1,\\\"y\\\")&\\\" Months: \\\"&DATEDIF(C4,$D$1,\\\"ym\\\")\"}", "answer": "=\"Years: \"&DATEDIF(C4,$D$1,\"y\")&\" Months: \"&DATEDIF(C4,$D$1,\"ym\")"}
+{"id": "fxbench-179", "raw_response": "{\"formula\": \"=(B5^2 + B6^2)^(1/2)\"}", "answer": "=(B5^2 + B6^2)^(1/2)"}
+{"id": "fxbench-180", "raw_response": "{\"formula\": \"=(SUM(B2:B7)/ROWS(A2:A7))\"}", "answer": "=(SUM(B2:B7)/ROWS(A2:A7))"}
+{"id": "fxbench-181", "raw_response": "{\"formula\": \"=$C$13\"}", "answer": "=$C$13"}
+{"id": "fxbench-182", "raw_response": "{\"formula\": \"=(A21*16)+B21\"}", "answer": "=(A21*16)+B21"}
+{"id": "fxbench-183", "raw_response": "{\"formula\": \"=(TODAY()-D5)/365\"}", "answer": "=(TODAY()-D5)/365"}
+{"id": "fxbench-184", "raw_response": "{\"formula\": \"=(E6/$D$3)-1\"}", "answer": "=(E6/$D$3)-1"}
+{"id": "fxbench-185", "raw_response": "{\"formula\": \"SLOPE(Sheet4!$D$5:INDEX(Sheet4!$D$5:$D$65,MATCH(10^10,1/(1/Sheet4!$D$5:$D$65))),ROW(Sheet4!$D$5:INDEX(Sheet4!$D$5:$D$65,MATCH(10^10,1/(1/Sheet4!$D$5:$D$65))))-ROW($D$5)+1)\"}", "answer": "SLOPE(Sheet4!$D$5:INDEX(Sheet4!$D$5:$D$65,MATCH(10^10,1/(1/Sheet4!$D$5:$D$65))),ROW(Sheet4!$D$5:INDEX(Sheet4!$D$5:$D$65,MATCH(10^10,1/(1/Sheet4!$D$5:$D$65))))-ROW($D$5)+1)"}
+{"id": "fxbench-186", "raw_response": "{\"formula\": \"SLOPE($B2:$D2,$B$6:$D$6)\"}", "answer": "SLOPE($B2:$D2,$B$6:$D$6)"}
+{"id": "fxbench-187", "raw_response": "{\"formula\": \"=$F$29*L22+$F$30\"}", "answer": "=$F$29*L22+$F$30"}
+{"id": "fxbench-188", "raw_response": "{\"formula\": \"=-PMT(0.73109%,(54),(-1597225.17),0)\"}", "answer": "=-PMT(0.73109%,(54),(-1597225.17),0)"}
+{"id": "fxbench-189", "raw_response": "{\"formula\": \"=(B3-B2)\"}", "answer": "=(B3-B2)"}
+{"id": "fxbench-190", "raw_response": "{\"formula\": \"=-B10\"}", "answer": "=-B10"}
+{"id": "fxbench-191", "raw_response": "{\"formula\": \"=(C3-C4)/C3\"}", "answer": "=(C3-C4)/C3"}
+{"id": "fxbench-192", "raw_response": "{\"formula\": \"=(IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15)>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11),$D$3:$D$11,MIN($D$3:$D$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11),$D$3:$D$11,MIN($D$3:$D$11),$E$3:$E$11,MAX($E$3:$E$11))>1,MAX($E$3:$E$11),MIN($E$3:$E$11)),MAX($E$3:$E$11)),MIN($E$3:$E$11)),MAX($E$3:$E$11)),MAX($E$3:$E$11)))\"}", "answer": "=(IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15)>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11),$D$3:$D$11,MIN($D$3:$D$11))>1,IF(COUNTIFS($A$3:$A$11,A15,$B$3:$B$11,B15,$C$3:$C$11,MAX($C$3:$C$11),$D$3:$D$11,MIN($D$3:$D$11),$E$3:$E$11,MAX($E$3:$E$11))>1,MAX($E$3:$E$11),MIN($E$3:$E$11)),MAX($E$3:$E$11)),MIN($E$3:$E$11)),MAX($E$3:$E$11)),MAX($E$3:$E$11)))"}
+{"id": "fxbench-193", "raw_response": "{\"formula\": \"INDEX($B$2:$O$2,MATCH(LARGE(INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),1):INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),14),A16),INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),1):INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),14),0))\"}", "answer": "INDEX($B$2:$O$2,MATCH(LARGE(INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),1):INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),14),A16),INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),1):INDEX($B$3:$O$11,MATCH($A$15,$A$3:$A$11,0),14),0))"}
+{"id": "fxbench-194", "raw_response": "{\"formula\": \"INDEX($F$4:$F$49,SMALL(IF($B$4:$B$49=LEFT($J$5,FIND(\"\" \"\",$J$5)-1),IF($G$4:$G$49=M7,ROW($B$4:$B$49)-ROW($B$4)+1)),COUNTIF(M$7:M7,M7))\"}", "answer": null}
+{"id": "fxbench-195", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-196", "raw_response": "{\"formula\": \"INDEX($B$2:$B$22,SMALL(IF($C$2:$C$22=L3,ROW($C$2:$C$22)-ROW($C$1)),COUNTIF($L$3:L3,L3)))\"}", "answer": "INDEX($B$2:$B$22,SMALL(IF($C$2:$C$22=L3,ROW($C$2:$C$22)-ROW($C$1)),COUNTIF($L$3:L3,L3)))"}
+{"id": "fxbench-197", "raw_response": "{\"formula\": \"=$I4&K4\"}", "answer": "=$I4&K4"}
+{"id": "fxbench-198", "raw_response": "{\"formula\": \"={\"Highest revenue\",\"TOP1\",\"Employee Name\",\"Year\"}\"}", "answer": null}
+{"id": "fxbench-199", "raw_response": "{\"formula\": \"IFERROR(SMALL(A4:D4,COUNTIF(A4:D4,\\\"<\\\"&C5)+1),0)\"}", "answer": "IFERROR(SMALL(A4:D4,COUNTIF(A4:D4,\"<\"&C5)+1),0)"}
+{"id": "fxbench-200", "raw_response": "{\"formula\": \"SUMPRODUCT(($B$7:$B$29)*($C$7:$C$29=I7)*($D$7:$D$29=COUNTIF($I$7:I7,I7)))\"}", "answer": "SUMPRODUCT(($B$7:$B$29)*($C$7:$C$29=I7)*($D$7:$D$29=COUNTIF($I$7:I7,I7)))"}
+{"id": "fxbench-201", "raw_response": "{\"formula\": \"=(C3-D3)*20\"}", "answer": "=(C3-D3)*20"}
+{"id": "fxbench-202", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-203", "raw_response": "{\"formula\": \"=$B$10+$B$11\"}", "answer": "=$B$10+$B$11"}
+{"id": "fxbench-204", "raw_response": "{\"formula\": \"=(C25-B25)/B25\"}", "answer": "=(C25-B25)/B25"}
+{"id": "fxbench-205", "raw_response": "{\"formula\": \"=(LN(G47))\"}", "answer": "=(LN(G47))"}
+{"id": "fxbench-206", "raw_response": "{\"formula\": \"=(E10*D10^2)/(C10)\"}", "answer": "=(E10*D10^2)/(C10)"}
+{"id": "fxbench-207", "raw_response": "{\"formula\": \"=$N$5\"}", "answer": "=$N$5"}
+{"id": "fxbench-208", "raw_response": "{\"formula\": \"=(E6*100)/F6\"}", "answer": "=(E6*100)/F6"}
+{"id": "fxbench-209", "raw_response": "{\"formula\": \"=$B$1*E6\"}", "answer": "=$B$1*E6"}
+{"id": "fxbench-210", "raw_response": "{\"formula\": \"=(I9+I11)/2\"}", "answer": "=(I9+I11)/2"}
+{"id": "fxbench-211", "raw_response": "{\"formula\": \"=$B$2:$B$45\"}", "answer": "=$B$2:$B$45"}
+{"id": "fxbench-212", "raw_response": "{\"formula\": \"=$E$5:$E$795\"}", "answer": "=$E$5:$E$795"}
+{"id": "fxbench-213", "raw_response": "{\"formula\": \"=\\\"=\\\"&D16&\\\"=\\\"&E16&\\\"=\\\"&F16&\\\"=\\\"&G16&\\\"=\\\"&H16&\\\"=\\\"&I16&\\\"=\\\"&J16&\\\"=\\\"&K16&\\\"=\\\"&L16&\\\"=\\\"&M16&\\\"=\\\"&N16&\\\"=\\\"&O16&\\\"=\\\"&P16&\\\"=\\\"&Q16\"}", "answer": "=\"=\"&D16&\"=\"&E16&\"=\"&F16&\"=\"&G16&\"=\"&H16&\"=\"&I16&\"=\"&J16&\"=\"&K16&\"=\"&L16&\"=\"&M16&\"=\"&N16&\"=\"&O16&\"=\"&P16&\"=\"&Q16"}
+{"id": "fxbench-214", "raw_response": "{\"formula\": \"=(D33+E33-B33-C33)*24-F33\"}", "answer": "=(D33+E33-B33-C33)*24-F33"}
+{"id": "fxbench-215", "raw_response": "{\"formula\": \"=$C$6*100\"}", "answer": "=$C$6*100"}
+{"id": "fxbench-216", "raw_response": "{\"formula\": \"=\\\"Highest Moving Average P\\\"\"}", "answer": "=\"Highest Moving Average P\""}
+{"id": "fxbench-217", "raw_response": "{\"formula\": \"MAX(IF($B$2:$I$2=J$2,$B4:$I4))\"}", "answer": "MAX(IF($B$2:$I$2=J$2,$B4:$I4))"}
+{"id": "fxbench-218", "raw_response": "{\"formula\": \"=$G$2\"}", "answer": "=$G$2"}
+{"id": "fxbench-219", "raw_response": "{\"formula\": \"=$J$8-$K$8\"}", "answer": "=$J$8-$K$8"}
+{"id": "fxbench-220", "raw_response": "{\"formula\": \"=$E$1\"}", "answer": "=$E$1"}
+{"id": "fxbench-221", "raw_response": "{\"formula\": \"=(E2-D2)/D2\"}", "answer": "=(E2-D2)/D2"}
+{"id": "fxbench-222", "raw_response": "{\"formula\": \"=(MAX(B2:S2)-MIN(B2:S2))\"}", "answer": "=(MAX(B2:S2)-MIN(B2:S2))"}
+{"id": "fxbench-223", "raw_response": "{\"formula\": \"=(IF(C19>C18,C18*0.25,IF(C19<C18,C19*0.25,C19*0.25)))\"}", "answer": "=(IF(C19>C18,C18*0.25,IF(C19<C18,C19*0.25,C19*0.25)))"}
+{"id": "fxbench-224", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-225", "raw_response": "{\"formula\": \"=\\\"Latest patch common to all countries\\\"\"}", "answer": "=\"Latest patch common to all countries\""}
+{"id": "fxbench-226", "raw_response": "{\"formula\": \"=\\\"=\\\"&HOUR(G61)&\\\" hours, \\\"&MINUTE(G61)&\\\" minutes, \\\"&SECOND(G61)&\\\" seconds\\\"\"}", "answer": "=\"=\"&HOUR(G61)&\" hours, \"&MINUTE(G61)&\" minutes, \"&SECOND(G61)&\" seconds\""}
+{"id": "fxbench-227", "raw_response": "{\"formula\": \"=\"\"FY \"\"&YEAR($C$5)\"}", "answer": null}
+{"id": "fxbench-228", "raw_response": "{\"formula\": \"=(B13^2)\"}", "answer": "=(B13^2)"}
+{"id": "fxbench-229", "raw_response": "{\"formula\": \"MOD(I3-H3,1)+IF(H3=I3,1,0)\"}", "answer": "MOD(I3-H3,1)+IF(H3=I3,1,0)"}
+{"id": "fxbench-230", "raw_response": "{\"formula\": \"=$N$13\"}", "answer": "=$N$13"}
+{"id": "fxbench-231", "raw_response": "{\"formula\": \"=$F3-$E3\"}", "answer": "=$F3-$E3"}
+{"id": "fxbench-232", "raw_response": "{\"formula\": \"=(C11-C10)-IF(C11-C10>TIME(8,0,0),MOD(C11-C10,TIME(8,0,0)),0)\"}", "answer": "=(C11-C10)-IF(C11-C10>TIME(8,0,0),MOD(C11-C10,TIME(8,0,0)),0)"}
+{"id": "fxbench-233", "raw_response": "{\"formula\": \"=$J8-SUM($Q8:$T8)\"}", "answer": "=$J8-SUM($Q8:$T8)"}
+{"id": "fxbench-234", "raw_response": "{\"formula\": \"=$E$37/2\"}", "answer": "=$E$37/2"}
+{"id": "fxbench-235", "raw_response": "{\"formula\": \"MODE.MULT(C22:C41)\"}", "answer": "MODE.MULT(C22:C41)"}
+{"id": "fxbench-236", "raw_response": "{\"formula\": \"=(D6>=C5)*(D6<=E5)\"}", "answer": "=(D6>=C5)*(D6<=E5)"}
+{"id": "fxbench-237", "raw_response": "{\"formula\": \"=(SUM(J2:J88)/J2)-1\"}", "answer": "=(SUM(J2:J88)/J2)-1"}
+{"id": "fxbench-238", "raw_response": "{\"formula\": \"=$B$20\"}", "answer": "=$B$20"}
+{"id": "fxbench-239", "raw_response": "{\"formula\": \"=(F13-F12)*24\"}", "answer": "=(F13-F12)*24"}
+{"id": "fxbench-240", "raw_response": "{\"formula\": \"ROUND(B21/9*B22*B23,2)\"}", "answer": "ROUND(B21/9*B22*B23,2)"}
+{"id": "fxbench-241", "raw_response": "{\"formula\": \"=$S$1-WEEKDAY($S$1,1)+(ROW(S29)-ROW($S$3))*7+(COLUMN(S29)-COLUMN($S$3)+1)\"}", "answer": "=$S$1-WEEKDAY($S$1,1)+(ROW(S29)-ROW($S$3))*7+(COLUMN(S29)-COLUMN($S$3)+1)"}
+{"id": "fxbench-242", "raw_response": "{\"formula\": \"SUMPRODUCT(--(D3:U3<D4:U4),D3:U3)-SUMPRODUCT(--(D3:U3>D4:U4),D3:U3)\"}", "answer": "SUMPRODUCT(--(D3:U3<D4:U4),D3:U3)-SUMPRODUCT(--(D3:U3>D4:U4),D3:U3)"}
+{"id": "fxbench-243", "raw_response": "{\"formula\": \"=$D3-$C3\"}", "answer": "=$D3-$C3"}
+{"id": "fxbench-244", "raw_response": "{\"formula\": \"=$D$24\"}", "answer": "=$D$24"}
+{"id": "fxbench-245", "raw_response": "{\"formula\": \"=(C2-D2)\"}", "answer": "=(C2-D2)"}
+{"id": "fxbench-246", "raw_response": "{\"formula\": \"=(1-B4)/2\"}", "answer": "=(1-B4)/2"}
+{"id": "fxbench-247", "raw_response": "{\"formula\": \"=$Q$4\"}", "answer": "=$Q$4"}
+{"id": "fxbench-248", "raw_response": "{\"formula\": \"NPV\"}", "answer": "NPV"}
+{"id": "fxbench-249", "raw_response": "{\"formula\": \"=$V$5/$X$2\"}", "answer": "=$V$5/$X$2"}
+{"id": "fxbench-250", "raw_response": "{\"formula\": \"=(D3/G3)*K3\"}", "answer": "=(D3/G3)*K3"}
+{"id": "fxbench-251", "raw_response": "{\"formula\": \"=$E$32\"}", "answer": "=$E$32"}
+{"id": "fxbench-252", "raw_response": null, "answer": null}
+{"id": "fxbench-253", "raw_response": "{\"formula\": \"=$F$6+$E$6*A3\"}", "answer": "=$F$6+$E$6*A3"}
+{"id": "fxbench-254", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-255", "raw_response": "{\"formula\": \"=\"\"MIN(IF(MONTH($A$2:$A$731)=MONTH(DATEVALUE(G$1&\"\" 1\"\")),IF($B$2:$B$731<>0,$B$2:$B$731)))\"}", "answer": null}
+{"id": "fxbench-256", "raw_response": "{\"formula\": \"=-PMT(((1+B4)/(1+B5)-1)/12,B6*12,0,B2,0)\"}", "answer": "=-PMT(((1+B4)/(1+B5)-1)/12,B6*12,0,B2,0)"}
+{"id": "fxbench-257", "raw_response": "{\"formula\": \"=$D$6-F17\"}", "answer": "=$D$6-F17"}
+{"id": "fxbench-258", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-259", "raw_response": "{\"formula\": \"=(B5+B3*B6)*B7\"}", "answer": "=(B5+B3*B6)*B7"}
+{"id": "fxbench-260", "raw_response": "{\"formula\": \"=(C8/C5-1)\"}", "answer": "=(C8/C5-1)"}
+{"id": "fxbench-261", "raw_response": "{\"formula\": \"=-PV(0.0226/18,18,E30)\"}", "answer": "=-PV(0.0226/18,18,E30)"}
+{"id": "fxbench-262", "raw_response": "{\"formula\": \"=(B5/B7)*B9\"}", "answer": "=(B5/B7)*B9"}
+{"id": "fxbench-263", "raw_response": "{\"formula\": \"=$B$4\"}", "answer": "=$B$4"}
+{"id": "fxbench-264", "raw_response": "{\"formula\": \"=$B$5\"}", "answer": "=$B$5"}
+{"id": "fxbench-265", "raw_response": "{\"formula\": \"=\\\"L Quartile\\\"\"}", "answer": "=\"L Quartile\""}
+{"id": "fxbench-266", "raw_response": "{\"formula\": \"=(QUARTILE.EXC(B3:B52,1))\"}", "answer": "=(QUARTILE.EXC(B3:B52,1))"}
+{"id": "fxbench-267", "raw_response": "{\"formula\": \"=$G$5\"}", "answer": "=$G$5"}
+{"id": "fxbench-268", "raw_response": "{\"formula\": \"=(G12-G11)/G11\"}", "answer": "=(G12-G11)/G11"}
+{"id": "fxbench-269", "raw_response": "{\"formula\": \"=\\\"-\\\"&F8&\\\".\\\"&E8\"}", "answer": "=\"-\"&F8&\".\"&E8"}
+{"id": "fxbench-270", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-271", "raw_response": "{\"formula\": \"=(SQRT(B5^2+B6^2))\"}", "answer": "=(SQRT(B5^2+B6^2))"}
+{"id": "fxbench-272", "raw_response": "{\"formula\": \"=$C$2+75\"}", "answer": "=$C$2+75"}
+{"id": "fxbench-273", "raw_response": "{\"formula\": \"=$B$13\"}", "answer": "=$B$13"}
+{"id": "fxbench-274", "raw_response": "{\"formula\": \"=(D26*D22)\"}", "answer": "=(D26*D22)"}
+{"id": "fxbench-275", "raw_response": "{\"formula\": \"=\\\"Date: \\\"+TEXT(C5+7,\\\"yyyy-mm-dd hh:mm:ss\\\")\"}", "answer": "=\"Date: \"+TEXT(C5+7,\"yyyy-mm-dd hh:mm:ss\")"}
+{"id": "fxbench-276", "raw_response": "{\"formula\": \"=$B$14\"}", "answer": "=$B$14"}
+{"id": "fxbench-277", "raw_response": "{\"formula\": \"=$B$27\"}", "answer": "=$B$27"}
+{"id": "fxbench-278", "raw_response": "{\"formula\": \"=$D$21^2\"}", "answer": "=$D$21^2"}
+{"id": "fxbench-279", "raw_response": "{\"formula\": \"=(1-((F30/F24)^2)*((D16-((F30/F24)*D17)+(((F30/F24)^2)*D18)))/2)\"}", "answer": "=(1-((F30/F24)^2)*((D16-((F30/F24)*D17)+(((F30/F24)^2)*D18)))/2)"}
+{"id": "fxbench-280", "raw_response": "{\"formula\": \"=(E22-F22)/G22\"}", "answer": "=(E22-F22)/G22"}
+{"id": "fxbench-281", "raw_response": "{\"formula\": \"=$K$3\"}", "answer": "=$K$3"}
+{"id": "fxbench-282", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-283", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-284", "raw_response": "{\"formula\": \"MAX(C3:C18)\"}", "answer": "MAX(C3:C18)"}
+{"id": "fxbench-285", "raw_response": "{\"formula\": \"=(D15-D17)/2\"}", "answer": "=(D15-D17)/2"}
+{"id": "fxbench-286", "raw_response": "{\"formula\": \"='Propulsion Subsystem Sizing'!C36+'Propulsion Subsystem Sizing'!J2+J11\"}", "answer": "='Propulsion Subsystem Sizing'!C36+'Propulsion Subsystem Sizing'!J2+J11"}
+{"id": "fxbench-287", "raw_response": "{\"formula\": \"=(G3-G2)/G2\"}", "answer": "=(G3-G2)/G2"}
+{"id": "fxbench-288", "raw_response": "{\"formula\": \"=$B$10\"}", "answer": "=$B$10"}
+{"id": "fxbench-289", "raw_response": "{\"formula\": \"=$B$2:$B$7\"}", "answer": "=$B$2:$B$7"}
+{"id": "fxbench-290", "raw_response": "{\"formula\": \"=(G3-G4)+(G4-G5)+(G5-G6)+(G6-G7)+(G7-G8)+(G8-G9)\"}", "answer": "=(G3-G4)+(G4-G5)+(G5-G6)+(G6-G7)+(G7-G8)+(G8-G9)"}
+{"id": "fxbench-291", "raw_response": "{\"formula\": \"=(SUM(C4:C45)-SUM(C19:C20,C25:C28,C35:C38,C39:C43,C44:C45))\"}", "answer": "=(SUM(C4:C45)-SUM(C19:C20,C25:C28,C35:C38,C39:C43,C44:C45))"}
+{"id": "fxbench-292", "raw_response": "{\"formula\": \"=(F35+G35+H35+I35+J35+K35+L35+M35+D35+E35)\"}", "answer": "=(F35+G35+H35+I35+J35+K35+L35+M35+D35+E35)"}
+{"id": "fxbench-293", "raw_response": "{\"formula\": \"=$U$9\"}", "answer": "=$U$9"}
+{"id": "fxbench-294", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-295", "raw_response": "{\"formula\": \"=$C$4+C5\"}", "answer": "=$C$4+C5"}
+{"id": "fxbench-296", "raw_response": "{\"formula\": \"=(COUNTIFS(D2:D26,\"<>N/A\",D2:D26,\"<>\")/COUNTIF(D2:D26,\"<>N/A\"))+(COUNTIFS(E2:E26,\"<>N/A\",E2:E26,\"<>\")/COUNTIF(E2:E26,\"<>N/A\"))+(COUNTIFS(F2:F26,\"<>N/A\",F2:F26,\"<>\")/COUNTIF(F2:F26,\"<>N/A\"))+(COUNTIFS(G2:G26,\"<>N/A\",G2:G26,\"<>\")/COUNTIF(G2:G26,\"<>N/A\"))+(COUNTIFS(H2:H26,\"<>N/A\",H2:H26,\"<>\")/COUNTIF(H2:H26,\"<>N/A\"))+(COUNTIFS(I2:I26,\"<>N/A\",I2:I26,\"<>\")/COUNTIF(I2:I26,\"<>N/A\"))+(COUNTIFS(J2:J26,\"<>N/A\",J2:J26,\"<>\")/COUNTIF(J2:J26,\"<>N/A\"))+(COUNTIFS(K2:K26,\"<>N/A\",K2:K26,\"<>\")/COUNTIF(K2:K26,\"<>N/A\"))+(COUNTIFS(L2:L26,\"<>N/A\",L2:L26,\"<>\")/COUNTIF(L2:L26,\"<>N/A\"))+(COUNTIFS(M2:M26,\"<>N/A\",M2:M26,\"<>\")/COUNTIF(M2:M26,\"<>N/A\"))+(COUNTIFS(N2:N26,\"<>N/A\",N2:N26,\"<>\")/COUNTIF(N2:N26,\"<>N/A\"))+(COUNTIFS(O2:O26,\"<>N/A\",O2:O26,\"<>\")/COUNTIF(O2:O26,\"<>N/A\"))\"}", "answer": null}
+{"id": "fxbench-297", "raw_response": "{\"formula\": \"SUMIF(B2:B31,\\\">=2\\\",C2:C31)\"}", "answer": "SUMIF(B2:B31,\">=2\",C2:C31)"}
+{"id": "fxbench-298", "raw_response": "{\"formula\": \"=$F$5\"}", "answer": "=$F$5"}
+{"id": "fxbench-299", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-300", "raw_response": "{\"formula\": \"=$A$2:$A$534,MID(F17,1,1),$B$2:$B$534,MID(F17,2,1))\"}", "answer": "=$A$2:$A$534,MID(F17,1,1),$B$2:$B$534,MID(F17,2,1))"}
+{"id": "fxbench-301", "raw_response": "{\"formula\": \"SUMPRODUCT(--(B3:B1000=K3),--(C3:C1000=L3),--(D3:D1000=O3),--(E3:E1000=Q3))\"}", "answer": "SUMPRODUCT(--(B3:B1000=K3),--(C3:C1000=L3),--(D3:D1000=O3),--(E3:E1000=Q3))"}
+{"id": "fxbench-302", "raw_response": "{\"formula\": \"=$W$32*(C4/K4)+(1-$W$32)*(M3+O3)\"}", "answer": "=$W$32*(C4/K4)+(1-$W$32)*(M3+O3)"}
+{"id": "fxbench-303", "raw_response": "{\"formula\": \"=$E$15+(A16-$A$15)*$F$15\"}", "answer": "=$E$15+(A16-$A$15)*$F$15"}
+{"id": "fxbench-304", "raw_response": "{\"formula\": \"=(I2*100)/G2\"}", "answer": "=(I2*100)/G2"}
+{"id": "fxbench-305", "raw_response": "{\"formula\": \"=\\\"Early/Late\\\"\"}", "answer": "=\"Early/Late\""}
+{"id": "fxbench-306", "raw_response": "{\"formula\": \"=$J$32\"}", "answer": "=$J$32"}
+{"id": "fxbench-307", "raw_response": "{\"formula\": \"=\\\"Margin:\\\"&TEXT(E47,\\\"0.0L\\\")\"}", "answer": "=\"Margin:\"&TEXT(E47,\"0.0L\")"}
+{"id": "fxbench-308", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-309", "raw_response": "{\"formula\": \"=(TRIM(MID(B6,1,LEN(B6)-FIND(\\\"-\\\",B6,1)-1))=\\\"PRP\\\")*1\"}", "answer": "=(TRIM(MID(B6,1,LEN(B6)-FIND(\"-\",B6,1)-1))=\"PRP\")*1"}
+{"id": "fxbench-310", "raw_response": "{\"formula\": \"=\\\"Earliest Date Attended\\\"\"}", "answer": "=\"Earliest Date Attended\""}
+{"id": "fxbench-311", "raw_response": "{\"formula\": \"=$H$5\"}", "answer": "=$H$5"}
+{"id": "fxbench-312", "raw_response": "{\"formula\": \"=(E13*D4)\"}", "answer": "=(E13*D4)"}
+{"id": "fxbench-313", "raw_response": "{\"formula\": \"=$M$5\"}", "answer": "=$M$5"}
+{"id": "fxbench-314", "raw_response": "{\"formula\": \"=$E$34\"}", "answer": "=$E$34"}
+{"id": "fxbench-315", "raw_response": "{\"formula\": \"=(B5*B7)/B11\"}", "answer": "=(B5*B7)/B11"}
+{"id": "fxbench-316", "raw_response": "{\"formula\": \"=(240-D4)\"}", "answer": "=(240-D4)"}
+{"id": "fxbench-317", "raw_response": "{\"formula\": \"=(H5-$I$1)\"}", "answer": "=(H5-$I$1)"}
+{"id": "fxbench-318", "raw_response": "{\"formula\": \"=$B$4*H2\"}", "answer": "=$B$4*H2"}
+{"id": "fxbench-319", "raw_response": "{\"formula\": \"=(COUNTA(B4:B23)-COUNTIF(B4:B23,\\\"<=\\\"&TODAY()))\"}", "answer": "=(COUNTA(B4:B23)-COUNTIF(B4:B23,\"<=\"&TODAY()))"}
+{"id": "fxbench-320", "raw_response": "{\"formula\": \"=$E$35\"}", "answer": "=$E$35"}
+{"id": "fxbench-321", "raw_response": "{\"formula\": \"=(G9-F9)/F9\"}", "answer": "=(G9-F9)/F9"}
+{"id": "fxbench-322", "raw_response": "{\"formula\": \"\"}", "answer": ""}
+{"id": "fxbench-323", "raw_response": "{\"formula\": \"=\"\"IF(AN4=\"\"\"\",\"\"\"\",AVERAGE(IFERROR(SMALL(AN$4:INDEX($AM$4:$BM$4,MIN(IFERROR(LARGE(IF($AM$4:AN4<>\"\"\"\",$AM$2:AN2),ROW($1:$20)),1=0))),ROW($1:$8)),1=0)))\"}", "answer": null}
+{"id": "fxbench-324", "raw_response": "{\"formula\": \"=(A7-A6)/((A7-A6)/A7)\"}", "answer": "=(A7-A6)/((A7-A6)/A7)"}
+{"id": "fxbench-325", "raw_response": "{\"formula\": \"=\\\"Days Past: \\\"&IF(IFERROR(VALUE(LEFT($D5,2)),VALUE(LEFT($D5,1)))- IFERROR(VALUE(LEFT($D$2,3)),VALUE(LEFT($D$2,2)))>=0,\"\"\"\",-IFERROR(VALUE(LEFT($D5,2)),VALUE(LEFT($D5,1)))+ IFERROR(VALUE(LEFT($D$2,3)),VALUE(LEFT($D$2,2))))\"}", "answer": null}
+{"id": "fxbench-326", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-327", "raw_response": "{\"formula\": \"=\\\"Trend \\\"&D9&\\\" Day \\\"&RIGHT(SUBSTITUTE(C10,\\\" \\\",\\\"     \\\"),3)+1\"}", "answer": "=\"Trend \"&D9&\" Day \"&RIGHT(SUBSTITUTE(C10,\" \",\"     \"),3)+1"}
+{"id": "fxbench-328", "raw_response": "{\"formula\": \"=(D20-D19)/D19\"}", "answer": "=(D20-D19)/D19"}
+{"id": "fxbench-329", "raw_response": "{\"formula\": \"INDEX($B$3:$B$9,MATCH($G3,$A$3:$A$9,0))\"}", "answer": "INDEX($B$3:$B$9,MATCH($G3,$A$3:$A$9,0))"}
+{"id": "fxbench-330", "raw_response": "{\"formula\": \"=(O4*M4)*Q4\"}", "answer": "=(O4*M4)*Q4"}
+{"id": "fxbench-331", "raw_response": "{\"formula\": \"=$CQ11/$CR11\"}", "answer": "=$CQ11/$CR11"}
+{"id": "fxbench-332", "raw_response": "{\"formula\": \"=(C6*0.1)&\"\" - \"\"&(C6*0.5)&\"\" mg\"\"\"}", "answer": null}
+{"id": "fxbench-333", "raw_response": "{\"formula\": \"=\\\"=\\\"&INDEX($D$13:$H$20,IFERROR(MATCH(E$25&$B26&MID(E26,SEARCH(\\\"/\\\",E26)+1,99),$A$13:$A$20&$B$13:$B$20&$C$13:$C$20,0),MATCH(E$25&$B26,$A$13:$A$20&$B$13:$B$20,0)),MATCH(IFERROR(LEFT(E26,SEARCH(\\\"/\\\",E26)-1),E26),$D$12:$H$12,0))\"}", "answer": "=\"=\"&INDEX($D$13:$H$20,IFERROR(MATCH(E$25&$B26&MID(E26,SEARCH(\"/\",E26)+1,99),$A$13:$A$20&$B$13:$B$20&$C$13:$C$20,0),MATCH(E$25&$B26,$A$13:$A$20&$B$13:$B$20,0)),MATCH(IFERROR(LEFT(E26,SEARCH(\"/\",E26)-1),E26),$D$12:$H$12,0))"}
+{"id": "fxbench-334", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-335", "raw_response": "{\"formula\": \"=$E$2\"}", "answer": "=$E$2"}
+{"id": "fxbench-336", "raw_response": "{\"formula\": \"=(COUNTIF(J28:J37,\\\"MC\\\")+(COUNTIF(J28:J37,\\\"NCNS\\\")+(COUNTIF(J28:J37,\\\"AL\\\")+(COUNTIF(J28:J37,\\\"EL\\\")+(COUNTIF(J28:J37,\\\"HMC\\\")+(COUNTIF(J28:J37,\\\"PHIL\\\")))))\"}`}", "answer": null}
+{"id": "fxbench-337", "raw_response": "{\"formula\": \"=(NETWORKDAYS(E2,F2,W$2:W$4)-1)*((U$3+(U$3<U$2)-U$2))+(IF(WEEKDAY(E2,2)>=6,0,IF(MOD(E2,1)<=U$3,U$3-MOD(E2,1),IF(MOD(E2,1)>U$2,MIN(U$3,MOD(F2,1))+1-MOD(E2,1),0))))+(IF(MOD(F2,1)>=U$2,IF(AND(WEEKDAY(F2,2)>=2,WEEKDAY(F2,2)<=6),U$3)+MOD(F2,1)-U$2,IF(MOD(F2,1)<=U$3,MOD(F2,1),0)))\"}", "answer": "=(NETWORKDAYS(E2,F2,W$2:W$4)-1)*((U$3+(U$3<U$2)-U$2))+(IF(WEEKDAY(E2,2)>=6,0,IF(MOD(E2,1)<=U$3,U$3-MOD(E2,1),IF(MOD(E2,1)>U$2,MIN(U$3,MOD(F2,1))+1-MOD(E2,1),0))))+(IF(MOD(F2,1)>=U$2,IF(AND(WEEKDAY(F2,2)>=2,WEEKDAY(F2,2)<=6),U$3)+MOD(F2,1)-U$2,IF(MOD(F2,1)<=U$3,MOD(F2,1),0)))"}
+{"id": "fxbench-338", "raw_response": "{\"formula\": \"SUM(I4:I14)\"}", "answer": "SUM(I4:I14)"}
+{"id": "fxbench-339", "raw_response": "{\"formula\": \"=(G4-G3)/G3\"}", "answer": "=(G4-G3)/G3"}
+{"id": "fxbench-340", "raw_response": "{\"formula\": \"=(ROUND(SUBSTITUTE($BY$30,\"\" kg\"\",\"\"\"\")*0.6,0))&\"\" kg\"\"\"}", "answer": null}
+{"id": "fxbench-341", "raw_response": "{\"formula\": \"=(J5*0.21)\"}", "answer": "=(J5*0.21)"}
+{"id": "fxbench-342", "raw_response": "{\"formula\": \"SUMPRODUCT((LEFT(C4:AD4,2)>RIGHT(C4:AD4,2))*1,24-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))+SUMPRODUCT((LEFT(C4:AD4,2)<RIGHT(C4:AD4,2))*1,-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))\"}", "answer": "SUMPRODUCT((LEFT(C4:AD4,2)>RIGHT(C4:AD4,2))*1,24-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))+SUMPRODUCT((LEFT(C4:AD4,2)<RIGHT(C4:AD4,2))*1,-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))"}
+{"id": "fxbench-343", "raw_response": "{\"formula\": \"=$B$9\"}", "answer": "=$B$9"}
+{"id": "fxbench-344", "raw_response": "{\"formula\": \"COUNT(INDEX(UNIQUE(FILTER($B$3:$B$30,$B$3:$B$30<>\"\")),\"&TEXT(SEQUENCE(,COUNTA(UNIQUE(FILTER($B$3:$B$30,$B$3:$B$30<>\"\"))),1,1,1))&\"\")\"}", "answer": null}
+{"id": "fxbench-345", "raw_response": "{\"formula\": \"SUMPRODUCT(--($G$2:$G$27<>\\\"\\\"\\\"\\\"),--(MONTH($G$2:$G$27)=(ROW()-ROW($A$30))),--(YEAR($G$2:$G$27)=A$29))     +     SUMPRODUCT(--($L$2:$L$27<>\\\"\\\"\\\"\\\"),--(MONTH($L$2:$L$27)=(ROW()-ROW($A$30))),--(YEAR($L$2:$L$27)=A$29))     +     SUMPRODUCT(--($Q$2:$Q$27<>\\\"\\\"\\\"\\\"),--(MONTH($Q$2:$Q$27)=(ROW()-ROW($A$30))),--(YEAR($Q$2:$Q$27)=A$29))     +     SUMPRODUCT(--($V$2:$V$27<>\\\"\\\"\\\"\\\"),--(MONTH($V$2:$V$27)=(ROW()-ROW($A$30))),--(YEAR($V$2:$V$27)=A$29))\"}", "answer": "SUMPRODUCT(--($G$2:$G$27<>\"\"\"\"),--(MONTH($G$2:$G$27)=(ROW()-ROW($A$30))),--(YEAR($G$2:$G$27)=A$29))     +     SUMPRODUCT(--($L$2:$L$27<>\"\"\"\"),--(MONTH($L$2:$L$27)=(ROW()-ROW($A$30))),--(YEAR($L$2:$L$27)=A$29))     +     SUMPRODUCT(--($Q$2:$Q$27<>\"\"\"\"),--(MONTH($Q$2:$Q$27)=(ROW()-ROW($A$30))),--(YEAR($Q$2:$Q$27)=A$29))     +     SUMPRODUCT(--($V$2:$V$27<>\"\"\"\"),--(MONTH($V$2:$V$27)=(ROW()-ROW($A$30))),--(YEAR($V$2:$V$27)=A$29))"}
+{"id": "fxbench-346", "raw_response": "{\"formula\": \"=$V$24\"}", "answer": "=$V$24"}
+{"id": "fxbench-347", "raw_response": "{\"formula\": \"=$D$21\"}", "answer": "=$D$21"}
+{"id": "fxbench-348", "raw_response": "{\"formula\": \"=(B3+B4+B5)/3\"}", "answer": "=(B3+B4+B5)/3"}
+{"id": "fxbench-349", "raw_response": "{\"formula\": \"=$I$2\"}", "answer": "=$I$2"}
+{"id": "fxbench-350", "raw_response": "{\"formula\": \"=$D$2\"}", "answer": "=$D$2"}
+{"id": "fxbench-351", "raw_response": "{\"formula\": \"=(H2*C2)-L2\"}", "answer": "=(H2*C2)-L2"}
+{"id": "fxbench-352", "raw_response": "{\"formula\": \"=$D$2\"}", "answer": "=$D$2"}
+{"id": "fxbench-353", "raw_response": "{\"formula\": \"=(ROWS($E$3:E3)-1)/10\"}", "answer": "=(ROWS($E$3:E3)-1)/10"}
+{"id": "fxbench-354", "raw_response": "{\"formula\": \"=$D$25\"}", "answer": "=$D$25"}
+{"id": "fxbench-355", "raw_response": "{\"formula\": \"=(J12+J11+J10+J9+J8+J7+J6+J5+J4+J3+J2+J1)/12\"}", "answer": "=(J12+J11+J10+J9+J8+J7+J6+J5+J4+J3+J2+J1)/12"}
+{"id": "fxbench-356", "raw_response": "{\"formula\": \"=(E8-D8-G8)\"}", "answer": "=(E8-D8-G8)"}
+{"id": "fxbench-357", "raw_response": "{\"formula\": \"=$C$6*1000\"}", "answer": "=$C$6*1000"}
+{"id": "fxbench-358", "raw_response": "{\"formula\": \"=[Person_1] - No depreciation, one time expense\"}", "answer": "=[Person_1] - No depreciation, one time expense"}
+{"id": "fxbench-359", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-360", "raw_response": "{\"formula\": \"=(LEN(A2)-LEN(SUBSTITUTE(A2,\\\" \\\",\\\"\\\")))/2\"}", "answer": "=(LEN(A2)-LEN(SUBSTITUTE(A2,\" \",\"\")))/2"}
+{"id": "fxbench-361", "raw_response": "{\"formula\": \"=(B2+C2)\"}", "answer": "=(B2+C2)"}
+{"id": "fxbench-362", "raw_response": "{\"formula\": \"=$B13+IF(ISNUMBER($H$13),$H$13,0)-IF(ISNUMBER($J$13),$J$13,0)\"}", "answer": "=$B13+IF(ISNUMBER($H$13),$H$13,0)-IF(ISNUMBER($J$13),$J$13,0)"}
+{"id": "fxbench-363", "raw_response": "{\"formula\": \"=(C19+C18)/2\"}", "answer": "=(C19+C18)/2"}
+{"id": "fxbench-364", "raw_response": "{\"formula\": \"=$F$3\"}", "answer": "=$F$3"}
+{"id": "fxbench-365", "raw_response": "{\"formula\": \"IFERROR(IF(INDEX('Product A'!$C$3:$C$11,MATCH(B4,'Product A'!$A$3:$A$11,0))<>\\\"\\\",\\\"\\\"J\\\"\\\",\\\"\\\"L\\\"\\\"),\\\"\\\"L\\\"\\\"\"}", "answer": "IFERROR(IF(INDEX('Product A'!$C$3:$C$11,MATCH(B4,'Product A'!$A$3:$A$11,0))<>\"\",\"\"J\"\",\"\"L\"\"),\"\"L\"\""}
+{"id": "fxbench-366", "raw_response": "{\"formula\": \"\"}", "answer": ""}
+{"id": "fxbench-367", "raw_response": "{\"formula\": \"SUMIF(B2:B51,\\\"Adam\\\",E2:E51)\"}", "answer": "SUMIF(B2:B51,\"Adam\",E2:E51)"}
+{"id": "fxbench-368", "raw_response": null, "answer": null}
+{"id": "fxbench-369", "raw_response": "{\"formula\": \"=$E$1\"}", "answer": "=$E$1"}
+{"id": "fxbench-370", "raw_response": "{\"formula\": \"=(B3+C3)/2\"}", "answer": "=(B3+C3)/2"}
+{"id": "fxbench-371", "raw_response": "{\"formula\": \"=$R$4\"}", "answer": "=$R$4"}
+{"id": "fxbench-372", "raw_response": "{\"formula\": \"=(D23-C23-1)\"}", "answer": "=(D23-C23-1)"}
+{"id": "fxbench-373", "raw_response": "{\"formula\": \"=(C5+D5)/2\"}", "answer": "=(C5+D5)/2"}
+{"id": "fxbench-374", "raw_response": "{\"formula\": \"=\\\"Ramadan\\\"&\\\" \\\"&\\\"Ramadan\\\"&\\\" \\\"&\\\"Ramadan\\\"&\\\" \\\"&\\\"Eid Al Fitr\\\"&\\\" \\\"&\\\"Eid Al Fitr\\\"\"}", "answer": "=\"Ramadan\"&\" \"&\"Ramadan\"&\" \"&\"Ramadan\"&\" \"&\"Eid Al Fitr\"&\" \"&\"Eid Al Fitr\""}
+{"id": "fxbench-375", "raw_response": "{\"formula\": \"=(SUMPRODUCT(IF(IF(C2:AA2<>\"\"\"\",COLUMN(C2:AA2),0)>LARGE(IF(C2:AA2<>\"\"\"\",COLUMN(C2:AA2),0),7),1)*C2:AA2)/MIN(COUNT(C2:AA2),6))\"}", "answer": null}
+{"id": "fxbench-376", "raw_response": "{\"formula\": \"=$G$2:$G$4\"}", "answer": "=$G$2:$G$4"}
+{"id": "fxbench-377", "raw_response": "{\"formula\": \"COUNTA($E$2:$E$11,$I$2:$I$11)\"}", "answer": "COUNTA($E$2:$E$11,$I$2:$I$11)"}
+{"id": "fxbench-378", "raw_response": "{\"formula\": \"COUNTIFS(B6:B18,\\\"1\\\",C6:C18,\\\"Result 1\\\",D6:D18,\\\"Medium\\\",E6:E18,\\\"Within\\\")\"}", "answer": "COUNTIFS(B6:B18,\"1\",C6:C18,\"Result 1\",D6:D18,\"Medium\",E6:E18,\"Within\")"}
+{"id": "fxbench-379", "raw_response": "{\"formula\": \"SUMPRODUCT(--(INDEX('Forecasting MMs'!$A$2:$U$700,,MATCH('Front Page'!$A2&\"\" Forecast Week\"\",'Forecasting MMs'!$A$1:$U$1,0))=WEEKNUM(TODAY()))*(INDEX('Forecasting MMs'!$A$2:$U$700,,MATCH('Front Page'!$A2&\"\" Forecast\"\",'Forecasting MMs'!$A$1:$U$1,0))>0))\"}", "answer": null}
+{"id": "fxbench-380", "raw_response": "{\"formula\": \"=$B$11\"}", "answer": "=$B$11"}
+{"id": "fxbench-381", "raw_response": "{\"formula\": \"\"}", "answer": ""}
+{"id": "fxbench-382", "raw_response": "{\"formula\": \"=$G$5\"}", "answer": "=$G$5"}
+{"id": "fxbench-383", "raw_response": "{\"formula\": \"=\\\"=\\\"IF(ROWS(N$19:N19)>COUNTA(E:E),\\\"\\\"\\\"\\\",INDEX(E:E,SMALL(IF(E$5:E$16<>\\\"\\\"\\\"\\\",ROW(E$5:E$16)),ROWS(N$19:N19))))\\\"\\\"\\\"\\\"\"}", "answer": "=\"=\"IF(ROWS(N$19:N19)>COUNTA(E:E),\"\"\"\",INDEX(E:E,SMALL(IF(E$5:E$16<>\"\"\"\",ROW(E$5:E$16)),ROWS(N$19:N19))))\"\"\"\""}
+{"id": "fxbench-384", "raw_response": null, "answer": null}
+{"id": "fxbench-385", "raw_response": "{\"formula\": \"IF(COLUMNS($C2:D2)=1,SUBSTITUTE(B2,TRIM(RIGHT(SUBSTITUTE($A2,\"\" \"\",REPT(\"\" \"\",99)),99*COUNT(E2:F2))),),IFERROR(--LEFT(RIGHT(SUBSTITUTE($A2,\"\" \"\",REPT(\"\" \"\",99)),99*COLUMNS(D2:$E2)),99),\"\"\"\"))\"}", "answer": null}
+{"id": "fxbench-386", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-387", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-388", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-389", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-390", "raw_response": "{\"formula\": \"=$C$33\"}", "answer": "=$C$33"}
+{"id": "fxbench-391", "raw_response": "{\"formula\": \"=\\\"\\\"\"}", "answer": "=\"\""}
+{"id": "fxbench-392", "raw_response": "{\"formula\": \"=$B$1\"}", "answer": "=$B$1"}
+{"id": "fxbench-393", "raw_response": "{\"formula\": \"COUNTIF(INDEX(B:B,LOOKUP(2,1/ISNUMBER(SEARCH(\\\"Service\\\",$A$3:A13)),ROW($A$3:A13))+1):B13,LOOKUP(2,1/ISNUMBER(SEARCH(\\\"Service\\\",$A$3:A13)),$A$3:A13))\"}", "answer": "COUNTIF(INDEX(B:B,LOOKUP(2,1/ISNUMBER(SEARCH(\"Service\",$A$3:A13)),ROW($A$3:A13))+1):B13,LOOKUP(2,1/ISNUMBER(SEARCH(\"Service\",$A$3:A13)),$A$3:A13))"}
+{"id": "fxbench-394", "raw_response": "{\"formula\": \"=$G$4\"}", "answer": "=$G$4"}
+{"id": "fxbench-395", "raw_response": "{\"formula\": \"=(C4-D4)/D4\"}", "answer": "=(C4-D4)/D4"}
+{"id": "fxbench-396", "raw_response": "{\"formula\": \"=\"\"}", "answer": null}
+{"id": "fxbench-397", "raw_response": "{\"formula\": \"=(AVERAGE(OFFSET($D$3,,IF(COUNTA($D$3:$AD$3)<=12,0,COUNTIF($D$3:$AD$3,\"\"<>\"\")-12),1,IF(COUNTA($D$3:$AD$3)<=12,COUNTA($D$3:$AD$3),12)))-AVERAGE(OFFSET($D$3,,IF(COUNTA($D$3:$AD$3)<=12,0,COUNTIF($D$3:$AD$3,\"\"<>\"\")-13),1,IF(COUNTA($D$3:$AD$3)<=12,COUNTA($D$3:$AD$3)-1,12))))*100\"}", "answer": null}
+{"id": "fxbench-398", "raw_response": "{\"formula\": \"=$B$2:AVERAGE(B6:B17)\"}", "answer": "=$B$2:AVERAGE(B6:B17)"}
+{"id": "fxbench-399", "raw_response": "{\"formula\": \"=(IF($E$3:$E$50<>0,$E$3:$E$50))\"}", "answer": "=(IF($E$3:$E$50<>0,$E$3:$E$50))"}
+{"id": "fxbench-400", "raw_response": "{\"formula\": \"=$AC$6\"}", "answer": "=$AC$6"}
+{"id": "fxbench-401", "raw_response": "{\"formula\": \"=$E2-$F2\"}", "answer": "=$E2-$F2"}
+{"id": "fxbench-402", "raw_response": "{\"formula\": \"=(Q4/SUM($Q4:$V4))\"}", "answer": "=(Q4/SUM($Q4:$V4))"}
+{"id": "fxbench-403", "raw_response": "{\"formula\": \"COUNTIFS($F$2:$F$36,\\\">\\\"&0,$F$2:$F$36,\\\"<\\\"&1,$A$2:$A$36,\\\"C\\\")\"}", "answer": "COUNTIFS($F$2:$F$36,\">\"&0,$F$2:$F$36,\"<\"&1,$A$2:$A$36,\"C\")"}
+{"id": "fxbench-404", "raw_response": "{\"formula\": \"COUNTIFS($A$5:$A$11,\\\"\\\">=\\\"&G$3,$A$5:$A$11,\\\"\\\"<=\\\"&EOMONTH(G$3,0),$B$5:$B$11,\\\"\\\"Open\\\"\",$C$5:$C$11,$F5)\"}", "answer": null}
+{"id": "fxbench-405", "raw_response": "{\"formula\": \"=$O$2:$O$101\"}", "answer": "=$O$2:$O$101"}
+{"id": "fxbench-406", "raw_response": "{\"formula\": \"=(SUMPRODUCT(--(MOD($B3:$H3,2)=1)))+(SUMPRODUCT(--(MOD($B3:$H3,2)=0)))\"}", "answer": "=(SUMPRODUCT(--(MOD($B3:$H3,2)=1)))+(SUMPRODUCT(--(MOD($B3:$H3,2)=0)))"}
+{"id": "fxbench-407", "raw_response": "{\"formula\": \"=$B$2:$B$45\"}", "answer": "=$B$2:$B$45"}
+{"id": "fxbench-408", "raw_response": "{\"formula\": \"=$AD$16\"}", "answer": "=$AD$16"}
+{"id": "fxbench-409", "raw_response": "{\"formula\": \"=\"\"08\"\":\"}", "answer": null}
+{"id": "fxbench-410", "raw_response": "{\"formula\": \"SUMIFS($J$2:$J$6,$G$2:$G$6,\"\">=\"\"&N8,$G$2:$G$6,\"\"<\"\"&TIME(HOUR(N8),MINUTE(N8)+60,0))\"}", "answer": null}
+{"id": "fxbench-411", "raw_response": null, "answer": null}
+{"id": "fxbench-412", "raw_response": "{\"formula\": \"=(YEAR(C8)-YEAR(C7))*12+MONTH(C8)-MONTH(C7)\"}", "answer": "=(YEAR(C8)-YEAR(C7))*12+MONTH(C8)-MONTH(C7)"}
+{"id": "fxbench-413", "raw_response": "{\"formula\": \"=(NETWORKDAYS.INTL(B4,D4,16,Sheet2!$N$11:$N$28)-1)*($C4-$B4)*24+((MAX(0,MIN(D4,Sheet2!$N$11:$N$28)-B4)*24)-(MAX(0,MIN(D4,Sheet2!$N$11:$N$28)-B4)*24))\"}", "answer": "=(NETWORKDAYS.INTL(B4,D4,16,Sheet2!$N$11:$N$28)-1)*($C4-$B4)*24+((MAX(0,MIN(D4,Sheet2!$N$11:$N$28)-B4)*24)-(MAX(0,MIN(D4,Sheet2!$N$11:$N$28)-B4)*24))"}
+{"id": "fxbench-414", "raw_response": "{\"formula\": \"=(LEN(UPPER(C5)&\\\"\\\",\\\"\\\"&UPPER(D5)&\\\"\\\",\\\"\\\"&UPPER(E5)&\\\"\\\",\\\"\\\"&UPPER(F5)&\\\"\\\",\\\"\\\"&UPPER(G5)&\\\"\\\",\\\"\\\"&UPPER(H5))-LEN(SUBSTITUTE(UPPER(C5)&\\\"\\\",\\\"\\\"&UPPER(D5)&\\\"\\\",\\\"\\\"&UPPER(E5)&\\\"\\\",\\\"\\\"&UPPER(F5)&\\\"\\\",\\\"\\\"&UPPER(G5)&\\\"\\\",\\\"\\\"&UPPER(H5),V8,\\\"\\\"\\\"\")))/2\"}", "answer": null}
+{"id": "fxbench-415", "raw_response": "{\"formula\": \"=$E3*((MAX(K$2-$A3,0)-MAX(DAYS(EOMONTH(K$2,-1),$A3),0))-(MAX(K$2-$B3,0)-MAX(DAYS(EOMONTH(K$2,-1),$B3),0))+(EOMONTH(K$2,0)=EOMONTH($A3,0)))\"}", "answer": "=$E3*((MAX(K$2-$A3,0)-MAX(DAYS(EOMONTH(K$2,-1),$A3),0))-(MAX(K$2-$B3,0)-MAX(DAYS(EOMONTH(K$2,-1),$B3),0))+(EOMONTH(K$2,0)=EOMONTH($A3,0)))"}
+{"id": "fxbench-416", "raw_response": "{\"formula\": \"V3\"}", "answer": "V3"}
+{"id": "fxbench-417", "raw_response": "{\"formula\": \"=(J7+J11+J15)/3\"}", "answer": "=(J7+J11+J15)/3"}
+{"id": "fxbench-418", "raw_response": "{\"formula\": \"=$J$2/$I$2\"}", "answer": "=$J$2/$I$2"}
+{"id": "fxbench-419", "raw_response": "{\"formula\": \"=(SUM($C$7:C11)-SUM($C$10:C11))\"}", "answer": "=(SUM($C$7:C11)-SUM($C$10:C11))"}
+{"id": "fxbench-420", "raw_response": null, "answer": null}
+{"id": "fxbench-421", "raw_response": "{\"formula\": \"=(MAX(V15:V16))\"}", "answer": "=(MAX(V15:V16))"}
+{"id": "fxbench-422", "raw_response": "{\"formula\": \"=(INDEX(H:H,MATCH(YEAR(C2),G:G,0))*((DATEDIF(C2,DATE(YEAR(C2)+1,MONTH(1),DAY(1)),\"\"d\"\"))/365))\"}", "answer": null}
+{"id": "fxbench-423", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-424", "raw_response": "{\"formula\": \"=$F$3\"}", "answer": "=$F$3"}
+{"id": "fxbench-425", "raw_response": "{\"formula\": \"=(H14/(($B$21*12+$C$21)^2)*703\"}", "answer": "=(H14/(($B$21*12+$C$21)^2)*703"}
+{"id": "fxbench-426", "raw_response": "{\"formula\": \"=(D7*1)\"}", "answer": "=(D7*1)"}
+{"id": "fxbench-427", "raw_response": "{\"formula\": \"INDEX(K:K,MATCH($F3,$L:$L,0))\"}", "answer": "INDEX(K:K,MATCH($F3,$L:$L,0))"}
+{"id": "fxbench-428", "raw_response": "{\"formula\": \"=(MAX(B4:E4))\"}", "answer": "=(MAX(B4:E4))"}
+{"id": "fxbench-429", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-430", "raw_response": null, "answer": null}
+{"id": "fxbench-431", "raw_response": "{\"formula\": \"=$N$3\"}", "answer": "=$N$3"}
+{"id": "fxbench-432", "raw_response": "{\"formula\": \"=\\\"==TRANSPOSE(INDEX(B:B,SEQUENCE(J2-I2+1,,I2)))\\\"\"}", "answer": "=\"==TRANSPOSE(INDEX(B:B,SEQUENCE(J2-I2+1,,I2)))\""}
+{"id": "fxbench-433", "raw_response": "{\"formula\": \"=\\\"==MOD(SMALL(IF(($B5:$M5>$A2)*($B$6:$M$6=\\\"\\\"High\\\"\\\"),$B$5:$M$5*10^6+INDEX($B$7:$M$9,MATCH($B2,$A$7:$A$9,),)),COLUMNS($G2:L2)),10^6)\\\"\"}", "answer": "=\"==MOD(SMALL(IF(($B5:$M5>$A2)*($B$6:$M$6=\"\"High\"\"),$B$5:$M$5*10^6+INDEX($B$7:$M$9,MATCH($B2,$A$7:$A$9,),)),COLUMNS($G2:L2)),10^6)\""}
+{"id": "fxbench-434", "raw_response": "{\"formula\": \"=\\\"=\\\"&INDIRECT(ADDRESS(2,COLUMN(INDEX(42:42,MATCH(TRUE,INDEX(ABS(42:42-$D$48)=MIN(INDEX(ABS(42:42-$D$48),,)),,),0)))))&\\\"=\\\"&INDIRECT(ADDRESS(D51,COLUMN(INDEX(42:42,MATCH(TRUE,INDEX(ABS(42:42-$D$48)=MIN(INDEX(ABS(42:42-$D$48),,)),,),0)))-1))\"}", "answer": "=\"=\"&INDIRECT(ADDRESS(2,COLUMN(INDEX(42:42,MATCH(TRUE,INDEX(ABS(42:42-$D$48)=MIN(INDEX(ABS(42:42-$D$48),,)),,),0)))))&\"=\"&INDIRECT(ADDRESS(D51,COLUMN(INDEX(42:42,MATCH(TRUE,INDEX(ABS(42:42-$D$48)=MIN(INDEX(ABS(42:42-$D$48),,)),,),0)))-1))"}
+{"id": "fxbench-435", "raw_response": "{\"formula\": \"=$N$3\"}", "answer": "=$N$3"}
+{"id": "fxbench-436", "raw_response": "{\"formula\": \"=\\\"=\\\"&D16&\\\"=\\\"&E16&\\\"=\\\"&F16&\\\"=\\\"&G16&\\\"=\\\"&H16&\\\"=\\\"&I16&\\\"=\\\"&J16&\\\"=\\\"&K16&\\\"=\\\"&L16\"}", "answer": "=\"=\"&D16&\"=\"&E16&\"=\"&F16&\"=\"&G16&\"=\"&H16&\"=\"&I16&\"=\"&J16&\"=\"&K16&\"=\"&L16"}
+{"id": "fxbench-437", "raw_response": "{\"formula\": \"={\"=MIN(IF($A$2:$A$16=$F3, IF(ISNUMBER(SEARCH(G$1,$D$2:$D$16)),$B$2:$B$16)))\"}\"}", "answer": null}
+{"id": "fxbench-438", "raw_response": "{\"formula\": \"=$B$30\"}", "answer": "=$B$30"}
+{"id": "fxbench-439", "raw_response": "{\"formula\": \"=(LOOKUP(10^308,Formulas!T3:T33,Formulas!T3:T33))/100\"}", "answer": "=(LOOKUP(10^308,Formulas!T3:T33,Formulas!T3:T33))/100"}
+{"id": "fxbench-440", "raw_response": "{\"formula\": \"SUMIF(F5:F7,D$19,E5:E7)\"}", "answer": "SUMIF(F5:F7,D$19,E5:E7)"}
+{"id": "fxbench-441", "raw_response": "{\"formula\": \"=$I$2\"}", "answer": "=$I$2"}
+{"id": "fxbench-442", "raw_response": "{\"formula\": \"SUMIFS(Raw!$F:$F,Raw!$E:$E,$B4,Raw!$C:$C,$C4,Raw!A:A,$D$14)\"}", "answer": "SUMIFS(Raw!$F:$F,Raw!$E:$E,$B4,Raw!$C:$C,$C4,Raw!A:A,$D$14)"}
+{"id": "fxbench-443", "raw_response": "{\"formula\": \"=(MIN(B3:B27))\"}", "answer": "=(MIN(B3:B27))"}
+{"id": "fxbench-444", "raw_response": "{\"formula\": \"=(LOOKUP(10^308,Data!BB3:BB33,Data!BB3:BB33))/100\"}", "answer": "=(LOOKUP(10^308,Data!BB3:BB33,Data!BB3:BB33))/100"}
+{"id": "fxbench-445", "raw_response": "{\"formula\": \"=(E5+E6+E7+E8+E9+E10+E11)\"}", "answer": "=(E5+E6+E7+E8+E9+E10+E11)"}
+{"id": "fxbench-446", "raw_response": "{\"formula\": \"=(B3+C3+D3+E3)/F3\"}", "answer": "=(B3+C3+D3+E3)/F3"}
+{"id": "fxbench-447", "raw_response": "{\"formula\": \"=$C6*$D6*$E6/365\"}", "answer": "=$C6*$D6*$E6/365"}
+{"id": "fxbench-448", "raw_response": "{\"formula\": \"=$U$58:$U$65\"}", "answer": "=$U$58:$U$65"}
+{"id": "fxbench-449", "raw_response": "{\"formula\": \"=(A2*B2)-INT(A2*B2)\"}", "answer": "=(A2*B2)-INT(A2*B2)"}
+{"id": "fxbench-450", "raw_response": "{\"formula\": \"=$C$10-$C$13\"}", "answer": "=$C$10-$C$13"}
+{"id": "fxbench-451", "raw_response": "{\"formula\": \"=$B$31\"}", "answer": "=$B$31"}
+{"id": "fxbench-452", "raw_response": "{\"formula\": \"=(B28*B26)\"}", "answer": "=(B28*B26)"}
+{"id": "fxbench-453", "raw_response": "{\"formula\": \"=(SUMIF(Data!$A$2:$A$26,Analysis!$A3,Data!$G$2:$G$26)/COUNTIF(Data!$A$2:$A$26,Analysis!$A3))\"}", "answer": "=(SUMIF(Data!$A$2:$A$26,Analysis!$A3,Data!$G$2:$G$26)/COUNTIF(Data!$A$2:$A$26,Analysis!$A3))"}
+{"id": "fxbench-454", "raw_response": null, "answer": null}
+{"id": "fxbench-455", "raw_response": "{\"formula\": \"SUM(F3:F400)\"}", "answer": "SUM(F3:F400)"}
+{"id": "fxbench-456", "raw_response": "{\"formula\": \"=(G10-H10)/G10\"}", "answer": "=(G10-H10)/G10"}
+{"id": "fxbench-457", "raw_response": "{\"formula\": \"=$F$5\"}", "answer": "=$F$5"}
+{"id": "fxbench-458", "raw_response": "{\"formula\": \"=$G$6+$G$7\"}", "answer": "=$G$6+$G$7"}
+{"id": "fxbench-459", "raw_response": "{\"formula\": \"SUMIF($D$80:$D$1000, $A21&\\\"-\\\"&D$2, $C$80:$D$1000)\"}", "answer": "SUMIF($D$80:$D$1000, $A21&\"-\"&D$2, $C$80:$D$1000)"}
+{"id": "fxbench-460", "raw_response": "{\"formula\": \"SUMPRODUCT(--($G$2:$G$27<>\\\"\\\"\\\"\\\"),--(MONTH($G$2:$G$27)=(ROW()-ROW($A$30))),--(YEAR($G$2:$G$27)=A$29),--($F$2:$F$27)) + SUMPRODUCT(--($L$2:$L$27<>\\\"\\\"\\\"\\\"),--(MONTH($L$2:$L$27)=(ROW()-ROW($A$30))),--(YEAR($L$2:$L$27)=A$29),--($K$2:$K$27)) + SUMPRODUCT(--($Q$2:$Q$27<>\\\"\\\"\\\"\\\"),--(MONTH($Q$2:$Q$27)=(ROW()-ROW($A$30))),--(YEAR($Q$2:$Q$27)=A$29),--($P$2:$P$27)) + SUMPRODUCT(--($V$2:$V$27<>\\\"\\\"\\\"\\\"),--(MONTH($V$2:$V$27)=(ROW()-ROW($A$30))),--(YEAR($V$2:$V$27)=A$29),--($W$2:$W$27))\"}", "answer": "SUMPRODUCT(--($G$2:$G$27<>\"\"\"\"),--(MONTH($G$2:$G$27)=(ROW()-ROW($A$30))),--(YEAR($G$2:$G$27)=A$29),--($F$2:$F$27)) + SUMPRODUCT(--($L$2:$L$27<>\"\"\"\"),--(MONTH($L$2:$L$27)=(ROW()-ROW($A$30))),--(YEAR($L$2:$L$27)=A$29),--($K$2:$K$27)) + SUMPRODUCT(--($Q$2:$Q$27<>\"\"\"\"),--(MONTH($Q$2:$Q$27)=(ROW()-ROW($A$30))),--(YEAR($Q$2:$Q$27)=A$29),--($P$2:$P$27)) + SUMPRODUCT(--($V$2:$V$27<>\"\"\"\"),--(MONTH($V$2:$V$27)=(ROW()-ROW($A$30))),--(YEAR($V$2:$V$27)=A$29),--($W$2:$W$27))"}
+{"id": "fxbench-461", "raw_response": "{\"formula\": \"=$AC$6\"}", "answer": "=$AC$6"}
+{"id": "fxbench-462", "raw_response": "{\"formula\": \"SUMPRODUCT((LEFT(C4:AD4,2)<RIGHT(C4:AD4,2))*1,-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))\"}", "answer": "SUMPRODUCT((LEFT(C4:AD4,2)<RIGHT(C4:AD4,2))*1,-IFERROR(VALUE(LEFT(C4:AD4,2)),0)+IFERROR(VALUE(RIGHT(C4:AD4,2)),0))"}
+{"id": "fxbench-463", "raw_response": "{\"formula\": \"SUM(B2:B37)\"}", "answer": "SUM(B2:B37)"}
+{"id": "fxbench-464", "raw_response": "{\"formula\": \"=(SUM(N3:N17)/SUM(N2))\"}", "answer": "=(SUM(N3:N17)/SUM(N2))"}
+{"id": "fxbench-465", "raw_response": "{\"formula\": \"SUMPRODUCT(SUMIFS($F$4:$F$23,$D$4:$D$23,TRIM(MID(SUBSTITUTE(SUBSTITUTE(G26,\"\",\"\",),\"\" \"\",REPT(\"\" \"\",9)),{1,2,3,4,5,6}*9,9))))\"}", "answer": null}
+{"id": "fxbench-466", "raw_response": "{\"formula\": \"=$D$39+$D$40\"}", "answer": "=$D$39+$D$40"}
+{"id": "fxbench-467", "raw_response": "{\"formula\": \"=(SUMPRODUCT(--(C2:C15>E8),C2:C15-E8,B2:B15)/SUMPRODUCT(--(C2:C15>E8),B2:B15))\"}", "answer": "=(SUMPRODUCT(--(C2:C15>E8),C2:C15-E8,B2:B15)/SUMPRODUCT(--(C2:C15>E8),B2:B15))"}
+{"id": "fxbench-468", "raw_response": "{\"formula\": \"=$I$7:$I$28\"}", "answer": "=$I$7:$I$28"}
+{"id": "fxbench-469", "raw_response": "{\"formula\": \"=\\\"Top By Center\\\"\"}", "answer": "=\"Top By Center\""}
+{"id": "fxbench-470", "raw_response": "{\"formula\": \"=(B4*(1+C5))\"}", "answer": "=(B4*(1+C5))"}
+{"id": "fxbench-471", "raw_response": "{\"formula\": \"=$C$2\"}", "answer": "=$C$2"}
+{"id": "fxbench-472", "raw_response": "{\"formula\": \"=(B7+(D7*5))\"}", "answer": "=(B7+(D7*5))"}
+{"id": "fxbench-473", "raw_response": "{\"formula\": \"=$G$3\"}", "answer": "=$G$3"}
+{"id": "fxbench-474", "raw_response": "{\"formula\": \"=$A$3+$B$3\"}", "answer": "=$A$3+$B$3"}
+{"id": "fxbench-475", "raw_response": "{\"formula\": \"=$C$1\"}", "answer": "=$C$1"}
+{"id": "fxbench-476", "raw_response": "{\"formula\": \"=\\\"=\\\"&B14\"}", "answer": "=\"=\"&B14"}
+{"id": "fxbench-477", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-478", "raw_response": "{\"formula\": \"=(B10-C10)\"}", "answer": "=(B10-C10)"}
+{"id": "fxbench-479", "raw_response": "{\"formula\": \"XIRR\"}", "answer": "XIRR"}
+{"id": "fxbench-480", "raw_response": "{\"formula\": \"=(F4-E4)/7\"}", "answer": "=(F4-E4)/7"}
+{"id": "fxbench-481", "raw_response": "{\"formula\": \"=(B4-A4)\"}", "answer": "=(B4-A4)"}
+{"id": "fxbench-482", "raw_response": "{\"formula\": \"=$BK5+$BL5*BZ$2\"}", "answer": "=$BK5+$BL5*BZ$2"}
+{"id": "fxbench-483", "raw_response": "{\"formula\": \"WEEKDAY(B12,2)\"}", "answer": "WEEKDAY(B12,2)"}
+{"id": "fxbench-484", "raw_response": "{\"formula\": \"POWER(E7/$B$7,1/E10)-1\"}", "answer": "POWER(E7/$B$7,1/E10)-1"}
+{"id": "fxbench-485", "raw_response": "{\"formula\": \"=(1+B5)^B6\"}", "answer": "=(1+B5)^B6"}
+{"id": "fxbench-486", "raw_response": "{\"formula\": \"=$E$5\"}", "answer": "=$E$5"}
+{"id": "fxbench-487", "raw_response": "{\"formula\": \"=$B$10\"}", "answer": "=$B$10"}
+{"id": "fxbench-488", "raw_response": "{\"formula\": \"=$E2-$H2\"}", "answer": "=$E2-$H2"}
+{"id": "fxbench-489", "raw_response": "{\"formula\": \"=$C$2*2\"}", "answer": "=$C$2*2"}
+{"id": "fxbench-490", "raw_response": "{\"formula\": \"=\\\"==LET(h,D2:F2,t,ANCHORARRAY(D3),REDUCE(h,INDEX(t,,1),LAMBDA(i,a,VSTACK(i,TREND(OFFSET(a,,,,COLUMNS(t)))))))\\\"\"}", "answer": "=\"==LET(h,D2:F2,t,ANCHORARRAY(D3),REDUCE(h,INDEX(t,,1),LAMBDA(i,a,VSTACK(i,TREND(OFFSET(a,,,,COLUMNS(t)))))))\""}
+{"id": "fxbench-491", "raw_response": "{\"formula\": \"=(TAN(E9)-(D1*PI()/180))\"}", "answer": "=(TAN(E9)-(D1*PI()/180))"}
+{"id": "fxbench-492", "raw_response": "{\"formula\": \"LOG(1-H4)\"}", "answer": "LOG(1-H4)"}
+{"id": "fxbench-493", "raw_response": "{\"formula\": \"=(C82*100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "answer": null}
+{"id": "fxbench-494", "raw_response": "{\"formula\": \"=(E18-T18)/E18\"}", "answer": "=(E18-T18)/E18"}
+{"id": "fxbench-495", "raw_response": "{\"formula\": \"DB(E20,F20,G20,1)\"}", "answer": "DB(E20,F20,G20,1)"}
+{"id": "fxbench-496", "raw_response": "{\"formula\": \"=\"\"\"}", "answer": null}
+{"id": "fxbench-497", "raw_response": "{\"formula\": \"=(J3-$M$3)/$L$3\"}", "answer": "=(J3-$M$3)/$L$3"}
+{"id": "fxbench-498", "raw_response": "{\"formula\": \"MEDIAN(B4:F13)\"}", "answer": "MEDIAN(B4:F13)"}
+{"id": "fxbench-499", "raw_response": "{\"formula\": \"=$H$36\"}", "answer": "=$H$36"}
+{"id": "fxbench-500", "raw_response": "{\"formula\": \"=(MAX(B2:S2)-MIN(B2:S2))\"}", "answer": "=(MAX(B2:S2)-MIN(B2:S2))"}
+{"id": "fxbench-501", "raw_response": "{\"formula\": \"=$B$4+$C$4\"}", "answer": "=$B$4+$C$4"}
+{"id": "fxbench-502", "raw_response": "{\"formula\": \"=$B$2\"}", "answer": "=$B$2"}
+{"id": "fxbench-503", "raw_response": "{\"formula\": \"=$BI$5\"}", "answer": "=$BI$5"}

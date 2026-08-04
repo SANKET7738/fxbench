@@ -1,0 +1,27 @@
+[project]
+name = "fxbench-mlops"
+version = "0.1.0"
+description = "Standalone PyTorch inference and SFT/LoRA training for spreadsheet formula completion (fxbench)."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.0.0",
+    "torch>=2.0.0",
+    "transformers>=4.40.0",
+    "trl>=0.15.0",
+    "peft>=0.10.0",
+    "datasets>=3.0.0",
+    "accelerate>=0.30.0",
+    "psutil>=5.9.0",
+]
+
+[project.optional-dependencies]
+deepspeed = ["deepspeed>=0.14.0"]
+all = ["deepspeed>=0.14.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mlops"]

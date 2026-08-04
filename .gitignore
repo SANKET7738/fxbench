@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Generated benchmark data (everything under Assets/ is ignored…
+Assets/*
+# …except the intent-cell annotations and reference evaluations, tracked for reproducibility.
+!Assets/Annotations/
+!Assets/Evaluations/
+!Assets/SampledPredictions/
