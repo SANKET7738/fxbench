@@ -6,6 +6,7 @@ cells, ground-truth formulas, and sanitized workbook snapshots.
 
 - Dataset: [Hugging Face](https://huggingface.co/datasets/sanket-mhatre/fxbench)
 - Paper: *fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets*
+- NeurIPS 2026: [Accepted paper and poster](https://neurips.cc/virtual/2026/poster/139181)
 - Code: [github.com/SANKET7738/fxbench](https://github.com/SANKET7738/fxbench)
 
 The arXiv link and identifier will be added after the preprint is published.
