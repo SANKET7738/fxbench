@@ -9,7 +9,7 @@ from pydantic import Field
 from fxbench.data_models import Benchmark, BenchmarkSpec, Problem
 
 
-DEFAULT_REPO_ID = "FormulaComletion/fxbench"
+DEFAULT_REPO_ID = "sanket-mhatre/fxbench"
 DEFAULT_SPLIT = "train"
 DEFAULT_WORKBOOK_DIR = Path("Assets") / "workbooks"
 REQUIRED_COLUMNS = {
