@@ -74,21 +74,6 @@ local path markers. The benchmark is intended for research on spreadsheet
 formula suggestion and evaluation; it does not guarantee that generated
 formulas are correct or safe for production spreadsheets.
 
-## Citation
-
-If you use FxBench, please cite the accompanying paper. The arXiv identifier
-will be added after publication.
-
-```bibtex
-@article{mhatre2026fxbench,
-  title   = {fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets},
-  author  = {Mhatre, Sanket and Gulwani, Sumit and Le, Vu and Bajpai, Yasharth and Verbruggen, Gust},
-  year    = {2026}
-}
-```
-
-The same citation metadata is available in [`CITATION.cff`](CITATION.cff).
-
 ## Licenses
 
 Source code is released under the [MIT License](LICENSE). The FxBench dataset
