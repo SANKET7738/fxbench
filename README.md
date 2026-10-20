@@ -5,11 +5,9 @@ spreadsheet formula-completion setting. It contains 503 examples with target
 cells, ground-truth formulas, and sanitized workbook snapshots.
 
 - Dataset: [Hugging Face](https://huggingface.co/datasets/sanket-mhatre/fxbench)
-- Paper: *fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets*
+- Paper: [*fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets*](https://arxiv.org/abs/2610.24729) ([PDF](https://arxiv.org/pdf/2610.24729))
 - 🎉 NeurIPS 2026: [Accepted paper and poster](https://neurips.cc/virtual/2026/poster/139181)
 - Code: [github.com/SANKET7738/fxbench](https://github.com/SANKET7738/fxbench)
-
-The arXiv link and identifier will be added after the preprint is published.
 
 ## Setup
 
@@ -81,3 +79,19 @@ Source code is released under the [MIT License](LICENSE). The FxBench dataset
 and benchmark data artifacts are released under
 [CC BY-SA 4.0](DATA_LICENSE.md), including attribution to Sheetpedia. Please
 review both files before redistributing code and data together.
+
+## Citation
+
+If you use FxBench, please cite the [paper](https://arxiv.org/abs/2610.24729):
+
+```bibtex
+@misc{mhatre2026fxbench,
+  title = {{fxBench}: Evaluating and Understanding Formula Suggestions in Spreadsheets},
+  author = {Sanket Mhatre and Sumit Gulwani and Vu Le and Yasharth Bajpai and Gust Verbruggen},
+  year = {2026},
+  eprint = {2610.24729},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
+  url = {https://arxiv.org/abs/2610.24729}
+}
+```
