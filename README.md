@@ -61,23 +61,25 @@ models are shown for reference. Per-example predictions and evaluations are in
 
 | Representation | GPT-5.2 (paper) | Sonnet 4.6 (paper) | GPT-6.2 Astra | Sonnet 5.5 | Gemini 4 Neon | GPT-6.2 Sol | Opus 5.5 | Fable 5.2 | Gemini 4 Argon |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HTML | 58.3 | 60.0 | 72.6 | 67.8 | 69.4 | — | — | — | — |
-| CSV | 49.7 | 53.3 | 73.0 | 64.4 | 68.4 | — | — | — | — |
-| JSON | 56.9 | 60.4 | 72.0 | 67.8 | 69.4 | — | — | — | — |
-| Markdown | 53.3 | 54.7 | 73.6 | 66.6 | 69.0 | — | — | — | — |
-| Pipe-delimited | 58.8 | 59.8 | 73.4 | 65.4 | 69.2 | 69.6 | 67.4 | 68.6 | 61.0 |
-| Viewport | 56.9 | 58.4 | 68.8 | 61.6 | 65.2 | 66.2 | 63.6 | 65.0 | 57.3 |
-| SpreadsheetCoder | 52.9 | 57.1 | 67.6 | 59.4 | 63.2 | — | — | — | — |
-| SheetCompressor | 54.7 | 50.7 | 70.6 | 62.4 | 67.2 | — | — | — | — |
-| Minisheet | 42.3 | 49.7 | 67.4 | 58.4 | 61.8 | 64.4 | 65.8 | 64.4 | 52.7 |
+| HTML | 58.3 | 60.0 | 72.6 | 66.8 | 69.4 | 70.0 | 69.4 | 70.0 | 63.4 |
+| CSV | 49.7 | 53.3 | 73.0 | 60.4 | 68.6 | 67.8 | 67.4 | 67.8 | 63.6 |
+| JSON | 56.9 | 60.4 | 72.2 | 65.6 | 69.2 | 70.4 | 68.4 | 69.4 | 62.4 |
+| Markdown | 53.3 | 54.7 | 73.6 | 65.4 | 68.2 | 69.6 | 67.8 | 68.8 | 61.2 |
+| Pipe-delimited | 58.8 | 59.8 | 73.4 | 65.8 | 69.0 | 69.8 | 67.6 | 68.2 | 62.8 |
+| Viewport | 56.9 | 58.4 | 68.8 | 61.6 | 64.4 | 66.2 | 64.4 | 65.8 | 58.3 |
+| SpreadsheetCoder | 52.9 | 57.1 | 67.8 | 57.7 | 61.2 | 63.8 | 62.0 | 64.4 | 54.5 |
+| SheetCompressor | 54.7 | 50.7 | 70.6 | 62.6 | 67.8 | 67.0 | 65.8 | 66.8 | 58.1 |
+| Minisheet | 42.3 | 49.7 | 67.4 | 55.7 | 61.6 | 64.4 | 64.4 | 63.0 | 55.7 |
 
 Oracle ladder (ACC, %):
 
 | Oracle variant | GPT-5.2 (paper) | GPT-6.2 Astra |
 |---|---:|---:|
 | Base oracle | 66.2 | 78.9 |
-| All signals | 76.9 | 89.7 |
+| All signals | 76.9 | 89.9 |
 | All signals + NL | 97.2 | 98.8 |
+
+Run settings, failure counts and parity checks are in [`RUNS.md`](RUNS.md).
 
 ## Repository structure
 
